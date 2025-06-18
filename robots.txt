@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iter8ing.github.io/iterating/sitemap.xml
