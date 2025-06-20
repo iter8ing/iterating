@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Iterating",
     "description": "",
-    "home_page_url": "https://iter8ing.github.io/iterating",
-    "feed_url": "https://iter8ing.github.io/iterating/feed.json",
+    "home_page_url": "https://iterating.com",
+    "feed_url": "https://iterating.com/feed.json",
     "user_comment": "",
-    "icon": "https://iter8ing.github.io/iterating/media/website/Iterating.png",
+    "icon": "https://iterating.com/media/website/Iterating.png",
     "author": {
         "name": "Iterating"
     },
