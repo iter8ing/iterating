@@ -10,19 +10,5 @@
         "name": "Iterating"
     },
     "items": [
-        {
-            "id": "https://iterating.com/where-to-start/",
-            "url": "https://iterating.com/where-to-start/",
-            "title": "Where to Start",
-            "summary": "The best place to start is at the beginning. But let's start&hellip;",
-            "content_html": "<p>The best place to start is at the beginning. But let's start here:</p>\n<p>I'm lucky to be alive.</p>\n<p> </p>\n<p> </p>",
-            "author": {
-                "name": "Iterating"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-01T18:49:02-04:00",
-            "date_modified": "2025-07-01T18:50:27-04:00"
-        }
     ]
 }
