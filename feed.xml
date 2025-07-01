@@ -3,30 +3,10 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-07-01T19:03:12-04:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Iterating</name>
     </author>
     <id>https://iterating.com</id>
 
-    <entry>
-        <title>Testing</title>
-        <author>
-            <name>Iterating</name>
-        </author>
-        <link href="https://iterating.com/testing/"/>
-        <id>https://iterating.com/testing/</id>
-
-        <updated>2025-07-01T19:03:12-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hello.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
