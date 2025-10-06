@@ -3,67 +3,14 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-05T19:34:32-04:00</updated>
+    <updated>2025-10-06T00:13:13-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
     <entry>
-        <title>Words</title>
-        <author>
-            <name>Alex Chung</name>
-        </author>
-        <link href="https://iterating.com/word/"/>
-        <id>https://iterating.com/word/</id>
-
-        <updated>2025-10-05T19:02:16-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I don't know how you found me. But I am glad&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I don't know how you found me. But I am glad you did (I think). I don't market but I'm a marketer. I am a lawyer but I haven't practiced in years. I can sell but I never want to. One thing I am certain of is I love to write. Or I used to. Before I almost died.</p>
-<p>Have you ever done that? Almost die? It stays with you. In a good way.</p>
-<p>I'm a word nerd. I love words. And if you searched for "iterating.com" and found me that way, you're probably a nerd, too, of some sort. Welcome.</p>
-<p>Right now, I've reduced my life to two words: Iterating + Actualization.</p>
-<p>The process that leads to the infinite.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>This is my blog (I think)</title>
-        <author>
-            <name>Alex Chung</name>
-        </author>
-        <link href="https://iterating.com/this-is-my-blog-i-think/"/>
-        <id>https://iterating.com/this-is-my-blog-i-think/</id>
-
-        <updated>2025-10-05T18:56:31-04:00</updated>
-            <summary>
-                <![CDATA[
-                    What in the heck is going on here? How many words&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>What in the heck is going on here?</p>
-<p>How many words can I type?</p>
-<p>Testing.</p>
-<p>123.</p>
-<p>This thing on?</p>
-<p>Check.</p>
-<p>Jibberish.</p>
-<p>More jibberish.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hello</title>
+        <title>Second Chances</title>
         <author>
             <name>Alex Chung</name>
         </author>
@@ -73,12 +20,12 @@
         <updated>2025-10-05T18:55:03-04:00</updated>
             <summary>
                 <![CDATA[
-                    Is it me you're looking for?
+                    I wrote a lot a long time ago. Not so much&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Is it me you're looking for?</p>
+                <p>I wrote a lot a long time ago. Not so much anymore. Maybe that changes.</p>
             ]]>
         </content>
     </entry>

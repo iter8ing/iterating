@@ -10,46 +10,18 @@
     },
     "items": [
         {
-            "id": "https://iterating.com/word/",
-            "url": "https://iterating.com/word/",
-            "title": "Words",
-            "summary": "I don't know how you found me. But I am glad&hellip;",
-            "content_html": "<p>I don't know how you found me. But I am glad you did (I think). I don't market but I'm a marketer. I am a lawyer but I haven't practiced in years. I can sell but I never want to. One thing I am certain of is I love to write. Or I used to. Before I almost died.</p>\n<p>Have you ever done that? Almost die? It stays with you. In a good way.</p>\n<p>I'm a word nerd. I love words. And if you searched for \"iterating.com\" and found me that way, you're probably a nerd, too, of some sort. Welcome.</p>\n<p>Right now, I've reduced my life to two words: Iterating + Actualization.</p>\n<p>The process that leads to the infinite.</p>\n<p> </p>",
-            "author": {
-                "name": "Alex Chung"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-05T19:02:16-04:00",
-            "date_modified": "2025-10-05T19:34:32-04:00"
-        },
-        {
-            "id": "https://iterating.com/this-is-my-blog-i-think/",
-            "url": "https://iterating.com/this-is-my-blog-i-think/",
-            "title": "This is my blog (I think)",
-            "summary": "What in the heck is going on here? How many words&hellip;",
-            "content_html": "<p>What in the heck is going on here?</p>\n<p>How many words can I type?</p>\n<p>Testing.</p>\n<p>123.</p>\n<p>This thing on?</p>\n<p>Check.</p>\n<p>Jibberish.</p>\n<p>More jibberish.</p>\n<p> </p>",
-            "author": {
-                "name": "Alex Chung"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-05T18:56:31-04:00",
-            "date_modified": "2025-10-05T18:56:31-04:00"
-        },
-        {
             "id": "https://iterating.com/hello/",
             "url": "https://iterating.com/hello/",
-            "title": "Hello",
-            "summary": "Is it me you're looking for?",
-            "content_html": "<p>Is it me you're looking for?</p>",
+            "title": "Second Chances",
+            "summary": "I wrote a lot a long time ago. Not so much&hellip;",
+            "content_html": "<p>I wrote a lot a long time ago. Not so much anymore. Maybe that changes.</p>",
             "author": {
                 "name": "Alex Chung"
             },
             "tags": [
             ],
             "date_published": "2025-10-05T18:55:03-04:00",
-            "date_modified": "2025-10-05T18:55:03-04:00"
+            "date_modified": "2025-10-06T00:13:13-04:00"
         }
     ]
 }
