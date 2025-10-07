@@ -3,12 +3,36 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-06T00:13:13-04:00</updated>
+    <updated>2025-10-06T20:20:28-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Repetitions</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/repetitions/"/>
+        <id>https://iterating.com/repetitions/</id>
+
+        <updated>2025-10-06T20:20:28-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Got to get my reps in. Exercise my fingers. Click clack.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Got to get my reps in. Exercise my fingers. Click clack. Click clack.</p>
+<p>Day two. Entry two.</p>
+<p>Make writing every day a habit.</p>
+<p>Mental note: remember those who join gyms in January, train every day for two weeks, and never return.</p>
+<p>We are, like all things, in this for the long game.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Second Chances</title>
         <author>
