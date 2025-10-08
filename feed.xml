@@ -3,12 +3,37 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-07T14:50:27-04:00</updated>
+    <updated>2025-10-07T22:56:14-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Two-A-Days</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/two-a-days/"/>
+        <id>https://iterating.com/two-a-days/</id>
+
+        <updated>2025-10-07T22:56:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Yeah, yeah. I'm excited. Want to create as many entries as&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Yeah, yeah. I'm excited. Want to create as many entries as I can to see how they stack.</p>
+<p>Nothing to see here. No one's looking anyway.</p>
+<p>I hope. You looking? Blog looker.</p>
+<p>These are the ramblings of a guy who has nothing really to say.</p>
+<p>Other than: Thank You.</p>
+<p>Can I still write? </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kicking the Door Down</title>
         <author>
