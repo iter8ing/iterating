@@ -3,12 +3,37 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-08T20:27:17-04:00</updated>
+    <updated>2025-10-09T18:59:40-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Dragon, Fly</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/dragon-fly/"/>
+        <id>https://iterating.com/dragon-fly/</id>
+
+        <updated>2025-10-09T18:59:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Did you know that dragonflies spend most of their lives underwater?&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Did you know that dragonflies spend most of their lives underwater?</p>
+<p>Years. </p>
+<p>They only spend a few weeks flying around. As the dragonflies we know and love.</p>
+<p>How wonderful. You spend your whole life swimming.</p>
+<p>Then, in your golden years, you emerge.</p>
+<p>Fly, dragon, fly.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Iterate You Say</title>
         <author>
