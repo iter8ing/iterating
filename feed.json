@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/iterate-you-say/",
+            "url": "https://iterating.com/iterate-you-say/",
+            "title": "Iterate You Say",
+            "summary": "Been thinking a lot about time. Time as currency. Time as&hellip;",
+            "content_html": "<p>Been thinking a lot about time.</p>\n<p>Time as currency.</p>\n<p>Time as wealth.</p>\n<p>And how the richest of us have decades, even a century, ahead of us.</p>\n<p>And how we punish people with prison terms measured in time. How we punish by taking their time away. It's the ultimate penalty. Taking away time.</p>\n<p>And how so many of us waste our time.</p>\n<p>Like self-imposed prison sentences.</p>\n<p>And I wrestle with this, as a man who believes in playing the long game.</p>\n<p>Patience while enjoying the moment. Delaying gratification but finding it gratifying to do so. Tapping infinity in a second. Over and over.</p>\n<p> </p>",
+            "author": {
+                "name": "Alex Chung"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-08T20:27:17-04:00",
+            "date_modified": "2025-10-08T20:27:17-04:00"
+        },
+        {
             "id": "https://iterating.com/the-good/",
             "url": "https://iterating.com/the-good/",
             "title": "The Good",

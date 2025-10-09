@@ -3,12 +3,41 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-08T20:09:17-04:00</updated>
+    <updated>2025-10-08T20:27:17-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Iterate You Say</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/iterate-you-say/"/>
+        <id>https://iterating.com/iterate-you-say/</id>
+
+        <updated>2025-10-08T20:27:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Been thinking a lot about time. Time as currency. Time as&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Been thinking a lot about time.</p>
+<p>Time as currency.</p>
+<p>Time as wealth.</p>
+<p>And how the richest of us have decades, even a century, ahead of us.</p>
+<p>And how we punish people with prison terms measured in time. How we punish by taking their time away. It's the ultimate penalty. Taking away time.</p>
+<p>And how so many of us waste our time.</p>
+<p>Like self-imposed prison sentences.</p>
+<p>And I wrestle with this, as a man who believes in playing the long game.</p>
+<p>Patience while enjoying the moment. Delaying gratification but finding it gratifying to do so. Tapping infinity in a second. Over and over.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Good</title>
         <author>
