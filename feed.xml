@@ -3,12 +3,43 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-07T23:18:44-04:00</updated>
+    <updated>2025-10-08T20:01:27-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>The Good</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/the-good/"/>
+        <id>https://iterating.com/the-good/</id>
+
+        <updated>2025-10-08T20:01:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                    When I was a kid, we rooted for the good guys.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When I was a kid, we rooted for the good guys.</p>
+<p>The heroes.</p>
+<p>The ones who saved people. Beat up villains.</p>
+<p>And it was clear. It was clear who the heroes were. And who the villains were.</p>
+<p>And today, to me, it's not as clear.</p>
+<p>You live long enough, stuff turns upside down.</p>
+<p>Who are your heroes?</p>
+<p>Who are your villains?</p>
+<p>Who is the best person you know? Not talking fame, wealth, or power.</p>
+<p>Who has the best heart? Who is bravest? Who do you love the most?</p>
+<p>Is it still cool to be good?</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>It&#x27;s Not Business, It&#x27;s Personal</title>
         <author>
