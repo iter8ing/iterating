@@ -3,12 +3,38 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-11T16:29:51-04:00</updated>
+    <updated>2025-10-11T17:27:48-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Grandmentor</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/grandmentor/"/>
+        <id>https://iterating.com/grandmentor/</id>
+
+        <updated>2025-10-11T17:25:21-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Remember in those old Kung Fu movies, the old guy? Long,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Remember in those old Kung Fu movies, the old guy?</p>
+<p>Long, silvery hair, fu manchu, could float on clouds and ride lightning bolts.</p>
+<p>Never the main character, just the Grandmaster the star needs to meet to beat the main bad guy.</p>
+<p>A little mean. A little eccentric. A little ethereal.</p>
+<p>There's marketing that says everyone wants to be the hero, but you get paid the most for being the mentor. The guide.</p>
+<p>If you're into that.</p>
+<p>Me? I like riding lightning bolts.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chopping Down Mountains with the Edge of My Hand</title>
         <author>
@@ -261,26 +287,6 @@
 <p>Make writing every day a habit.</p>
 <p>Mental note: remember those who join gyms in January, train every day for two weeks, and never return.</p>
 <p>We are, like all things, in this for the long game.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Second Chances</title>
-        <author>
-            <name>Alex Chung</name>
-        </author>
-        <link href="https://iterating.com/hello/"/>
-        <id>https://iterating.com/hello/</id>
-
-        <updated>2025-10-05T18:55:03-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I wrote a lot a long time ago. Not so much&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I wrote a lot a long time ago. Not so much anymore. Maybe that changes.</p>
             ]]>
         </content>
     </entry>
