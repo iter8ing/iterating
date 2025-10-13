@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/who-the/",
+            "url": "https://iterating.com/who-the/",
+            "title": "Who The?",
+            "summary": "There's no greater (I'm sure there is, but this is how&hellip;",
+            "content_html": "<p>There's no greater (I'm sure there is, but this is how I talk) sign you're getting old than when you don't recognize someone who is now famous.</p>\n<p>Who's that? Huh? </p>\n<p>I'm getting that a lot now in my brain. </p>\n<p>I couldn't tell you a star from an ad. Has it always been just marketing budget?</p>\n<p>The boy bands from my youth all had music videos where hired flocks of girls ran after them. This was before they actually were famous. After the video? Girls actually did run after them. But only after seeing others do it on the video. Monkey see.</p>\n<p>Do you see that now? Anywhere?</p>\n<p>Is it, and has it always been, all about marketing?</p>\n<p>The line between scams and gurus seems blurred. Razor, razor, thin at its widest.</p>\n<p>You know: The get rich quick folks whose plan is really getting you to pay them (and fast!).</p>\n<p>It's get rich quick <em>for them</em>. The supercars are leased, btw. The mansion, rented.</p>\n<p>I don't know who's famous these days.</p>\n<p>Everybody is suspect at best.</p>\n<p>Yeah, I'm getting old.</p>\n<p>Oh, and be careful with that social media. It ain't never been social.</p>\n<p>Just media.</p>\n<p> </p>",
+            "author": {
+                "name": "Alex Chung"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-13T15:17:56-04:00",
+            "date_modified": "2025-10-13T15:17:56-04:00"
+        },
+        {
             "id": "https://iterating.com/i-been-here-for-years/",
             "url": "https://iterating.com/i-been-here-for-years/",
             "title": "I Been Here For Years",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-07T23:18:44-04:00",
             "date_modified": "2025-10-08T20:09:17-04:00"
-        },
-        {
-            "id": "https://iterating.com/two-a-days/",
-            "url": "https://iterating.com/two-a-days/",
-            "title": "Two-A-Days",
-            "summary": "Yeah, yeah. I'm excited. Want to create as many entries as&hellip;",
-            "content_html": "<p>Yeah, yeah. I'm excited. Want to create as many entries as I can to see how they stack.</p>\n<p>Nothing to see here. No one's looking anyway.</p>\n<p>I hope. You looking? Blog looker.</p>\n<p>These are the ramblings of a guy who has nothing really to say.</p>\n<p>Other than: Thank You.</p>\n<p>Can I still write? </p>",
-            "author": {
-                "name": "Alex Chung"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-07T22:56:14-04:00",
-            "date_modified": "2025-10-07T22:56:14-04:00"
         }
     ]
 }

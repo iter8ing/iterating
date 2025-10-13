@@ -3,12 +3,47 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-12T20:25:37-04:00</updated>
+    <updated>2025-10-13T15:17:56-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Who The?</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/who-the/"/>
+        <id>https://iterating.com/who-the/</id>
+
+        <updated>2025-10-13T15:17:56-04:00</updated>
+            <summary>
+                <![CDATA[
+                    There's no greater (I'm sure there is, but this is how&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>There's no greater (I'm sure there is, but this is how I talk) sign you're getting old than when you don't recognize someone who is now famous.</p>
+<p>Who's that? Huh? </p>
+<p>I'm getting that a lot now in my brain. </p>
+<p>I couldn't tell you a star from an ad. Has it always been just marketing budget?</p>
+<p>The boy bands from my youth all had music videos where hired flocks of girls ran after them. This was before they actually were famous. After the video? Girls actually did run after them. But only after seeing others do it on the video. Monkey see.</p>
+<p>Do you see that now? Anywhere?</p>
+<p>Is it, and has it always been, all about marketing?</p>
+<p>The line between scams and gurus seems blurred. Razor, razor, thin at its widest.</p>
+<p>You know: The get rich quick folks whose plan is really getting you to pay them (and fast!).</p>
+<p>It's get rich quick <em>for them</em>. The supercars are leased, btw. The mansion, rented.</p>
+<p>I don't know who's famous these days.</p>
+<p>Everybody is suspect at best.</p>
+<p>Yeah, I'm getting old.</p>
+<p>Oh, and be careful with that social media. It ain't never been social.</p>
+<p>Just media.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I Been Here For Years</title>
         <author>
@@ -280,31 +315,6 @@
 <p>I'm not saying I'm crazy (I'll leave the middle-aged part alone), but the things I've done in my life probably only would make sense to few.</p>
 <p>I'm being vague purposefully. I don't know how much I want to share. But it's always been personal, never business.</p>
 <p>At least with me. Always personal.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Two-A-Days</title>
-        <author>
-            <name>Alex Chung</name>
-        </author>
-        <link href="https://iterating.com/two-a-days/"/>
-        <id>https://iterating.com/two-a-days/</id>
-
-        <updated>2025-10-07T22:56:14-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Yeah, yeah. I'm excited. Want to create as many entries as&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Yeah, yeah. I'm excited. Want to create as many entries as I can to see how they stack.</p>
-<p>Nothing to see here. No one's looking anyway.</p>
-<p>I hope. You looking? Blog looker.</p>
-<p>These are the ramblings of a guy who has nothing really to say.</p>
-<p>Other than: Thank You.</p>
-<p>Can I still write? </p>
             ]]>
         </content>
     </entry>
