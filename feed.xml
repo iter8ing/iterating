@@ -3,12 +3,42 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-12T17:25:17-04:00</updated>
+    <updated>2025-10-12T20:21:15-04:00</updated>
     <author>
         <name>Alex Chung</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>I Been Here For Years</title>
+        <author>
+            <name>Alex Chung</name>
+        </author>
+        <link href="https://iterating.com/i-been-here-for-years/"/>
+        <id>https://iterating.com/i-been-here-for-years/</id>
+
+        <updated>2025-10-12T20:21:15-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Ever heard of Kintsugi? It's popping up more and more lately.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ever heard of Kintsugi?</p>
+<p>It's popping up more and more lately. It's a Japanese thing. Where they take broken pottery and repair it using precious metals, like gold.</p>
+<p>The idea is that rather than fixing it and hiding the repairs and making it look new again, you highlight the flaws and turn them into the focal point. Beauty in the once broken.</p>
+<p>You treat the damage and its solution as part of the pottery's story. Hurt and heal.</p>
+<p>As you might expect, this has become a popular idea for life and business.</p>
+<p>Taking your scars and showing them off. Letting it shine as part of your story. Everyone breaks. Some of us build back stronger than ever.</p>
+<p>Nobody likes a story where a guy starts out perfect and stays perfect.</p>
+<p>Everybody loves comebacks, kid.</p>
+<p>But don't call it that.</p>
+<p>You been here for years.</p>
+<p>To the beautifully broken.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Marriage (In A Nutshell)</title>
         <author>
@@ -274,28 +304,6 @@
 <p>These are the ramblings of a guy who has nothing really to say.</p>
 <p>Other than: Thank You.</p>
 <p>Can I still write? </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kicking the Door Down</title>
-        <author>
-            <name>Alex Chung</name>
-        </author>
-        <link href="https://iterating.com/kicking-the-door-down/"/>
-        <id>https://iterating.com/kicking-the-door-down/</id>
-
-        <updated>2025-10-07T14:48:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I recognize this is just blabbering. These are new digs for&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I recognize this is just blabbering. These are new digs for me. A new frame. Just wondering what happens when I flip this switch and plug a new thing in.</p>
-<p>Will it hold up? Has so far. I like it. </p>
-<p> </p>
             ]]>
         </content>
     </entry>
