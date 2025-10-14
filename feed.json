@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/alphanumeric/",
+            "url": "https://iterating.com/alphanumeric/",
+            "title": "Alphanumeric",
+            "summary": "In the world I come from, nicknames are bestowed upon you.",
+            "content_html": "<p>In the world I come from, nicknames are bestowed upon you. You can never give yourself a nickname. You have to earn it, good or bad.</p>\n<p>And I got a problem with that.</p>\n<p>I mean, we come into this world pre-named already.</p>\n<p>Why can't we name ourselves?</p>\n<p>Who makes these dang rules we live by?</p>\n<p>So, anyways, that's what I do from time to time. Rename myself.</p>\n<p>Try out new nicknames.</p>\n<p>And while we're at it. Call 'em by your first name-names. Alnames. Why does Nick get all the glory?</p>\n<p>AL8X</p>",
+            "author": {
+                "name": "Alex Chung"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-14T14:16:35-04:00",
+            "date_modified": "2025-10-14T14:16:35-04:00"
+        },
+        {
             "id": "https://iterating.com/who-the/",
             "url": "https://iterating.com/who-the/",
             "title": "Who The?",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-08T20:01:27-04:00",
             "date_modified": "2025-10-10T18:14:22-04:00"
-        },
-        {
-            "id": "https://iterating.com/its-not-business-its-personal/",
-            "url": "https://iterating.com/its-not-business-its-personal/",
-            "title": "It&#x27;s Not Business, It&#x27;s Personal",
-            "summary": "So this is going to be a personal thing. And as&hellip;",
-            "content_html": "<p>So this is going to be a personal thing. And as a private person, the question then becomes: How personal do I want to get?</p>\n<p>Where am I right now?</p>\n<p>I'm good. I'm really good. Lucky. Blessed.</p>\n<p>It wasn't always this way. Or maybe it was, but I didn't see it.</p>\n<p>I see now.</p>\n<p>They say youth is wasted on the young. But maybe it really is wisdom wasted on the old.</p>\n<p>I sure am wiser than I used to be. But maybe I'm just getting old.</p>\n<p>In the 80s, there was this curmudgeon of a wrestler named Terry Funk, a Texas cowboy heel who they would call \"Middle-Aged and Crazy!\" He used to brand our heroes with an iron from his ranch and swing his fists at ghosts. I used to love to hate him.</p>\n<p>But he makes more sense to me, now.</p>\n<p>I'm not saying I'm crazy (I'll leave the middle-aged part alone), but the things I've done in my life probably only would make sense to few.</p>\n<p>I'm being vague purposefully. I don't know how much I want to share. But it's always been personal, never business.</p>\n<p>At least with me. Always personal.</p>",
-            "author": {
-                "name": "Alex Chung"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-07T23:18:44-04:00",
-            "date_modified": "2025-10-08T20:09:17-04:00"
         }
     ]
 }
