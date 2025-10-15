@@ -3,12 +3,41 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-14T14:26:15-04:00</updated>
+    <updated>2025-10-15T17:47:20-04:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Saxy</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/saxy/"/>
+        <id>https://iterating.com/saxy/</id>
+
+        <updated>2025-10-15T17:47:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                    There's something about live music. Say what you want about studio&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>There's something about live music.</p>
+<p>Say what you want about studio albums, but for me, all the juice is in live performances.</p>
+<p>I'm not saying you have to be there, in person, especially since I'm writing to you from a digital stage.</p>
+<p>Live albums, with their slight to major differences from the studio version, make it or break it for me.</p>
+<p>And as an 80s kid, I love me some saxophone solos. Especially the minutes long versions that can only really play in a live album.</p>
+<p>It's harder and harder to find a good sax solo. If only there was a way to have access to an entire historical archive of music, live and studio.</p>
+<p>Oh right.</p>
+<p>Music is a time machine. But it doesn't always have to go back. I think, though, it's the closest we can get to our past.</p>
+<p>Nostalgic notes. Liner notes. </p>
+<p>So saxy.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Alphanumeric</title>
         <author>
@@ -280,38 +309,6 @@
 <p>Like self-imposed prison sentences.</p>
 <p>And I wrestle with this, as a man who believes in playing the long game.</p>
 <p>Patience while enjoying the moment. Delaying gratification but finding it gratifying to do so. Tapping infinity in a second. Over and over.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Good</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/the-good/"/>
-        <id>https://iterating.com/the-good/</id>
-
-        <updated>2025-10-08T20:01:27-04:00</updated>
-            <summary>
-                <![CDATA[
-                    When I was a kid, we rooted for the good guys.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>When I was a kid, we rooted for the good guys.</p>
-<p>The heroes.</p>
-<p>The ones who saved people. Beat up villains.</p>
-<p>And it was clear. It was clear who the heroes were. And who the villains were.</p>
-<p>And today, to me, it's not as clear.</p>
-<p>You live long enough, stuff turns upside down.</p>
-<p>Who are your heroes?</p>
-<p>Who are your villains?</p>
-<p>Who is the best person you know? Not talking fame, wealth, or power.</p>
-<p>Who has the best heart? Who is bravest? Who do you love the most?</p>
-<p>Is it still cool to be good?</p>
-<p>And would anyone, anyone in the world, say the best person they know is you?</p>
 <p> </p>
             ]]>
         </content>
