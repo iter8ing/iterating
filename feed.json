@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/caged-or-free/",
+            "url": "https://iterating.com/caged-or-free/",
+            "title": "Caged or Free",
+            "summary": "I remember once, chatting with an old school litigator from a&hellip;",
+            "content_html": "<p>I remember once, chatting with an old school litigator from a big firm, when we were on a break. And the topic came up that I was into mixed martial arts, training Muay Thai and whatever. And this old lion shared that he represented one of the most famous fighters in the all the land. </p>\n<p>Surprised, I asked him the only thing I could think to ask. \"Is he a good guy?\"</p>\n<p>And he said, \"Alex, he is either the smartest man I have ever met, or the dumbest.\"</p>\n<p>And I rolled.</p>\n<p>What an answer.</p>\n<p>I've never heard an answer quite like it. And I don't think I ever will.</p>\n<p>It spoke a lot of the old lion to give the guy the benefit of the doubt, kinda like we used to say crazy like a fox. Maybe there's a glimmer of shrewdness in someone's blank stare.</p>\n<p>Or maybe, they just took too many to the golden dome.</p>\n<p>To old lions. Caged or free.</p>\n<p> </p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-16T15:06:39-04:00",
+            "date_modified": "2025-10-16T15:06:39-04:00"
+        },
+        {
             "id": "https://iterating.com/saxy/",
             "url": "https://iterating.com/saxy/",
             "title": "Saxy",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-09T18:59:40-04:00",
             "date_modified": "2025-10-09T19:10:32-04:00"
-        },
-        {
-            "id": "https://iterating.com/iterate-you-say/",
-            "url": "https://iterating.com/iterate-you-say/",
-            "title": "Iterate You Say",
-            "summary": "Been thinking a lot about time. Time as currency. Time as&hellip;",
-            "content_html": "<p>Been thinking a lot about time.</p>\n<p>Time as currency.</p>\n<p>Time as wealth.</p>\n<p>And how the richest of us have decades, even a century, ahead of us.</p>\n<p>And how we punish people with prison terms measured in time. How we punish by taking their time away. It's the ultimate penalty. Taking away time.</p>\n<p>And how so many of us waste our time.</p>\n<p>Like self-imposed prison sentences.</p>\n<p>And I wrestle with this, as a man who believes in playing the long game.</p>\n<p>Patience while enjoying the moment. Delaying gratification but finding it gratifying to do so. Tapping infinity in a second. Over and over.</p>\n<p> </p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-08T20:27:17-04:00",
-            "date_modified": "2025-10-08T20:27:17-04:00"
         }
     ]
 }
