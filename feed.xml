@@ -3,12 +3,42 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-16T15:35:06-04:00</updated>
+    <updated>2025-10-17T18:16:28-04:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>It&#x27;s A Good Deal</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/its-a-good-deal/"/>
+        <id>https://iterating.com/its-a-good-deal/</id>
+
+        <updated>2025-10-17T18:06:26-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I admit it, I love buying the best tech. And best&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I admit it, I love buying the best tech. </p>
+<p>And best usually means expensive.</p>
+<p>But is that changing/changed?</p>
+<p>You can find really good stuff now that's a downright bargain, especially in electronics. </p>
+<p>Heck, if you can wait, buying older but still viable tech is a downright steal.</p>
+<p>And you know, I love a good deal.</p>
+<p>There's lots of companies in the tech space producing excellent products and services for a wonderful price.</p>
+<p>The floor is rising on performance. But the price is staying (relatively) in the basement.</p>
+<p>Affordability increases opportunity.</p>
+<p>Does good and cheap now beat the best and pricey?</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Black Gloves and White Shoes</title>
         <author>
@@ -283,33 +313,6 @@
 <p>Anyways, that's my theory.</p>
 <p>What's the picture people will remember you by? You then? You now? Or you later?</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Dragon, Fly</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/dragon-fly/"/>
-        <id>https://iterating.com/dragon-fly/</id>
-
-        <updated>2025-10-09T18:59:40-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Did you know that dragonflies spend most of their lives swimming?&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Did you know that dragonflies spend most of their lives swimming?</p>
-<p>Years. </p>
-<p>They only live a few weeks above water and flying around. As the dragonflies we know and love.</p>
-<p>Imagine that. You spend your whole life underwater.</p>
-<p>Thinking that is the whole world.</p>
-<p>Then, in your golden years, you emerge. In a whole new world.</p>
-<p>As a whole new creation.</p>
-<p>Fly, dragon, fly.</p>
             ]]>
         </content>
     </entry>
