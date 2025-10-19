@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/bet/",
+            "url": "https://iterating.com/bet/",
+            "title": "Bet",
+            "summary": "Guys like to gamble. I generalize, but we do. And the&hellip;",
+            "content_html": "<p>Guys like to gamble. I generalize, but we do.</p>\n<p>And the most common ways are to bet on yourself, bet on future outcomes, and bet on things to go up (or down).</p>\n<p>Unfortunately, social class only changes the type of wagering people do.</p>\n<p>From the scratch-offs at your local gas station to picking football champions, everyone seems to have something they stake their hard earned money into for the small chance of multiplying their input.</p>\n<p>The best kind of wager is something called an asymmetric bet.</p>\n<p>It's usually because you hold an edge in knowledge. And take a relatively small risk for an often exponential potential output.</p>\n<p>But rather than the traditionally proportionately small chance of winning, an asymmetric bet gives you a higher than predicted success rate.</p>\n<p>So, still the same moonshots, but with a greater chance of hitting.</p>\n<p>We all should know the best gambles are those we take in ourselves. We are asymmetric gambles. A little bit of time and attention can yield lifelong rewards.</p>\n<p>I used to be the all in guy. I'd follow Rudyard Kipling's advice. </p>\n<p>But I'm old(er) now. </p>\n<p>No more risking it all on one turn of pitch-and-toss.</p>\n<p>Instead, I look for unbalanced ideas and investments of time and attention. There are so many out there. </p>\n<p>To asymmetric opportunities and outcomes and those who still believe in them.</p>\n<p>Ours is the world.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-19T17:49:26-04:00",
+            "date_modified": "2025-10-19T17:49:26-04:00"
+        },
+        {
             "id": "https://iterating.com/danger-danger/",
             "url": "https://iterating.com/danger-danger/",
             "title": "Danger Danger",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-11T17:25:21-04:00",
             "date_modified": "2025-10-12T17:25:17-04:00"
-        },
-        {
-            "id": "https://iterating.com/chopping-down-mountains-with-the-edge-of-my-hand/",
-            "url": "https://iterating.com/chopping-down-mountains-with-the-edge-of-my-hand/",
-            "title": "Chopping Down Mountains with the Edge of My Hand",
-            "summary": "You know, professional fighters and wrestlers are lucky. They get entrance&hellip;",
-            "content_html": "<p>You know, professional fighters and wrestlers are lucky.</p>\n<p>They get entrance songs. </p>\n<p>I suppose baseball players get walk-up music. And relief pitchers get a song.</p>\n<p>But Bill in accounting doesn't. </p>\n<p>Or Fred in legal.</p>\n<p>And you know what?</p>\n<p>Maybe they should.</p>\n<p>All of that to say, what's your entrance song?</p>\n<p>What you rocking to the ring or cage?</p>\n<p>I've always been partial to Monster Magnet's \"Space Lord\" -- but then there's Hendrix.</p>\n<p>High quality problem, picking out your entrance song.</p>\n<p>Too many to choose from.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-11T16:29:51-04:00",
-            "date_modified": "2025-10-11T16:29:51-04:00"
         }
     ]
 }
