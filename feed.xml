@@ -3,12 +3,39 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-19T20:05:58-04:00</updated>
+    <updated>2025-10-20T14:35:32-04:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Hippos</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/hippos/"/>
+        <id>https://iterating.com/hippos/</id>
+
+        <updated>2025-10-20T14:35:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Have you ever run into someone who recommended a book, like&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Have you ever run into someone who recommended a book, like highly, and then you read the book, only to have come to the conclusion that the person recommending this book does nothing (and quite the opposite) the book recommends?</p>
+<p>I'm talking books that range as high as the Bible to as low as the latest hyped best seller in self-help / business. </p>
+<p>"Oh you gotta read this."</p>
+<p>You do. And then you think. Huh. Is this opposite day?</p>
+<p>People who portray themselves as one thing, who purport to follow a certain way, have to face a cold reality that the ones who truly know them, who are closest to them, know whether it's all congruent with their true nature -- or just a way to posture.</p>
+<p>And it's always the ones you suspect the most.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bet</title>
         <author>
@@ -292,33 +319,6 @@
 <p>Wife (seeing a close-up): "It is!"</p>
 <p>Another day in paradise.</p>
 <p>And I mean it.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Grandmentor</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/grandmentor/"/>
-        <id>https://iterating.com/grandmentor/</id>
-
-        <updated>2025-10-11T17:25:21-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Remember in those Saturday morning Kung Fu movies, the old guy?&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Remember in those Saturday morning Kung Fu movies, the old guy?</p>
-<p>Long, silvery hair, fu manchu, could float on clouds and ride lightning bolts.</p>
-<p>Never the main character, just the Grandmaster the star needs to meet to beat the bad guys and get the girl.</p>
-<p>A little mean. A little eccentric. A little ethereal.</p>
-<p>There's marketing that says everyone wants to be the hero, but you get paid the most for being the mentor. The guide. Ain't that grand?</p>
-<p>If you're into that.</p>
-<p>Me?</p>
-<p>I like riding lightning bolts.</p>
             ]]>
         </content>
     </entry>
