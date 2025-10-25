@@ -3,12 +3,40 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-23T16:21:44-04:00</updated>
+    <updated>2025-10-24T22:42:01-04:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Fall</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/fall/"/>
+        <id>https://iterating.com/fall/</id>
+
+        <updated>2025-10-24T22:42:01-04:00</updated>
+            <summary>
+                <![CDATA[
+                    What a wonderful time of year. Color changes. Perky cool winds.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>What a wonderful time of year.</p>
+<p>Color changes. Perky cool winds. Favorite hoodies.</p>
+<p>Falls seem shorter now. </p>
+<p>There's always nostalgia in my blood during these months.</p>
+<p>I'm blessed with the ability to focus on my best memories. </p>
+<p>And fall is a wonderful season to reminisce. </p>
+<p>Winter is unforgiving, but autumn is more of a listener.</p>
+<p>May all your falls be shorter.</p>
+<p>To autumn and everything after.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bodies of Water</title>
         <author>
@@ -308,35 +336,6 @@
 <p>Music is a time machine. But it doesn't always have to go back. I think, though, it's the closest we can get to our past.</p>
 <p>Nostalgic notes. Liner notes. Mixtapes. Burnt CDs. Live bootlegs. Road trips.</p>
 <p>So saxy.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Alphanumeric</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/alphanumeric/"/>
-        <id>https://iterating.com/alphanumeric/</id>
-
-        <updated>2025-10-14T14:16:35-04:00</updated>
-            <summary>
-                <![CDATA[
-                    In the world I come from, nicknames are bestowed upon you.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>In the world I come from, nicknames are bestowed upon you. You can never give yourself a nickname. You have to earn it, good or bad.</p>
-<p>And I got a problem with that.</p>
-<p>I mean, we come into this world pre-named already.</p>
-<p>Why can't we name ourselves?</p>
-<p>Who makes these dang rules we live by?</p>
-<p>So, anyways, that's what I do from time to time. Rename myself. </p>
-<p>Try out new nicknames.</p>
-<p>And while we're at it. Call 'em by your first name-names. Alnames. Try out new Alnames. Why does Nick get all the glory?</p>
-<p>These are silly things on the surface, but deep down, underneath, what we call ourselves, what we want to be called, what we are named (how many commas can I put in a sentence?), means everything.</p>
-<p>AL8X</p>
             ]]>
         </content>
     </entry>
