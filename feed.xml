@@ -3,12 +3,38 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-26T23:55:46-04:00</updated>
+    <updated>2025-10-27T13:31:30-04:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Pen Over Sword</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/pen-over-sword/"/>
+        <id>https://iterating.com/pen-over-sword/</id>
+
+        <updated>2025-10-27T13:31:30-04:00</updated>
+            <summary>
+                <![CDATA[
+                    When I sit down to write here, I usually do so&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When I sit down to write here, I usually do so spontaneously.</p>
+<p>You can probably tell because sometimes I wait to get to the point because I have no point when I start writing.</p>
+<p>Like right now, I have no point to make here, so I'm stalling by writing more words.</p>
+<p>Is it working?</p>
+<p>Is a point being made here?</p>
+<p>I don't know.</p>
+<p>This is my finest work yet.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Both Can Be True</title>
         <author>
@@ -320,42 +346,6 @@
 <p>Wisdom teaches you not to feed the wild animals, otherwise, they follow you home.</p>
 <p>Keyboards and warriors.</p>
 <p>Look out!</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>It&#x27;s A Good Deal</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/its-a-good-deal/"/>
-        <id>https://iterating.com/its-a-good-deal/</id>
-
-        <updated>2025-10-17T18:06:26-04:00</updated>
-            <summary>
-                <![CDATA[
-                    You tired of all the bad news? Here is some good.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>You tired of all the bad news?</p>
-<p>Here is some good.</p>
-<p>I admit it, I used to love buying the latest tech. </p>
-<p>And best usually means expensive.</p>
-<p>Cheap tech used to suck.</p>
-<p>But is that changing/changed?</p>
-<p>You can find incredible stuff now that's a downright bargain, especially in electronics. </p>
-<p>Heck, if you can wait, buying older but still viable tech is a downright steal.</p>
-<p>And you know, I love me a good deal.</p>
-<p>There's lots of companies in the tech space producing excellent products and services for a wonderful price.</p>
-<p>The floor is rising on quality and performance. But the price is staying (relatively) in the basement. </p>
-<p>Where else can you say that?</p>
-<p>And when does good and budget beat best and pricy?</p>
-<p> </p>
-<p> </p>
-<p> </p>
 <p> </p>
             ]]>
         </content>
