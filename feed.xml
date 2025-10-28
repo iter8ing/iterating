@@ -3,12 +3,38 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-27T13:32:13-04:00</updated>
+    <updated>2025-10-28T14:34:25-04:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Pros and Cons</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/pros-and-cons/"/>
+        <id>https://iterating.com/pros-and-cons/</id>
+
+        <updated>2025-10-28T14:34:25-04:00</updated>
+            <summary>
+                <![CDATA[
+                    You know that the "con" in con men is short for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You know that the "con" in con men is short for confidence?</p>
+<p>Confidence is a heck of thing.</p>
+<p>I saw the recent video of Michael Jordan nervously (Michael Jordan!) shooting a free throw.</p>
+<p>He sank it with ease. But Michael Jordan, man. Nervous making a free throw in some backyard.</p>
+<p>Ain't that something?</p>
+<p>Think about that next time you're nervous.</p>
+<p>And sink it with ease.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Quill Over Sword</title>
         <author>
@@ -316,37 +342,6 @@
 <p>Instead, I look for unbalanced ideas and investments of time and attention. There are so many out there. </p>
 <p>To asymmetric opportunities and outcomes and those who still believe in them.</p>
 <p>Ours is the world.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Danger Danger</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/danger-danger/"/>
-        <id>https://iterating.com/danger-danger/</id>
-
-        <updated>2025-10-18T13:47:32-04:00</updated>
-            <summary>
-                <![CDATA[
-                    I remember a line that goes something like, you know you&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I remember a line that goes something like, you know you are old when young men no longer find you dangerous.</p>
-<p>You know, spidey senses tingling, tapping their friends to get their attention, and getting out of the way (or getting ready to fight).</p>
-<p>It gets me to think about being older, kinder, gentler.</p>
-<p>I always try to think, even in the most negative of times, "What does this make possible?"</p>
-<p>There is strength in appearing weak. </p>
-<p>There is power in being dismissed.</p>
-<p>There is freedom in being unnoticed.</p>
-<p>Too much of my youth was spent trying to be seen. In my own way. But it's true.</p>
-<p>Wisdom teaches you not to feed the wild animals, otherwise, they follow you home.</p>
-<p>Keyboards and warriors.</p>
-<p>Look out!</p>
-<p> </p>
             ]]>
         </content>
     </entry>

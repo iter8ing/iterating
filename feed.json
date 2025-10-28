@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/pros-and-cons/",
+            "url": "https://iterating.com/pros-and-cons/",
+            "title": "Pros and Cons",
+            "summary": "You know that the \"con\" in con men is short for&hellip;",
+            "content_html": "<p>You know that the \"con\" in con men is short for confidence?</p>\n<p>Confidence is a heck of thing.</p>\n<p>I saw the recent video of Michael Jordan nervously (Michael Jordan!) shooting a free throw.</p>\n<p>He sank it with ease. But Michael Jordan, man. Nervous making a free throw in some backyard.</p>\n<p>Ain't that something?</p>\n<p>Think about that next time you're nervous.</p>\n<p>And sink it with ease.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-28T14:34:25-04:00",
+            "date_modified": "2025-10-28T14:34:25-04:00"
+        },
+        {
             "id": "https://iterating.com/pen-over-sword/",
             "url": "https://iterating.com/pen-over-sword/",
             "title": "Quill Over Sword",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-19T17:49:26-04:00",
             "date_modified": "2025-10-19T20:05:58-04:00"
-        },
-        {
-            "id": "https://iterating.com/danger-danger/",
-            "url": "https://iterating.com/danger-danger/",
-            "title": "Danger Danger",
-            "summary": "I remember a line that goes something like, you know you&hellip;",
-            "content_html": "<p>I remember a line that goes something like, you know you are old when young men no longer find you dangerous.</p>\n<p>You know, spidey senses tingling, tapping their friends to get their attention, and getting out of the way (or getting ready to fight).</p>\n<p>It gets me to think about being older, kinder, gentler.</p>\n<p>I always try to think, even in the most negative of times, \"What does this make possible?\"</p>\n<p>There is strength in appearing weak. </p>\n<p>There is power in being dismissed.</p>\n<p>There is freedom in being unnoticed.</p>\n<p>Too much of my youth was spent trying to be seen. In my own way. But it's true.</p>\n<p>Wisdom teaches you not to feed the wild animals, otherwise, they follow you home.</p>\n<p>Keyboards and warriors.</p>\n<p>Look out!</p>\n<p> </p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-18T13:47:32-04:00",
-            "date_modified": "2025-10-18T13:58:16-04:00"
         }
     ]
 }
