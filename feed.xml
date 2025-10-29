@@ -3,12 +3,43 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-10-28T14:46:33-04:00</updated>
+    <updated>2025-10-29T11:50:24-04:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Revenge of the Nerds</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/revenge-of-the-nerds/"/>
+        <id>https://iterating.com/revenge-of-the-nerds/</id>
+
+        <updated>2025-10-29T11:50:24-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Life is oversimplification. Here is another example. People who excel early&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Life is oversimplification.</p>
+<p>Here is another example.</p>
+<p>People who excel early in life in athletics use their bodies to fund their lives. Often sacrificing their health in their later years to do so.</p>
+<p>People who excel early in life in business use their brains to fund their lives. Often sacrificing their health in their early years to do so.</p>
+<p>But what I realized about nerds (especially those who do really well for themselves), they start becoming health nuts.</p>
+<p>Instead of peaking physically at an early age, they peak later. Much later.</p>
+<p>Making up for lost time.</p>
+<p>It results in this strange thing of seeing old legends in terrible shape, and old nerds looking jacked.</p>
+<p>I use these terms affectionately.</p>
+<p>Who am I to say which way is best?</p>
+<p>I skipped class in law school to go lift. Look how great I turned out.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Prose and Cons</title>
         <author>
@@ -311,40 +342,6 @@
 <p>And it's always the ones you suspect the most.</p>
 <p>Happy Monday!</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bet</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/bet/"/>
-        <id>https://iterating.com/bet/</id>
-
-        <updated>2025-10-19T17:49:26-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Guys like to gamble. I generalize, but we do. And the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Guys like to gamble. I generalize, but we do.</p>
-<p>And the most common ways are to bet on yourself, bet on future outcomes, and bet on things to go up (or down).</p>
-<p>Unfortunately, social class only changes the type of wagering people do.</p>
-<p>From the scratch-offs at your local gas station to hedge fund long and shorts, everyone seems to have something they stake money on for the chance of multiplying their input.</p>
-<p>The best kind of wager is something called an asymmetric bet.</p>
-<p>It's usually because you hold an edge in knowledge. And take a relatively small risk for an often exponential potential output.</p>
-<p>But rather than the traditionally proportionately small chance of winning, an asymmetric bet gives you a higher than predicted success rate.</p>
-<p>So, still the same moonshots, but with a greater chance of hitting.</p>
-<p>We all should know the best gambles are those we take in ourselves. We are asymmetric gambles. A little bit of time and attention can yield lifelong rewards.</p>
-<p>I used to be the all in guy. I'd follow Rudyard Kipling's advice. </p>
-<p>But I'm old(er) now. </p>
-<p>No more risking it all on one turn of pitch-and-toss.</p>
-<p>Instead, I look for unbalanced ideas and investments of time and attention. There are so many out there. </p>
-<p>To asymmetric opportunities and outcomes and those who still believe in them.</p>
-<p>Ours is the world.</p>
             ]]>
         </content>
     </entry>
