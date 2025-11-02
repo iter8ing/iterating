@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/nails-and-unicorns/",
+            "url": "https://iterating.com/nails-and-unicorns/",
+            "title": "Nails and Unicorns",
+            "summary": "Every decision you have ever made, good or bad, has put&hellip;",
+            "content_html": "<p>Every decision you have ever made, good or bad, has put you right here. </p>\n<p>To where you are right now.</p>\n<p>If you're happy with where you are right now, it's hard to have regrets.</p>\n<p>Every downturn led to an up, every up to a down. Sometimes they stack.</p>\n<p>It's the downturn stacks you must avoid. Loss on loss.</p>\n<p>Upturn stacks are sacred. Gain on gain.</p>\n<p>But they both happen. For want of nails or unicorns.</p>\n<p>We all been through it. If you haven't yet, you will.</p>\n<p>And if you really think about it, every gain and every loss has also provided you an accompanying loss and gain as well.</p>\n<p>Yin and yang.</p>\n<p>The real questions are:</p>\n<p>What are you willing to lose to gain?</p>\n<p>And what are you willing to gain to lose?</p>\n<p> </p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-02T12:17:48-05:00",
+            "date_modified": "2025-11-02T12:17:48-05:00"
+        },
+        {
             "id": "https://iterating.com/v50/",
             "url": "https://iterating.com/v50/",
             "title": "V5.0",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-24T22:42:01-04:00",
             "date_modified": "2025-10-24T22:59:41-04:00"
-        },
-        {
-            "id": "https://iterating.com/bodies-of-water/",
-            "url": "https://iterating.com/bodies-of-water/",
-            "title": "Bodies of Water",
-            "summary": "I'm a peninsula guy, I see that now. NYC (yeah yeah,&hellip;",
-            "content_html": "<p>I'm a peninsula guy, I see that now.</p>\n<p>NYC (yeah yeah, it's an island, work with me here I'm making a point). Great Lakes. The Bay. Korea.</p>\n<p>I like and have always liked being by the water.</p>\n<p>I like being close to water because it soothes my fire. It cools it down. Let's me relax. But I'm careful to never let it put it out.</p>\n<p>My whole life, bodies of water have called to me. And yet, I don't really get in. It's the city boy in me. I like to sit by it. Feel that cool breeze. Watch my loved ones revel and frolic in it. </p>\n<p>It is my opposite, water is. And as such, I respect it so. And while I draw near it, I always keep it a bit away.</p>\n<p>This is why the peninsula is my way. It juts out into the water, even surrounds itself in it, but it is always rooted into the mainland. Sticks its head and neck out, but maintains a firm foundation. A solid plan, as plans go.</p>\n<p>I remember the first time I saw the Pacific Ocean.</p>\n<p>It's ferocity humbled me; I stood in awe of it. How it smashed and swept what it wanted to, paying no mind to the little dot of H2O and fire watching it.</p>\n<p>I'm more of a lake guy, now.</p>\n<p>If you think it's because I'm getting older, you're probably right. And because the fire's not as bright. This makes my life easier. Easier and better. </p>\n<p>Oceans, lakes, humans. My favorite bodies of water (not necessarily in that order).</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-23T16:08:25-04:00",
-            "date_modified": "2025-10-23T16:21:44-04:00"
         }
     ]
 }
