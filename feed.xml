@@ -3,12 +3,35 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-03T15:17:42-05:00</updated>
+    <updated>2025-11-04T18:50:59-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Sniff</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/sniff/"/>
+        <id>https://iterating.com/sniff/</id>
+
+        <updated>2025-11-04T18:50:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                    You smell that? Something in the air. Something big is coming.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You smell that?</p>
+<p>Something in the air.</p>
+<p>Something big is coming.</p>
+<p>Oh, and I farted.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sheet</title>
         <author>
@@ -325,51 +348,6 @@
 <p>But will ai ever know love? It'll parrot anything you train it to. Some living things are that way.</p>
 <p>Humans can fall in love with anything.</p>
 <p>Strength and weakness.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Dog, Old Tricks</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/new-dog-old-tricks/"/>
-        <id>https://iterating.com/new-dog-old-tricks/</id>
-
-        <updated>2025-10-25T18:22:11-04:00</updated>
-            <summary>
-                <![CDATA[
-                    There's a part of me that grew up with this idea&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>There's a part of me that grew up with this idea of fair fights.</p>
-<p>Generally speaking, it was one versus one, no outside interference, and you played by a set of rules. No hitting the spinal column, eye balls, balls balls.</p>
-<p>You know, fair fights.</p>
-<p>But to those who are not yet fully formed, or those who are and were given a size, age, or health disadvantage (relative to their opponent(s)), there is no such thing as a fair fight.</p>
-<p>Every fight is unfair. Already in favor of the other side.</p>
-<p>We can do things like train and learn techniques and what not.</p>
-<p>But big can usually beat little.</p>
-<p>Usually.</p>
-<p>One of the ways it sometimes doesn't is by changing it into a fair fight.</p>
-<p>Kicking groins. Gouging eyes. Elbowing spines.</p>
-<p>Throat strike!</p>
-<p>Pocket sand!!!</p>
-<p>You know, fighting "dirty"? But to me, that's not fighting dirty. That's fighting fair.</p>
-<p>Real life ain't the UFC or boxing.</p>
-<p>I suppose there is the law. But that's the only rules. </p>
-<p>If someone is trying to kill you, you should be prepared to fight to the death.</p>
-<p>And should you ever find yourself unarmed and in a fight, remember that the easiest ways to win are:</p>
-<p>1) Explosive, angry, force. I mean animal mean. The will to fight and do so violently is incredibly underrated. Who wants to contend with a pissed-off yellow jacket?; and/or</p>
-<p>2) Tire them out. Most people aren't trained to fight for any length of time. If you can handle their initial wind, there usually isn't enough time for them to get their second. Fatigue and cowards, you know. This is the downside of Point 1.</p>
-<p>Oh, and this probably wouldn't work as well to those with extensive training.</p>
-<p>But yeah, like most fights, the best way to win is just to avoid them.</p>
-<p>Woof.</p>
-<p>DISCLAIMER: I am a man of peace. Do not fight, people. Follow the law. And absolutely, positively, defend yourself and your loved ones.</p>
-<p>There is no honor in violent encounters, but there is in you.</p>
-<p>Good, Dog.</p>
-<p> </p>
             ]]>
         </content>
     </entry>
