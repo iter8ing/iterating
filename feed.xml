@@ -3,12 +3,34 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-04T18:50:59-05:00</updated>
+    <updated>2025-11-05T00:11:39-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/testing-3/"/>
+        <id>https://iterating.com/testing-3/</id>
+
+        <updated>2025-11-05T00:11:26-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    123. Checking. Will this update?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>123. Checking.</p>
+<p>Will this update?</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sniff</title>
         <author>
@@ -18,7 +40,7 @@
         <id>https://iterating.com/sniff/</id>
 
         <updated>2025-11-04T18:50:59-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     You smell that? Something in the air. Something big is coming.
                 ]]>
@@ -41,7 +63,7 @@
         <id>https://iterating.com/sheet/</id>
 
         <updated>2025-11-03T14:37:11-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     I think people should have character sheets. Resumes suck. Character sheets&hellip;
                 ]]>
@@ -71,7 +93,7 @@
         <id>https://iterating.com/nails-and-unicorns/</id>
 
         <updated>2025-11-02T12:17:48-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Every decision you have ever made, good or bad, has put&hellip;
                 ]]>
@@ -105,7 +127,7 @@
         <id>https://iterating.com/v50/</id>
 
         <updated>2025-11-01T15:25:48-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     One thing they don't tell you about life is that if&hellip;
                 ]]>
@@ -143,7 +165,7 @@
         <id>https://iterating.com/au-contraire/</id>
 
         <updated>2025-10-31T13:18:50-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     I am sort of a contrarian. In some things. There's headlines&hellip;
                 ]]>
@@ -195,7 +217,7 @@
         <id>https://iterating.com/how-to-keep-score/</id>
 
         <updated>2025-10-30T00:43:11-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     How do you measure how well you're doing in your life?&hellip;
                 ]]>
@@ -238,7 +260,7 @@
         <id>https://iterating.com/revenge-of-the-nerds/</id>
 
         <updated>2025-10-29T11:50:24-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Life is oversimplification. Here is another example. People who excel early&hellip;
                 ]]>
@@ -271,7 +293,7 @@
         <id>https://iterating.com/pros-and-cons/</id>
 
         <updated>2025-10-28T14:34:25-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     You know that the "con" in conmen is short for confidence?&hellip;
                 ]]>
@@ -300,7 +322,7 @@
         <id>https://iterating.com/pen-over-sword/</id>
 
         <updated>2025-10-27T13:31:30-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     When I sit down to write here, I usually do so&hellip;
                 ]]>
@@ -314,40 +336,6 @@
 <p>Is a point being made here?</p>
 <p>I don't know.</p>
 <p>This is my finest work yet.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Both Can Be True</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/both-can-be-true/"/>
-        <id>https://iterating.com/both-can-be-true/</id>
-
-        <updated>2025-10-26T23:22:39-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Almost forgot to write today. I mean, I did forget. But&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Almost forgot to write today. I mean, I did forget.</p>
-<p>But no time like the present.</p>
-<p>My goal is to write at least once a day. And while no one's really paying attention, I'm paying attention. That means something, at least to me. Maybe someone in the future, too.</p>
-<p>If you ever have the good fortune to love someone, my goodness, what a thing it is.</p>
-<p>And the thing about love is it makes you stronger and weaker at the same time. </p>
-<p>Love gives you strength beyond measure, but it can also leave you so vulnerable in many ways.</p>
-<p>Heartbreaks are audible, visceral, and as true as any compound fracture. And I'm not just talking romantic ones.</p>
-<p>Love is having the utmost affection and concern. Strength and weakness.</p>
-<p>I don't know why I write about love today -- who knows why I write about anything.</p>
-<p>I am so loved in this life. For that, I am too lucky (I know it). For them, I love forever (they know it).</p>
-<p>I've been hearing a lot of people giving up on love, which just seems a foolish waste of an infinite resource.</p>
-<p>Love is reserved for those made of flesh and bone. I won't speak for celestial bodies, just all of humanity and all Earth life, if that's alright. Oh, and those things that are alive but do not have flesh or bones can probably love, too. You know what I meant.</p>
-<p>But will ai ever know love? It'll parrot anything you train it to. Some living things are that way.</p>
-<p>Humans can fall in love with anything.</p>
-<p>Strength and weakness.</p>
             ]]>
         </content>
     </entry>
