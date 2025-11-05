@@ -13,15 +13,15 @@
             "id": "https://iterating.com/testing-3/",
             "url": "https://iterating.com/testing-3/",
             "title": "Testing",
-            "summary": "123. Checking. Will this update?",
-            "content_html": "<p>123. Checking.</p>\n<p>Will this update?</p>\n<p> </p>",
+            "summary": "123. Checking. Will this update? I continue to tinker on this&hellip;",
+            "content_html": "<p>123. Checking.</p>\n<p>Will this update?</p>\n<p>I continue to tinker on this thing. </p>\n<p>Trying to learn every day.</p>\n<p>Will this work? </p>\n<p>Let's find out!</p>\n<p> </p>",
             "author": {
                 "name": "AL8X"
             },
             "tags": [
             ],
             "date_published": "2025-11-05T00:11:26-05:00",
-            "date_modified": "2025-11-05T00:11:39-05:00"
+            "date_modified": "2025-11-05T00:13:46-05:00"
         },
         {
             "id": "https://iterating.com/sniff/",

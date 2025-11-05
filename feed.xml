@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-05T00:11:39-05:00</updated>
+    <updated>2025-11-05T00:13:46-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
@@ -20,13 +20,17 @@
         <updated>2025-11-05T00:11:26-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    123. Checking. Will this update?
+                    123. Checking. Will this update? I continue to tinker on this&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>123. Checking.</p>
 <p>Will this update?</p>
+<p>I continue to tinker on this thing. </p>
+<p>Trying to learn every day.</p>
+<p>Will this work? </p>
+<p>Let's find out!</p>
 <p> </p>
             ]]>
         </content>
