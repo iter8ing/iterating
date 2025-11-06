@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/advice/",
+            "url": "https://iterating.com/advice/",
+            "title": "Advice",
+            "summary": "Drake Maye is the quarterback for the New England Patriots. He&hellip;",
+            "content_html": "<p>Drake Maye is the quarterback for the New England Patriots.</p>\n<p>He said something the other day that I thought relevant.</p>\n<p>He said \"All the praise when you're successful and all the hatred when things go bad...Don't take criticism from someone you wouldn't take advice from.\"</p>\n<p>It reminds me of a quote from an old friend.</p>\n<p>\"If the A-holes are mad at you, you're doing something right.\"</p>\n<p>Today's world gives microphones and megaphones to voices of varying value and values.</p>\n<p>Pick your mentors.</p>\n<p>Pick your enemies.</p>\n<p>May they never cross.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-06T00:50:17-05:00",
+            "date_modified": "2025-11-06T00:50:17-05:00"
+        },
+        {
             "id": "https://iterating.com/find-me-later/",
             "url": "https://iterating.com/find-me-later/",
             "title": "Find Me Later",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-29T11:50:24-04:00",
             "date_modified": "2025-10-29T12:04:48-04:00"
-        },
-        {
-            "id": "https://iterating.com/pros-and-cons/",
-            "url": "https://iterating.com/pros-and-cons/",
-            "title": "Prose and Cons",
-            "summary": "You know that the \"con\" in conmen is short for confidence?&hellip;",
-            "content_html": "<p>You know that the \"con\" in conmen is short for confidence?</p>\n<p>Confidence is a heck of thing. Faith in someone or something.</p>\n<p>I saw the recent video of Michael Jordan nervously (Michael Jordan!) shooting a free throw.</p>\n<p>He sank it with ease. Goats will be goats. But Michael Jordan, man. Nervous making a free throw in somebody's backyard.</p>\n<p>Ain't that something?</p>\n<p>Confidence is not the absence of nerves; being nervous is kind of like being excited, right?</p>\n<p>Who doesn't like being excited?</p>\n<p>Think about that the next time you're nervous.</p>\n<p>And sink it with ease.</p>\n<p> </p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-28T14:34:25-04:00",
-            "date_modified": "2025-10-28T14:46:33-04:00"
         }
     ]
 }
