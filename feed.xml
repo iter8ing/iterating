@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-06T00:50:17-05:00</updated>
+    <updated>2025-11-06T00:54:56-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
@@ -20,16 +20,22 @@
         <updated>2025-11-06T00:50:17-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Drake Maye is the quarterback for the New England Patriots. He&hellip;
+                    Drake Maye is the quarterback for the New England Patriots. [This&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Drake Maye is the quarterback for the New England Patriots.</p>
+<p>[This is my second post about New England Patriot quarterbacks. Weird.]</p>
 <p>He said something the other day that I thought relevant.</p>
-<p>He said "All the praise when you're successful and all the hatred when things go bad...Don't take criticism from someone you wouldn't take advice from."</p>
+<p>He said:</p>
+<blockquote>
+<p>"All the praise when you're successful and all the hatred when things go bad...Don't take criticism from someone you wouldn't take advice from."</p>
+</blockquote>
 <p>It reminds me of a quote from an old friend.</p>
+<blockquote>
 <p>"If the A-holes are mad at you, you're doing something right."</p>
+</blockquote>
 <p>Today's world gives microphones and megaphones to voices of varying value and values.</p>
 <p>Pick your mentors.</p>
 <p>Pick your enemies.</p>
