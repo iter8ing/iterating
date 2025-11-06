@@ -3,12 +3,39 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-06T14:23:02-05:00</updated>
+    <updated>2025-11-06T14:34:50-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>The End</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/the-end/"/>
+        <id>https://iterating.com/the-end/</id>
+
+        <updated>2025-11-06T14:34:50-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    You ever stick to something, just because you wanted to see&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You ever stick to something, just because you wanted to see how it ends?</p>
+<p>Be it a book, a movie, a tv show, a job?</p>
+<p>Why do we do that?</p>
+<p>Some sort of closure is needed. </p>
+<p>Even if you know it'll disappoint.</p>
+<p>I'd like to think that wisdom is in knowing what to finish and what to just stop.</p>
+<p>What is worth finishing?</p>
+<p>What is worth stopping?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Answer</title>
         <author>
@@ -292,58 +319,6 @@
 <p>Huh.</p>
 <p>Mental note.</p>
 <p>To versions past, present and future.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Au Contraire</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/au-contraire/"/>
-        <id>https://iterating.com/au-contraire/</id>
-
-        <updated>2025-10-31T13:18:50-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I am sort of a contrarian. In some things. There's headlines&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I am sort of a contrarian. In some things.</p>
-<p>There's headlines all over the place of heinous crimes done and thwarted.</p>
-<p>This is the history of our world, but it sure seems like a lot of them lately. A literal doom scroll.</p>
-<p>And one of the things you see all the time is, such and such happened.</p>
-<p>Tragedy happened.</p>
-<p>Or, better, tragedy narrowly averted.</p>
-<p>We got 'em.</p>
-<p>There is no danger to the public.</p>
-<p>Go about your day.</p>
-<p>Nothing to see here, people.</p>
-<p>It's the "no danger" part that makes me chuckle.</p>
-<p>This illusion that hey, yeah a group of bad people were going to do a lot of not good, but we caught them all (we think, we're still looking into it), so go on about your business.</p>
-<p>It's the oxygen mask falling down in a doomed air flight.</p>
-<p>This reassurance of safety that to me is not so reassuring.</p>
-<p>Of course, this is done for many reasons, some of them strategic.</p>
-<p>Mostly, I think it's done to keep us in our little bubbles of same.</p>
-<p>So what do I do?</p>
-<p>I know that's what you're wondering.</p>
-<p>Well, I'll tell you what I do.</p>
-<p>You wanna know?</p>
-<p>Really?</p>
-<p>I suppose that's why you're here.</p>
-<p>Okay, I tell my family, when the going gets tough, when the ess is hitting the proverbs, whatever you do, whatever happens: Panic!*</p>
-<p>That's what I tell them.</p>
-<p>"Whatever you do: Panic!"</p>
-<p>We laugh and laugh.</p>
-<p>It always brings light to a dark hypothetical.</p>
-<p>I think these "no danger to the public" lines bring hypothetical lights to dark truths.</p>
-<p>And you can't see in the dark, mon frere.</p>
-<p>Especially with hypothetical lights.</p>
-<p>...</p>
-<p>PANIC!!!</p>
-<p><em>*What? Did you think I was going to say I fight crime? Who am I, Aqua Man?</em></p>
             ]]>
         </content>
     </entry>
