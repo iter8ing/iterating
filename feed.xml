@@ -3,14 +3,46 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-05T19:05:35-05:00</updated>
+    <updated>2025-11-05T19:07:22-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
     <entry>
-        <title>Dust</title>
+        <title>Find Me Later</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/find-me-later/"/>
+        <id>https://iterating.com/find-me-later/</id>
+
+        <updated>2025-11-05T19:07:22-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Say what you want about Google, but they are a verb.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Say what you want about Google, but they are a verb.</p>
+<p>And the thing that struck me about their founders was what they said early on. Back before they dominated. When they were just search. And wondering how to monetize it.</p>
+<p>As they were just beginning, as they were just gaining traction, they said something really interesting.</p>
+<p>They said: The later you discover us, the better.</p>
+<p>Meaning, they wanted people to find out about Google later. </p>
+<p>Why?</p>
+<p>Because the team believed the later you found them, the better they would be. Their first impression would be more impressive.</p>
+<p>In a world where most people want it and they want it now, there are still some of us who are like yeah, I got work to do, find me later.</p>
+<p>Find me later.</p>
+<p>I'm not saying I'd be better, but the later you find me, the better.</p>
+<p>I got so much work to do.</p>
+<p>But I'm trying. I'm trying real hard, Ringo.</p>
+<p>To be the shepherd.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Testing</title>
         <author>
             <name>AL8X</name>
         </author>
@@ -20,18 +52,29 @@
         <updated>2025-11-05T19:05:35-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Lost a few posts in here. Trying to tinker with settings&hellip;
+                    123. Type check. Will this update? I continue to tinker on&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Lost a few posts in here. </p>
-<p>Trying to tinker with settings on clouds and backups and syncs.</p>
-<p>Fragile stuff it appears.</p>
-<p>Gone like the wind.</p>
-<p>Ah well, I think I have a new home for this thing. A new place to type.</p>
-<p>Not a big deal, but two posts were wiped. Strange.</p>
-<p>I wonder where they went?</p>
+                <p>123.</p>
+<p>Type check.</p>
+<p>Will this update?</p>
+<p>I continue to tinker on this thing. </p>
+<p>Trying to learn every day.</p>
+<p>Will this work? </p>
+<p>Let's find out!</p>
+<p>Remember those days when we'd have to knock the side of the television to get it to work?</p>
+<p>Technology is always improving, but you can't thump it anymore.</p>
+<p>It's unthumpable.</p>
+<p>And there are times when it just don't make sense. When the urge to thump rises.</p>
+<p>And you got to adjust, you gotta tinker. I would say iterate, but yeah, that's not the right word.</p>
+<p>Clouds and locals. </p>
+<p>Syncs and backups.</p>
+<p>Fixed this issue, it seems, but it really wasn't an issue.</p>
+<p>Just redundancy.</p>
+<p>A Plan B.</p>
+<p>Two is one, you know.</p>
             ]]>
         </content>
     </entry>
@@ -314,32 +357,6 @@
 <p>Think about that the next time you're nervous.</p>
 <p>And sink it with ease.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Quill Over Sword</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/pen-over-sword/"/>
-        <id>https://iterating.com/pen-over-sword/</id>
-
-        <updated>2025-10-27T13:31:30-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    When I sit down to write here, I usually do so&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>When I sit down to write here, I usually do so spontaneously.</p>
-<p>You can probably tell because sometimes I wait to get to the point because I have no point when I start writing.</p>
-<p>Like right now, I have no point to make here, so I'm stalling by writing more words.</p>
-<p>Is it working?</p>
-<p>Is a point being made here?</p>
-<p>I don't know.</p>
-<p>This is my finest work yet.</p>
             ]]>
         </content>
     </entry>

@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/find-me-later/",
+            "url": "https://iterating.com/find-me-later/",
+            "title": "Find Me Later",
+            "summary": "Say what you want about Google, but they are a verb.",
+            "content_html": "<p>Say what you want about Google, but they are a verb.</p>\n<p>And the thing that struck me about their founders was what they said early on. Back before they dominated. When they were just search. And wondering how to monetize it.</p>\n<p>As they were just beginning, as they were just gaining traction, they said something really interesting.</p>\n<p>They said: The later you discover us, the better.</p>\n<p>Meaning, they wanted people to find out about Google later. </p>\n<p>Why?</p>\n<p>Because the team believed the later you found them, the better they would be. Their first impression would be more impressive.</p>\n<p>In a world where most people want it and they want it now, there are still some of us who are like yeah, I got work to do, find me later.</p>\n<p>Find me later.</p>\n<p>I'm not saying I'd be better, but the later you find me, the better.</p>\n<p>I got so much work to do.</p>\n<p>But I'm trying. I'm trying real hard, Ringo.</p>\n<p>To be the shepherd.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-05T19:07:22-05:00",
+            "date_modified": "2025-11-05T19:07:22-05:00"
+        },
+        {
             "id": "https://iterating.com/dust/",
             "url": "https://iterating.com/dust/",
-            "title": "Dust",
-            "summary": "Lost a few posts in here. Trying to tinker with settings&hellip;",
-            "content_html": "<p>Lost a few posts in here. </p>\n<p>Trying to tinker with settings on clouds and backups and syncs.</p>\n<p>Fragile stuff it appears.</p>\n<p>Gone like the wind.</p>\n<p>Ah well, I think I have a new home for this thing. A new place to type.</p>\n<p>Not a big deal, but two posts were wiped. Strange.</p>\n<p>I wonder where they went?</p>",
+            "title": "Testing",
+            "summary": "123. Type check. Will this update? I continue to tinker on&hellip;",
+            "content_html": "<p>123.</p>\n<p>Type check.</p>\n<p>Will this update?</p>\n<p>I continue to tinker on this thing. </p>\n<p>Trying to learn every day.</p>\n<p>Will this work? </p>\n<p>Let's find out!</p>\n<p>Remember those days when we'd have to knock the side of the television to get it to work?</p>\n<p>Technology is always improving, but you can't thump it anymore.</p>\n<p>It's unthumpable.</p>\n<p>And there are times when it just don't make sense. When the urge to thump rises.</p>\n<p>And you got to adjust, you gotta tinker. I would say iterate, but yeah, that's not the right word.</p>\n<p>Clouds and locals. </p>\n<p>Syncs and backups.</p>\n<p>Fixed this issue, it seems, but it really wasn't an issue.</p>\n<p>Just redundancy.</p>\n<p>A Plan B.</p>\n<p>Two is one, you know.</p>",
             "author": {
                 "name": "AL8X"
             },
             "tags": [
             ],
             "date_published": "2025-11-05T19:05:35-05:00",
-            "date_modified": "2025-11-05T19:05:35-05:00"
+            "date_modified": "2025-11-05T19:06:36-05:00"
         },
         {
             "id": "https://iterating.com/sniff/",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-10-28T14:34:25-04:00",
             "date_modified": "2025-10-28T14:46:33-04:00"
-        },
-        {
-            "id": "https://iterating.com/pen-over-sword/",
-            "url": "https://iterating.com/pen-over-sword/",
-            "title": "Quill Over Sword",
-            "summary": "When I sit down to write here, I usually do so&hellip;",
-            "content_html": "<p>When I sit down to write here, I usually do so spontaneously.</p>\n<p>You can probably tell because sometimes I wait to get to the point because I have no point when I start writing.</p>\n<p>Like right now, I have no point to make here, so I'm stalling by writing more words.</p>\n<p>Is it working?</p>\n<p>Is a point being made here?</p>\n<p>I don't know.</p>\n<p>This is my finest work yet.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-27T13:31:30-04:00",
-            "date_modified": "2025-10-27T13:32:13-04:00"
         }
     ]
 }
