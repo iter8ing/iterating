@@ -3,12 +3,40 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-06T14:18:13-05:00</updated>
+    <updated>2025-11-06T14:23:02-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>The Answer</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/the-answer/"/>
+        <id>https://iterating.com/the-answer/</id>
+
+        <updated>2025-11-06T14:23:02-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    You know what your problem is? I think that's a fine&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You know what your problem is?</p>
+<p>I think that's a fine way to start a sentence.</p>
+<p>But you better come correct with the follow-up.</p>
+<p>Well, do you?</p>
+<p>Hmm?</p>
+<p>Hmmmmmmmmmmmmmmmmmmmm?</p>
+<p>Yeah, heck if I know.</p>
+<p>No gurus here.</p>
+<p>Figure it out.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Do Overs</title>
         <author>
@@ -316,49 +344,6 @@
 <p>...</p>
 <p>PANIC!!!</p>
 <p><em>*What? Did you think I was going to say I fight crime? Who am I, Aqua Man?</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to Keep Score</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/how-to-keep-score/"/>
-        <id>https://iterating.com/how-to-keep-score/</id>
-
-        <updated>2025-10-30T00:43:11-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    How do you measure how well you're doing in your life?&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>How do you measure how well you're doing in your life?</p>
-<p>Money? Cars? Homes? Careers? Accolades and awards?</p>
-<p>Exits?</p>
-<p>Moonshots?</p>
-<p>Followers?</p>
-<p>PRs?</p>
-<p>Net worth?</p>
-<p>I think these are all fine and dandy metrics, but really, I think these are all wrong.</p>
-<p>I think things like:</p>
-<p>Do I have and live by my values?</p>
-<p>Am I happy and content?</p>
-<p>Do I love well?</p>
-<p>Am I blessed?</p>
-<p>These feel more right.</p>
-<p>Warren Buffett (of all people -- you'll soon see why I note this) once said something along the lines of "Would you rather be known as the world's greatest lover but in fact be the world's worst? Or would you rather be known as the world's worst lover but in fact be the world's best?"</p>
-<p>The idea being only you should define how well you're doing in life. If you rely on the opinion of others, you will often find that path lacking. I know I did.</p>
-<p>Too many people sell their sacred integrity for more reputation.</p>
-<p>Soul for show.</p>
-<p>It's time for a new measuring stick.</p>
-<p>Determining our own truths and sticking to our first principles is a huge and hard win. To <em>be</em> worthy. To believe we are and have enough. To seek more not for external praise but internal reward. Because you resonate most when you chase what is in harmony with your innerkeeper.</p>
-<p>Too many people want to go viral. </p>
-<p>Just be your cure.</p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
