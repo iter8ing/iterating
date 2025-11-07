@@ -3,12 +3,46 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-06T14:43:01-05:00</updated>
+    <updated>2025-11-07T00:37:54-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Once Upon A Time</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/once-upon-a-time/"/>
+        <id>https://iterating.com/once-upon-a-time/</id>
+
+        <updated>2025-11-07T00:37:54-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I'm just happy to be here. I know sometimes it's not&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'm just happy to be here.</p>
+<p>I know sometimes it's not clear.</p>
+<p>That's the old curmudgeon in me.</p>
+<p>But I've always been this way.</p>
+<p>Right now, all of this, every single ridiculous post, is me reeling from the reality of how a man who plays the long game almost passes, but survives.</p>
+<p>A fortunate man.</p>
+<p>How do you keep thinking and planning the future when you're just enjoying, and grateful for, today?</p>
+<p>I tell those closest to me that I'm in my absurd phase.</p>
+<p>I'm going for absurd.</p>
+<p>It seems like a fun way to play it.</p>
+<p>All of this is the stuff of fairy tales.</p>
+<p>And they lived happily ever after.</p>
+<blockquote>
+<p>Who in the world am I? Ah! That's the great puzzle!</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The End</title>
         <author>
@@ -285,44 +319,6 @@
 <p>What do we lose in gain?</p>
 <p>And what do we gain in loss?</p>
 <p>Hope you find your nail, even if you have to step on it.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>V5.0</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/v50/"/>
-        <id>https://iterating.com/v50/</id>
-
-        <updated>2025-11-01T15:25:48-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    One thing they don't tell you about life is that if&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>One thing they don't tell you about life is that if you live long enough you go through different versions of yourself.</p>
-<p>The first version is your childhood. Large and small iterations as you turn older. Teen. Young adult. Professional. Parent. Grandparent. Retired. Professional amateur. Etc.</p>
-<p>The way I figure it, I'm at version 5.0.</p>
-<p>I'm not saying it's better than previous versions (yes, I am), but there's things that have been refined, things removed, and things added.</p>
-<p>Like all major updates.</p>
-<p>There's been a lot of hours upping my wisdom score and a lot less time in the weight room (not many centenarians walking around at 220 pounds). More long walks (for me).</p>
-<p>Oh, and there's the fact that version 4.something almost died.</p>
-<p>There's that, too.</p>
-<p>Anyways, that's what I'll leave you with.</p>
-<p>This idea that we're always changing.</p>
-<p>I don't think people tell people this enough.</p>
-<p>You don't stay the exact same your whole life. </p>
-<p>There are different phases. Seasons. Versions.</p>
-<p>You just keep iterating.</p>
-<p>Iterating.</p>
-<p>That's kind of the whole thing we're doing, right?</p>
-<p>Huh.</p>
-<p>Mental note.</p>
-<p>To versions past, present and future.</p>
             ]]>
         </content>
     </entry>
