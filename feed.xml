@@ -3,12 +3,50 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-10T11:52:30-05:00</updated>
+    <updated>2025-11-10T12:09:45-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Treasure</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/treasure/"/>
+        <id>https://iterating.com/treasure/</id>
+
+        <updated>2025-11-10T12:09:45-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Are your memories treasures? Or are your visions of the future&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Are your memories treasures?</p>
+<p>Or are your visions of the future the treasure?</p>
+<p>What about the present?</p>
+<p>Is this considered a treasure?</p>
+<p>Treasure hunters are an interesting group.</p>
+<p>Chasing futures where they find the past present.</p>
+<p>Someone's past for someone else's future.</p>
+<p>Actually finding the treasure has all sorts of drama with it.</p>
+<p>You may not even be able to keep it.</p>
+<p>But the chase is yours.</p>
+<p>How big is your fortune?</p>
+<p>Is it vaulted?</p>
+<p>Is it in the cloud?</p>
+<p>Or can you touch it?</p>
+<p>Are you the treasure? Yours or anyone else's?</p>
+<p>Somewhere between remembering and imagining is present day.</p>
+<p>Vault, earth, cloud.</p>
+<p>I'd say carpe diem or some ess, but I ain't latin.</p>
+<p><em>Sic Transit Gloria.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Timelines</title>
         <author>
@@ -328,29 +366,6 @@
 <p>Just redundancy.</p>
 <p>A Plan B.</p>
 <p>Two is one, you know.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sniff</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/sniff/"/>
-        <id>https://iterating.com/sniff/</id>
-
-        <updated>2025-11-04T18:50:59-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    You smell that? Something in the air. Something big is coming.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>You smell that?</p>
-<p>Something in the air.</p>
-<p>Something big is coming.</p>
-<p>Oh, and I farted.</p>
             ]]>
         </content>
     </entry>

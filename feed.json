@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/treasure/",
+            "url": "https://iterating.com/treasure/",
+            "title": "Treasure",
+            "summary": "Are your memories treasures? Or are your visions of the future&hellip;",
+            "content_html": "<p>Are your memories treasures?</p>\n<p>Or are your visions of the future the treasure?</p>\n<p>What about the present?</p>\n<p>Is this considered a treasure?</p>\n<p>Treasure hunters are an interesting group.</p>\n<p>Chasing futures where they find the past present.</p>\n<p>Someone's past for someone else's future.</p>\n<p>Actually finding the treasure has all sorts of drama with it.</p>\n<p>You may not even be able to keep it.</p>\n<p>But the chase is yours.</p>\n<p>How big is your fortune?</p>\n<p>Is it vaulted?</p>\n<p>Is it in the cloud?</p>\n<p>Or can you touch it?</p>\n<p>Are you the treasure? Yours or anyone else's?</p>\n<p>Somewhere between remembering and imagining is present day.</p>\n<p>Vault, earth, cloud.</p>\n<p>I'd say carpe diem or some ess, but I ain't latin.</p>\n<p><em>Sic Transit Gloria.</em></p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-10T12:09:45-05:00",
+            "date_modified": "2025-11-10T12:09:45-05:00"
+        },
+        {
             "id": "https://iterating.com/timelines/",
             "url": "https://iterating.com/timelines/",
             "title": "Timelines",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2025-11-09T23:06:45-05:00",
-            "date_modified": "2025-11-10T11:52:30-05:00"
+            "date_modified": "2025-11-10T11:53:29-05:00"
         },
         {
             "id": "https://iterating.com/guano/",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-05T19:05:35-05:00",
             "date_modified": "2025-11-05T19:09:54-05:00"
-        },
-        {
-            "id": "https://iterating.com/sniff/",
-            "url": "https://iterating.com/sniff/",
-            "title": "Sniff",
-            "summary": "You smell that? Something in the air. Something big is coming.",
-            "content_html": "<p>You smell that?</p>\n<p>Something in the air.</p>\n<p>Something big is coming.</p>\n<p>Oh, and I farted.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-04T18:50:59-05:00",
-            "date_modified": "2025-11-04T18:50:59-05:00"
         }
     ]
 }
