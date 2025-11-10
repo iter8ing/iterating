@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/timelines/",
+            "url": "https://iterating.com/timelines/",
+            "title": "Timelines",
+            "summary": "I almost forgot again to write. Some days just fly by.",
+            "content_html": "<p>I almost forgot again to write.</p>\n<p>Some days just fly by.</p>\n<p>Most days do.</p>\n<p>As you get older, the seconds, minutes, hours, and days just seem a bit shorter.</p>\n<p>Even the microwave I set for a few comfortable minutes seem to take me by surprise.</p>\n<p><em>Already? I thought it had more time.</em></p>\n<p>Kids never want the day to end.</p>\n<p>They can spend an eternity in a day and still want it to last a little longer.</p>\n<p>My little ones are how I measure time now.</p>\n<p>I don't <em>feel</em> old.</p>\n<p>I just act it.</p>\n<p>But when I see how big they're getting, well, do the math.</p>\n<p>This is a very wonderful season. In the year. Of my life.</p>\n<p>To having the time of our lives.</p>\n<p> </p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-09T23:06:45-05:00",
+            "date_modified": "2025-11-09T23:06:45-05:00"
+        },
+        {
             "id": "https://iterating.com/guano/",
             "url": "https://iterating.com/guano/",
             "title": "Guano",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-04T18:50:59-05:00",
             "date_modified": "2025-11-04T18:50:59-05:00"
-        },
-        {
-            "id": "https://iterating.com/sheet/",
-            "url": "https://iterating.com/sheet/",
-            "title": "Sheet",
-            "summary": "I think people should have character sheets. Resumes suck. Character sheets&hellip;",
-            "content_html": "<p>I think people should have character sheets.</p>\n<p>Resumes suck.</p>\n<p>Character sheets are cool.</p>\n<p>Ability scores. Hit points. Levels. Classes. Alignment. Weapons. Armor. Magic items.</p>\n<p>Why save that sweet nectar for the fictional?</p>\n<p>So that's what I would encourage you to do today.</p>\n<p>Create your own character sheet. For you.</p>\n<p>And keep updating it, iterating(!) it, as you go through this campaign called life.</p>\n<p>To leveling up, forever.</p>\n<p> </p>\n<p> </p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-03T14:37:11-05:00",
-            "date_modified": "2025-11-03T14:37:11-05:00"
         }
     ]
 }

@@ -3,12 +3,46 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-08T18:53:01-05:00</updated>
+    <updated>2025-11-09T23:06:45-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Timelines</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/timelines/"/>
+        <id>https://iterating.com/timelines/</id>
+
+        <updated>2025-11-09T23:06:45-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I almost forgot again to write. Some days just fly by.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I almost forgot again to write.</p>
+<p>Some days just fly by.</p>
+<p>Most days do.</p>
+<p>As you get older, the seconds, minutes, hours, and days just seem a bit shorter.</p>
+<p>Even the microwave I set for a few comfortable minutes seem to take me by surprise.</p>
+<p><em>Already? I thought it had more time.</em></p>
+<p>Kids never want the day to end.</p>
+<p>They can spend an eternity in a day and still want it to last a little longer.</p>
+<p>My little ones are how I measure time now.</p>
+<p>I don't <em>feel</em> old.</p>
+<p>I just act it.</p>
+<p>But when I see how big they're getting, well, do the math.</p>
+<p>This is a very wonderful season. In the year. Of my life.</p>
+<p>To having the time of our lives.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Guano</title>
         <author>
@@ -313,36 +347,6 @@
 <p>Something in the air.</p>
 <p>Something big is coming.</p>
 <p>Oh, and I farted.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sheet</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/sheet/"/>
-        <id>https://iterating.com/sheet/</id>
-
-        <updated>2025-11-03T14:37:11-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I think people should have character sheets. Resumes suck. Character sheets&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I think people should have character sheets.</p>
-<p>Resumes suck.</p>
-<p>Character sheets are cool.</p>
-<p>Ability scores. Hit points. Levels. Classes. Alignment. Weapons. Armor. Magic items.</p>
-<p>Why save that sweet nectar for the fictional?</p>
-<p>So that's what I would encourage you to do today.</p>
-<p>Create your own character sheet. For you.</p>
-<p>And keep updating it, iterating(!) it, as you go through this campaign called life.</p>
-<p>To leveling up, forever.</p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
