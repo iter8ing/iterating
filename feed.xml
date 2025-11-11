@@ -3,12 +3,43 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-10T12:32:10-05:00</updated>
+    <updated>2025-11-11T13:04:12-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Ivory and Gold</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/ivory-and-gold/"/>
+        <id>https://iterating.com/ivory-and-gold/</id>
+
+        <updated>2025-11-11T13:04:12-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Today is a very special day. I won't say why because&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Today is a very special day.</p>
+<p>I won't say why because some things are just for me.</p>
+<p>I always thought I would end up alone on some mountain top in rural Korea.</p>
+<p>Contemplating and ess.</p>
+<p>And I suppose there is a universe where I am doing just that.</p>
+<p>But not this one.</p>
+<p>In this one, I have to nurture ivory and two precious mixtures of ivory and gold.</p>
+<p>Yes, they all drive me crazy, but I suppose everything I have ever loved does.</p>
+<p>So alas, my mountain top is digital.</p>
+<p>My alone is in pockets of time. </p>
+<p>A hermit with a fortune.</p>
+<p>Just like I pictured.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Treasure Chaser</title>
         <author>
@@ -335,43 +366,6 @@
 <p>I got so much work to do.</p>
 <p>But I'm trying. I'm trying real hard, Ringo.</p>
 <p>To be the shepherd.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Testing</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/testing-3/"/>
-        <id>https://iterating.com/testing-3/</id>
-
-        <updated>2025-11-05T19:05:35-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    123. Type check. Will this update? I continue to tinker on&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>123.</p>
-<p>Type check.</p>
-<p>Will this update?</p>
-<p>I continue to tinker on this thing. </p>
-<p>Trying to learn every day.</p>
-<p>Will this work? </p>
-<p>Let's find out!</p>
-<p>Remember those days when we'd have to knock the side of the television to get it to work?</p>
-<p>Technology is always improving, but you can't thump it anymore.</p>
-<p>It's unthumpable.</p>
-<p>And there are times when it just don't make sense. When the urge to thump rises.</p>
-<p>And you got to adjust, you gotta tinker. I would say iterate, but yeah, that's not the right word.</p>
-<p>Clouds and locals. </p>
-<p>Syncs and backups.</p>
-<p>Fixed this issue, it seems, but it really wasn't an issue.</p>
-<p>Just redundancy.</p>
-<p>A Plan B.</p>
-<p>Two is one, you know.</p>
             ]]>
         </content>
     </entry>
