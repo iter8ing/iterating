@@ -3,12 +3,38 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-12T17:35:16-05:00</updated>
+    <updated>2025-11-13T13:19:17-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Wisdom</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/wisdom/"/>
+        <id>https://iterating.com/wisdom/</id>
+
+        <updated>2025-11-13T13:19:17-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    As I've said before, I'm currently in an absurd phase. I'm&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As I've said before, I'm currently in an absurd phase.</p>
+<p>I'm going for absurd.</p>
+<p>As an underachieving, overachieving Asian American, there is motivation in insults.</p>
+<p>So here's an absurd motivational insult:</p>
+<p>Don't be wisdumb, be wissmart!</p>
+<p>...</p>
+<p>I'll see myself out.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Way of Other Ways</title>
         <author>
@@ -358,40 +384,6 @@
 <p>At the time, it felt like such a win, to be able to poke around the brain of someone you admired.</p>
 <p>I don't remember a single thing about what he talked about.</p>
 <p>But I remember her answer.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Advice</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/advice/"/>
-        <id>https://iterating.com/advice/</id>
-
-        <updated>2025-11-06T00:50:17-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Drake Maye is the quarterback for the New England Patriots. [This&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Drake Maye is the quarterback for the New England Patriots.</p>
-<p>[This is my second post about New England Patriot quarterbacks. Weird.]</p>
-<p>He said something the other day that I thought relevant.</p>
-<p>He said:</p>
-<blockquote>
-<p>"All the praise when you're successful and all the hatred when things go bad...Don't take criticism from someone you wouldn't take advice from."</p>
-</blockquote>
-<p>It reminds me of a quote from an old friend.</p>
-<blockquote>
-<p>"If the A-holes are mad at you, you're doing something right."</p>
-</blockquote>
-<p>Today's world gives microphones and megaphones to voices of varying value and values.</p>
-<p>Pick your mentors.</p>
-<p>Pick your enemies.</p>
-<p>May they never cross.</p>
             ]]>
         </content>
     </entry>
