@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/thanks/",
+            "url": "https://iterating.com/thanks/",
+            "title": "Thanks",
+            "summary": "I wish it didn't take a scare once in a while&hellip;",
+            "content_html": "<p>I wish it didn't take a scare once in a while to remember how lucky and blessed you are.</p>\n<p>I wish it didn't, but sometimes it does.</p>\n<p>A jolt back into reality.</p>\n<p>A wake-up call.</p>\n<p>A near miss.</p>\n<p>The more susceptible you are to danger, the more you realize how much plain ol' luck has to do with it.</p>\n<p><em>Just wasn't my day to go.</em></p>\n<p>Dodged a bullet.</p>\n<p>You could credit skill, but I ain't Neo.</p>\n<p>Better to be lucky than great.</p>\n<p>But not better than good.</p>\n<p>Good beats luck.</p>\n<p>It's just sometimes, luck survives.</p>\n<p>To the fallen good and the good fallen.</p>\n<p>Just wasn't your day. </p>\n<p>Time to go.</p>\n<p>May you rise, once more.</p>\n<p>Good luck.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-14T18:35:32-05:00",
+            "date_modified": "2025-11-14T18:39:03-05:00"
+        },
+        {
             "id": "https://iterating.com/wisdom/",
             "url": "https://iterating.com/wisdom/",
             "title": "Wisdom",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-06T14:23:02-05:00",
             "date_modified": "2025-11-06T14:23:02-05:00"
-        },
-        {
-            "id": "https://iterating.com/do-overs/",
-            "url": "https://iterating.com/do-overs/",
-            "title": "Do Overs",
-            "summary": "Would you do it again? I asked this question to the&hellip;",
-            "content_html": "<p>Would you do it again?</p>\n<p>I asked this question to the wife of a well-known author, during a lunch we shared with our families. She had told us of all their struggles. And how they were thriving in the good.</p>\n<p>Would she do it all again?</p>\n<p>She hesitated, deep in thought.</p>\n<p>After what felt like a minute, but was only a few long seconds, she said, \"Yes, I would, but I wouldn't want to live through all of it again.\"</p>\n<p>My wife and I traveled across the country to meet this couple.</p>\n<p>At the time, I was searching for answers. </p>\n<p>I suppose I still am.</p>\n<p>At the time, it felt like such a win, to be able to poke around the brain of someone you admired.</p>\n<p>I don't remember a single thing about what he talked about.</p>\n<p>But I remember her answer.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-06T13:58:05-05:00",
-            "date_modified": "2025-11-06T14:18:13-05:00"
         }
     ]
 }

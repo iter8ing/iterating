@@ -3,12 +3,49 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-13T13:25:24-05:00</updated>
+    <updated>2025-11-14T18:39:03-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Thanks</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/thanks/"/>
+        <id>https://iterating.com/thanks/</id>
+
+        <updated>2025-11-14T18:35:32-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I wish it didn't take a scare once in a while&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I wish it didn't take a scare once in a while to remember how lucky and blessed you are.</p>
+<p>I wish it didn't, but sometimes it does.</p>
+<p>A jolt back into reality.</p>
+<p>A wake-up call.</p>
+<p>A near miss.</p>
+<p>The more susceptible you are to danger, the more you realize how much plain ol' luck has to do with it.</p>
+<p><em>Just wasn't my day to go.</em></p>
+<p>Dodged a bullet.</p>
+<p>You could credit skill, but I ain't Neo.</p>
+<p>Better to be lucky than great.</p>
+<p>But not better than good.</p>
+<p>Good beats luck.</p>
+<p>It's just sometimes, luck survives.</p>
+<p>To the fallen good and the good fallen.</p>
+<p>Just wasn't your day. </p>
+<p>Time to go.</p>
+<p>May you rise, once more.</p>
+<p>Good luck.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wisdom</title>
         <author>
@@ -356,36 +393,6 @@
 <p>Yeah, heck if I know.</p>
 <p>No gurus here.</p>
 <p>Figure it out.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Do Overs</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/do-overs/"/>
-        <id>https://iterating.com/do-overs/</id>
-
-        <updated>2025-11-06T13:58:05-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Would you do it again? I asked this question to the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Would you do it again?</p>
-<p>I asked this question to the wife of a well-known author, during a lunch we shared with our families. She had told us of all their struggles. And how they were thriving in the good.</p>
-<p>Would she do it all again?</p>
-<p>She hesitated, deep in thought.</p>
-<p>After what felt like a minute, but was only a few long seconds, she said, "Yes, I would, but I wouldn't want to live through all of it again."</p>
-<p>My wife and I traveled across the country to meet this couple.</p>
-<p>At the time, I was searching for answers. </p>
-<p>I suppose I still am.</p>
-<p>At the time, it felt like such a win, to be able to poke around the brain of someone you admired.</p>
-<p>I don't remember a single thing about what he talked about.</p>
-<p>But I remember her answer.</p>
             ]]>
         </content>
     </entry>
