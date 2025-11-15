@@ -3,12 +3,42 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-14T18:46:36-05:00</updated>
+    <updated>2025-11-15T13:23:59-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Rounding Error</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/rounding-error/"/>
+        <id>https://iterating.com/rounding-error/</id>
+
+        <updated>2025-11-15T13:23:59-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    We have stopped printing the penny. In this case, I am&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We have stopped printing the penny.</p>
+<p>In this case, I am using the patriotic "we" as I don't actually run the mint.</p>
+<p>But listen:</p>
+<p>Did you know it cost four cents to print a penny?</p>
+<p>Oof.</p>
+<p>Ooooof.</p>
+<p>It hurts my brain.</p>
+<p>I don't know how much it costs to print a nickel, but if I were a nickel, I'd be sweating.</p>
+<p>USA! USA! USA!</p>
+<p>I don't know if pennies are from heaven, but here's hoping you made it back home if so.</p>
+<p>To pinching dimes.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Thanks</title>
         <author>
@@ -366,34 +396,6 @@
 <p>I am still going to write here.</p>
 <p>Just getting started.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Answer</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/the-answer/"/>
-        <id>https://iterating.com/the-answer/</id>
-
-        <updated>2025-11-06T14:23:02-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    You know what your problem is? I think that's a fine&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>You know what your problem is?</p>
-<p>I think that's a fine way to start a sentence.</p>
-<p>But you better come correct with the follow-up.</p>
-<p>Well, do you?</p>
-<p>Hmm?</p>
-<p>Hmmmmmmmmmmmmmmmmmmmm?</p>
-<p>Yeah, heck if I know.</p>
-<p>No gurus here.</p>
-<p>Figure it out.</p>
             ]]>
         </content>
     </entry>

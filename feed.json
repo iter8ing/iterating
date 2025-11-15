@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/rounding-error/",
+            "url": "https://iterating.com/rounding-error/",
+            "title": "Rounding Error",
+            "summary": "We have stopped printing the penny. In this case, I am&hellip;",
+            "content_html": "<p>We have stopped printing the penny.</p>\n<p>In this case, I am using the patriotic \"we\" as I don't actually run the mint.</p>\n<p>But listen:</p>\n<p>Did you know it cost four cents to print a penny?</p>\n<p>Oof.</p>\n<p>Ooooof.</p>\n<p>It hurts my brain.</p>\n<p>I don't know how much it costs to print a nickel, but if I were a nickel, I'd be sweating.</p>\n<p>USA! USA! USA!</p>\n<p>I don't know if pennies are from heaven, but here's hoping you made it back home if so.</p>\n<p>To pinching dimes.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-15T13:23:59-05:00",
+            "date_modified": "2025-11-15T13:23:59-05:00"
+        },
+        {
             "id": "https://iterating.com/thanks/",
             "url": "https://iterating.com/thanks/",
             "title": "Thanks",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-06T14:34:50-05:00",
             "date_modified": "2025-11-06T14:43:01-05:00"
-        },
-        {
-            "id": "https://iterating.com/the-answer/",
-            "url": "https://iterating.com/the-answer/",
-            "title": "The Answer",
-            "summary": "You know what your problem is? I think that's a fine&hellip;",
-            "content_html": "<p>You know what your problem is?</p>\n<p>I think that's a fine way to start a sentence.</p>\n<p>But you better come correct with the follow-up.</p>\n<p>Well, do you?</p>\n<p>Hmm?</p>\n<p>Hmmmmmmmmmmmmmmmmmmmm?</p>\n<p>Yeah, heck if I know.</p>\n<p>No gurus here.</p>\n<p>Figure it out.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-06T14:23:02-05:00",
-            "date_modified": "2025-11-06T14:23:02-05:00"
         }
     ]
 }
