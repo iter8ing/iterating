@@ -3,12 +3,47 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-15T13:30:11-05:00</updated>
+    <updated>2025-11-16T16:43:38-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Even</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/even/"/>
+        <id>https://iterating.com/even/</id>
+
+        <updated>2025-11-16T16:42:35-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    We talk about odds. Like you have a one in a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We talk about odds.</p>
+<p>Like you have a one in a thousand chance to do this.</p>
+<p>Or you have a 1% chance to succeed in that.</p>
+<p>But the reality is, for most people, we only care about the results.</p>
+<p>For example, if you had a 99% likelihood to pass a test, but you fail it, is there any victory in knowing you had such a high chance to pass? No, the only result you care about is yours.</p>
+<p>So to me, most things are 50/50.</p>
+<p>They happen or they don't.</p>
+<p>The trick then is, to build a consistency in your odds.</p>
+<p>I believe in asymmetric bets.</p>
+<p>But I don't care about the odds.</p>
+<p>It's always binary.</p>
+<p>0. 1. Heads. Tails. </p>
+<p>Win.</p>
+<p>Loss.</p>
+<p>So don't tell me about the odds.</p>
+<p>Tell me how to get even.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rounding Error</title>
         <author>
@@ -365,37 +400,6 @@
 <p>But if I'm not the same, the next question is, "Who in the world am I?" Ah! That's the great puzzle!</p>
 </blockquote>
 <p>And they lived happily ever after.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The End</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/the-end/"/>
-        <id>https://iterating.com/the-end/</id>
-
-        <updated>2025-11-06T14:34:50-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    You ever stick to something, just because you wanted to see&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>You ever stick to something, just because you wanted to see how it ends?</p>
-<p>Be it a book, a game, a movie, a tv show, a job?</p>
-<p>Why do we do that?</p>
-<p>Some sort of closure is needed. </p>
-<p>Even if you know it'll disappoint.</p>
-<p>I'd like to think that wisdom is in knowing what to finish and what to just stop.</p>
-<p>What is worth finishing?</p>
-<p>What is worth stopping?</p>
-<p>Oh, and don't worry.</p>
-<p>I am still going to write here.</p>
-<p>Just getting started.</p>
-<p> </p>
             ]]>
         </content>
     </entry>
