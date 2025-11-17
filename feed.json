@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/but/",
+            "url": "https://iterating.com/but/",
+            "title": "But",
+            "summary": "When I was growing up, there was a theory. That a&hellip;",
+            "content_html": "<p>When I was growing up, there was a theory.</p>\n<p>That a guy needed his butt whooped to truly be a man.</p>\n<p>His arse need kicked.</p>\n<p>It was just a rite of passage.</p>\n<p>And you could mostly tell, from their actions and/or attitude, whether said kickage had taken place in their lives.</p>\n<p>It, to me, is a measure of character. Of respect.</p>\n<p>There's a lack of respect these days. Particularly self-respect. Self-pride is off the charts. But self-respect is in a recession at best.</p>\n<blockquote>\n<p>That person needs their whoopin'!</p>\n</blockquote>\n<p>I suppose I still say that today.</p>\n<p>As a man of peace, this is more a fleeting thought in a glimmer of flame.</p>\n<p>I don't really say it.</p>\n<p>I'm a pacifist, man. </p>\n<p>Truly.</p>\n<p>Peace. Love. All that ess.</p>\n<p>Next time, though, you see someone acting a fool, remember my wisdom.</p>\n<p>It really eliminates 99% of your outrage.</p>\n<p>Should you have any. </p>\n<p>As a man of peace (have I said that yet?), I have a little (out)rage.</p>\n<p>Yang to my yin, as they say (no one says that). </p>\n<p>Have I told you I'm going for absurd?</p>\n<p>Nailed it.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-17T13:03:12-05:00",
+            "date_modified": "2025-11-17T13:03:12-05:00"
+        },
+        {
             "id": "https://iterating.com/even/",
             "url": "https://iterating.com/even/",
             "title": "Even",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-08T17:48:08-05:00",
             "date_modified": "2025-11-08T18:53:01-05:00"
-        },
-        {
-            "id": "https://iterating.com/once-upon-a-time/",
-            "url": "https://iterating.com/once-upon-a-time/",
-            "title": "Once Upon A Time",
-            "summary": "I'm just happy to be here. I know sometimes it's not&hellip;",
-            "content_html": "<p>I'm just happy to be here.</p>\n<p>I know sometimes it's not clear.</p>\n<p>That's the old curmudgeon in me.</p>\n<p>But I've always been this way.</p>\n<p>Right now, all of this, every single ridiculous post, is me reeling from the reality of how a man who plays the long game almost passes, but survives.</p>\n<p>Lives to fight another day.</p>\n<p>A most fortunate man.</p>\n<p>How do you keep thinking and planning the future when you're just enjoying, and grateful for, today?</p>\n<p>I tell those closest to me that I'm in my absurd phase.</p>\n<p>I'm going for absurd.</p>\n<p>It seems like a fun way to play it.</p>\n<p>All of this, after all, is the stuff of fairy tales.</p>\n<p>Magic and wonder.</p>\n<p>I sit in awe of it all.</p>\n<blockquote>\n<p>But if I'm not the same, the next question is, \"Who in the world am I?\" Ah! That's the great puzzle!</p>\n</blockquote>\n<p>And they lived happily ever after.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-07T00:37:54-05:00",
-            "date_modified": "2025-11-07T00:53:52-05:00"
         }
     ]
 }
