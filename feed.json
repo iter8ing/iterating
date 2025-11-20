@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/juice/",
+            "url": "https://iterating.com/juice/",
+            "title": "Juice",
+            "summary": "My brain is starting to unfog. This writing every day thing&hellip;",
+            "content_html": "<p>My brain is starting to unfog.</p>\n<p>This writing every day thing is helping me rewire.</p>\n<p>Thickening the conduction.</p>\n<p>Making more juice flow.</p>\n<p>Not to say that I wasn't flowing before, but I wasn't flowing before.</p>\n<p>Time is so interesting. </p>\n<p>Living in a bad way felt numb. Like I wasn't in my skin. Just an observer.</p>\n<p>My eyes didn't feel like my own.</p>\n<p>It felt like forever. </p>\n<p>But it's slowly and largely faded.</p>\n<p>So staggeringly thankful.</p>\n<p>I don't know if I'm just used to a new normal, a new avatar, but I am starting to understand.</p>\n<p>I am just happy to be here.</p>\n<p>Writing to myself.</p>\n<p>To my loved ones.</p>\n<p>And to strangers (how'd you get in here?).</p>\n<p>The thing I'm focusing on now is energy. </p>\n<p>The inner fuel tank.</p>\n<p>I get about as terrible a gas mileage as my body-on-frame SUVs.</p>\n<p>But I love 'em.</p>\n<p>I'm not saying I want a Tesla or some hybrid, just want some more juice when I stomp.</p>\n<p>Here's the thing I'm learning, though.</p>\n<p>There was a time when I had to spend my juice on just keeping myself above ground.</p>\n<p>So I conserved it. Hoarded it. Let it stock up, even as it diminished.</p>\n<p>But it is only by using it that the capacity regrows.</p>\n<p>Muscle memory applying to sorts of circuitry.</p>\n<p>You won't see me running marathons, but 0-60? </p>\n<p>Zoom.</p>\n<p>Sip the juice!</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-20T17:38:06-05:00",
+            "date_modified": "2025-11-20T17:38:06-05:00"
+        },
+        {
             "id": "https://iterating.com/diamond-hands-and-crystal-balls/",
             "url": "https://iterating.com/diamond-hands-and-crystal-balls/",
             "title": "Diamond Hands and Crystal Balls",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-11T13:04:12-05:00",
             "date_modified": "2025-11-11T14:05:52-05:00"
-        },
-        {
-            "id": "https://iterating.com/treasure-chaser/",
-            "url": "https://iterating.com/treasure-chaser/",
-            "title": "Treasure Chaser",
-            "summary": "Are your memories treasure? Or are your visions of the future&hellip;",
-            "content_html": "<p>Are your memories treasure?</p>\n<p>Or are your visions of the future the treasure?</p>\n<p>What about the present?</p>\n<p>Is right now considered a treasure?</p>\n<p>They all seem pretty valuable.</p>\n<p>Treasure hunters are an interesting group.</p>\n<p>Chasing futures where they hope to find the valued past right now or somewhat soonish.</p>\n<p>Someone's past, found in someone else's present, for yet another someone else's future.</p>\n<p>Actually finding the treasure comes with all sorts of drama (like all big moments).</p>\n<p>You may not even be able to keep it.</p>\n<p>The law, ya know.</p>\n<p>Ahh, but the chase is yours.</p>\n<p>They can't take that away, right?</p>\n<p>Right?</p>\n<p>Did they take that away?</p>\n<p>How big is your fortune?</p>\n<p>Is it vaulted in your heart?</p>\n<p>Is it in the cloud in your brain?</p>\n<p>Or can you touch it with your lips?</p>\n<p>Are you the treasure?</p>\n<p>Yours or anyone else's?</p>\n<p>Somewhere between remembering and imagining is present day.</p>\n<p>Vault, earth, cloud.</p>\n<p>I'd say carpe diem or some ess, but I hear they cancelled Latin.</p>\n<p><em>Sic Transit Gloria.</em></p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-10T12:09:45-05:00",
-            "date_modified": "2025-11-10T12:32:10-05:00"
         }
     ]
 }
