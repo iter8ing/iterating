@@ -3,12 +3,42 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-20T18:01:12-05:00</updated>
+    <updated>2025-11-21T14:35:28-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Rank</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/rank/"/>
+        <id>https://iterating.com/rank/</id>
+
+        <updated>2025-11-21T14:35:28-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Did you know that we used to score people's intelligence? I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Did you know that we used to score people's intelligence?</p>
+<p>I mean, we still do for "geniuses" and what not. But I'm talking about going the other way. The low way.</p>
+<p>And these ranks had titles like moron, imbecile, and idiot.</p>
+<p>Guess which one was dumbest?</p>
+<p>Idiot.</p>
+<p>An imbecile is a little smarter than an idiot.</p>
+<p>And a moron is King of the Stupid.</p>
+<p>So, calling someone a moron isn't as bad as it sounds.</p>
+<p>You're actually paying them a compliment.</p>
+<p>If they're an imbecile or an idiot.</p>
+<p>Class dismissed.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sip the Juice</title>
         <author>
@@ -376,39 +406,6 @@
 <p>It's knowing what to throw away that you keep hanging onto, that's the killer.</p>
 <p>There are other Ways.</p>
 <p>This is mine.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ivory and Gold</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/ivory-and-gold/"/>
-        <id>https://iterating.com/ivory-and-gold/</id>
-
-        <updated>2025-11-11T13:04:12-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Today is a very special day. I won't say why because&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Today is a very special day.</p>
-<p>I won't say why because some things are just for me.</p>
-<p>I always thought I would end up alone on some mountain top in rural Korea.</p>
-<p>Contemplating and striking the air and wooden things.</p>
-<p>You know, monk type ess.</p>
-<p>And I suppose there is a universe where I am doing just that.</p>
-<p>But not this one.</p>
-<p>In this one, I have to nurture and love ivory and two precious mixtures of ivory and gold.</p>
-<p>Yes, they all drive me crazy, but I suppose everything I have ever loved does.</p>
-<p>So alas, my mountain top is digital.</p>
-<p>My alone is in brief pockets of time. </p>
-<p>I am the <em>richest man in the world</em>.</p>
-<p>A hermit with a fortune.</p>
-<p>Just like I dreamed.</p>
             ]]>
         </content>
     </entry>
