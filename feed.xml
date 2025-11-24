@@ -3,12 +3,41 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-11-22T19:28:18-05:00</updated>
+    <updated>2025-11-23T20:01:28-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Thanks Given</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/thanks-given/"/>
+        <id>https://iterating.com/thanks-given/</id>
+
+        <updated>2025-11-23T20:01:28-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I suppose this is as good a week as any to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I suppose this is as good a week as any to start feeling thankful.</p>
+<p>In the last couple of days, someone has (over)thanked me for holding the door for them and a grocery store employee went out of their way to thank me for returning a shopping cart.</p>
+<p>Such things are always appreciated, but it makes me wonder, do folks not do this normally?</p>
+<p>We know the answer.</p>
+<p>I'm no hero, though. No, seriously, sit down. Ok, ok, I'll wait.</p>
+<p>...</p>
+<p>I'm tryptophaning this week.</p>
+<p>Sounds like a Vietnamese influencer.</p>
+<p>Trypto Phan.</p>
+<p>Gobble gobble, ya'll.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Play Date</title>
         <author>
@@ -351,34 +380,6 @@
 <p>Good luck.</p>
 <p>Signed,</p>
 <p>One lucky mf.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wisdom</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/wisdom/"/>
-        <id>https://iterating.com/wisdom/</id>
-
-        <updated>2025-11-13T13:19:17-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    As I've said before, I'm currently in an absurd phase. I'm&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>As I've said before, I'm currently in an absurd phase.</p>
-<p>I'm going for absurd.</p>
-<p>As an underachieving, overachieving Asian going for absurd, there is always motivation in insults.</p>
-<p>So here's an absurd motivational insult to put in your pocket while you pursue the meaning of life:</p>
-<blockquote>
-<p>Don't be wisdumb, be wissmart!</p>
-</blockquote>
-<p>...</p>
-<p>I'll see myself out.</p>
             ]]>
         </content>
     </entry>
