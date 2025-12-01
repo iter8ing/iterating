@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/peaks-and-plateaus/",
+            "url": "https://iterating.com/peaks-and-plateaus/",
+            "title": "Peaks and Plateaus",
+            "summary": "Most of us, especially the young ones, seek the peak experience.",
+            "content_html": "<p>Most of us, especially the young ones, seek the peak experience.</p>\n<p>The high spots.</p>\n<p>The highlights.</p>\n<p>The explosive.</p>\n<p>Anyone can see glimmers of this with their own two eyes, their heart, their soul.</p>\n<p>And almost like a drug, you can spend an eternity trying to recapture that initial experience.</p>\n<p>More rare, I have learned, is the plateau experience (a terrible name) signifying a prolonged experience of profound joy.</p>\n<p>An ability like this is <em>earned</em> over a lifetime. Meaning, with few exceptions, this is an ability reserved for those who have accumulated some yesterdays.</p>\n<p>As we grow older, we stop chasing Alpha Centauri, and just appreciate how beautiful a full moon is.</p>\n<p>Still celestial, still infinite, just a more sustainable point of view.</p>\n<p>Peaks are awesome. But plateaus can be forever.</p>\n<p>I choose forever.</p>\n<p>But I'm just getting old.</p>\n<p>Hit a lot of peaks.</p>\n<p>Right now, I'll enjoy the view.</p>\n<p>Maslow said you have to die a little to be truly reborn.</p>\n<p>I feel that ess.</p>\n<p>I died a little.</p>\n<p>And I am new.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-01T13:59:50-05:00",
+            "date_modified": "2025-12-01T13:59:50-05:00"
+        },
+        {
             "id": "https://iterating.com/todays/",
             "url": "https://iterating.com/todays/",
             "title": "Todays",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-22T13:34:00-05:00",
             "date_modified": "2025-11-22T13:34:30-05:00"
-        },
-        {
-            "id": "https://iterating.com/rank/",
-            "url": "https://iterating.com/rank/",
-            "title": "Rank",
-            "summary": "Did you know that we used to score people's intelligence? I&hellip;",
-            "content_html": "<p>Did you know that we used to score people's intelligence?</p>\n<p>I mean, we still do for \"geniuses\" and what not. But I'm talking about going the other way. The low way.</p>\n<p>And these ranks had titles like moron, imbecile, and idiot.</p>\n<p>Guess which one was dumbest?</p>\n<p>Idiot.</p>\n<p>An imbecile is a little smarter than an idiot.</p>\n<p>And a moron is King of the Stupid.</p>\n<p>So, calling someone a moron isn't as bad as it sounds.</p>\n<p>You're actually paying them a compliment.</p>\n<p>If they're an imbecile or an idiot.</p>\n<p>Class dismissed.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-21T14:35:28-05:00",
-            "date_modified": "2025-11-21T14:35:28-05:00"
         }
     ]
 }
