@@ -3,12 +3,40 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-12-01T14:44:23-05:00</updated>
+    <updated>2025-12-02T12:15:18-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Long Decembers</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/long-decembers/"/>
+        <id>https://iterating.com/long-decembers/</id>
+
+        <updated>2025-12-02T12:15:18-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Would we love December if it didn't have Christmas and New&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Would we love December if it didn't have Christmas and New Year's Eve in it?</p>
+<p>I don't know.</p>
+<p>The last month of the year.</p>
+<p>The unofficial (early) and official start of winter.</p>
+<p>It can be a busy time and a chill time.</p>
+<p>It is time to put on bow on it and other things.</p>
+<p>To wrap up the year and some presents to celebrate.</p>
+<p>To holding on to moments.</p>
+<p>And letting them go.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Peaks and Plateaus</title>
         <author>
@@ -353,35 +381,6 @@
 <p>I gotta say, I'm more a fried chicken fellow than a deep-fried turkey man, but this week is an exception.</p>
 <p>Gobble gobble, ya'll.</p>
 <p>For gullets reborn, thanks are given.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Play Date</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/play-date/"/>
-        <id>https://iterating.com/play-date/</id>
-
-        <updated>2025-11-22T13:34:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I'm going to try and put some forethought (aforethought?) into these&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I'm going to try and put some forethought (aforethought?) into these musings.</p>
-<p>Instead of just turning the faucet on and seeing what color flows out.</p>
-<p>I suppose that'd be a good way to do it.</p>
-<p>To prepare.</p>
-<p>But not today, today is Saturday. I'm chilling.</p>
-<p>So this is what you get.</p>
-<p>How are you?</p>
-<p>How are you doing?</p>
-<p>What's new?</p>
-<p>Zzzzzzz.</p>
             ]]>
         </content>
     </entry>
