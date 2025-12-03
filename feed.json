@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/fun-while-it-lasted/",
+            "url": "https://iterating.com/fun-while-it-lasted/",
+            "title": "Fun While It Lasted",
+            "summary": "My vision is different. I wish I could say it was&hellip;",
+            "content_html": "<p>My vision is different.</p>\n<p>I wish I could say it was me being deep and mystical.</p>\n<p>But all this writing has made my vision sharper but different.</p>\n<p>This happened yesterday.</p>\n<p>I can still write, and I still plan to, but it's a bit more difficult now.</p>\n<p>Strange, right?</p>\n<p>Ah well, it's this new avatar.</p>\n<p>The things don't work like they used to.</p>\n<p>Good and bad.</p>\n<p>For a while, the writing may slow or stop.</p>\n<p>Until I can heal. Or find a new way to write.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-03T15:09:12-05:00",
+            "date_modified": "2025-12-03T15:09:12-05:00"
+        },
+        {
             "id": "https://iterating.com/long-decembers/",
             "url": "https://iterating.com/long-decembers/",
             "title": "Long Decembers",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-24T01:41:53-05:00",
             "date_modified": "2025-11-27T01:43:28-05:00"
-        },
-        {
-            "id": "https://iterating.com/thanks-given/",
-            "url": "https://iterating.com/thanks-given/",
-            "title": "Thanks Given",
-            "summary": "I suppose this is as good a week as any to&hellip;",
-            "content_html": "<p>I suppose this is as good a week as any to start feeling thankful.</p>\n<p>In the recent past, someone has (over)thanked me for holding the door for them and a grocery store employee went out of their way to thank me for returning a shopping cart.</p>\n<p>Such things are always appreciated, but it makes me wonder, do folks not do this normally?</p>\n<p>We know the answer.</p>\n<p>Bunch of savages in this town.</p>\n<p>I'm no hero, though. No, seriously, sit down. Ok, ok, I'll wait.</p>\n<p>...</p>\n<p>I'm tryptophaning this week.</p>\n<p>Sounds like a Vietnamese influencer.</p>\n<p>Trypto Phan.</p>\n<p>I gotta say, I'm more a fried chicken fellow than a deep-fried turkey man, but this week is an exception.</p>\n<p>Gobble gobble, ya'll.</p>\n<p>For gullets reborn, thanks are given.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-23T20:01:28-05:00",
-            "date_modified": "2025-11-23T20:39:20-05:00"
         }
     ]
 }

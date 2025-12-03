@@ -3,12 +3,42 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-12-02T12:19:48-05:00</updated>
+    <updated>2025-12-03T15:09:12-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Fun While It Lasted</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/fun-while-it-lasted/"/>
+        <id>https://iterating.com/fun-while-it-lasted/</id>
+
+        <updated>2025-12-03T15:09:12-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    My vision is different. I wish I could say it was&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My vision is different.</p>
+<p>I wish I could say it was me being deep and mystical.</p>
+<p>But all this writing has made my vision sharper but different.</p>
+<p>This happened yesterday.</p>
+<p>I can still write, and I still plan to, but it's a bit more difficult now.</p>
+<p>Strange, right?</p>
+<p>Ah well, it's this new avatar.</p>
+<p>The things don't work like they used to.</p>
+<p>Good and bad.</p>
+<p>For a while, the writing may slow or stop.</p>
+<p>Until I can heal. Or find a new way to write.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Long Decembers</title>
         <author>
@@ -353,38 +383,6 @@
 <p>This is weird, right?</p>
 <p>I live on the corner of digital and analog, but I repeat myself.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thanks Given</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/thanks-given/"/>
-        <id>https://iterating.com/thanks-given/</id>
-
-        <updated>2025-11-23T20:01:28-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I suppose this is as good a week as any to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I suppose this is as good a week as any to start feeling thankful.</p>
-<p>In the recent past, someone has (over)thanked me for holding the door for them and a grocery store employee went out of their way to thank me for returning a shopping cart.</p>
-<p>Such things are always appreciated, but it makes me wonder, do folks not do this normally?</p>
-<p>We know the answer.</p>
-<p>Bunch of savages in this town.</p>
-<p>I'm no hero, though. No, seriously, sit down. Ok, ok, I'll wait.</p>
-<p>...</p>
-<p>I'm tryptophaning this week.</p>
-<p>Sounds like a Vietnamese influencer.</p>
-<p>Trypto Phan.</p>
-<p>I gotta say, I'm more a fried chicken fellow than a deep-fried turkey man, but this week is an exception.</p>
-<p>Gobble gobble, ya'll.</p>
-<p>For gullets reborn, thanks are given.</p>
             ]]>
         </content>
     </entry>
