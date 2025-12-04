@@ -3,12 +3,44 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-12-04T11:35:38-05:00</updated>
+    <updated>2025-12-04T16:21:08-05:00</updated>
     <author>
         <name>AL8X</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Iterating...</title>
+        <author>
+            <name>AL8X</name>
+        </author>
+        <link href="https://iterating.com/iterating/"/>
+        <id>https://iterating.com/iterating/</id>
+
+        <updated>2025-12-04T16:21:08-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I'm writing again today. Just to see if I can do&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'm writing again today. Just to see if I can do it.</p>
+<p>I wonder how sustainable it is to just type by feel. </p>
+<p>Don't get me wrong, I can still see. I'm fine.</p>
+<p>It's just typing on my computer has suddenly turned... off.</p>
+<p>I think I have sensitivity to certain screens. Too much flashing/refreshing/wa wah.</p>
+<p>As someone who loves tech, this is a bit of a bummer. But I'm going to roll with it. I'm in no shape to complain. I just will figure a work around.</p>
+<p>Closing my eyes to type is the first workaround.</p>
+<p>Writing by feel.</p>
+<p>I've been a bit under the weather so that's probably the reason.</p>
+<p>Who knows.</p>
+<p>What I know is that this writing thing is wired into my OS and I'm not going to stop over some vision thing.</p>
+<p>I wish I had something more to say it's just not going to happen until I get into a groove with this eyes closed typing thing.</p>
+<p>Living up to this site's domain name.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>By Feels</title>
         <author>
@@ -341,48 +373,6 @@
 <p>Normal sucks.</p>
 <p>There I said it.</p>
 <p>Happy Thanksgiving Eve!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Goldilocks Mean</title>
-        <author>
-            <name>AL8X</name>
-        </author>
-        <link href="https://iterating.com/goldilocks-mean/"/>
-        <id>https://iterating.com/goldilocks-mean/</id>
-
-        <updated>2025-11-25T15:56:23-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    It occurs to me that is sort of my journal. I&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>It occurs to me that is sort of my journal.</p>
-<p>I would say private journal but it's on the friggin' internet.</p>
-<p>So I won't.</p>
-<p>It's my journal.</p>
-<p>I've written a lot in my life. Always filtered, though.</p>
-<p>This is as close as I have gotten to being "me" but it's still heavily colandered.</p>
-<p>I don't want to share everything.</p>
-<p>I think that's the art, right?</p>
-<p>What to share, what not to.</p>
-<p>People seem to trend two ways: They either create a highlight reel or throw a pity party.</p>
-<p>But as a stoic of sorts, I believe in golden means.</p>
-<p>Goldilocks means.</p>
-<p>Not too hot, not too cold. </p>
-<p><em>Juuuuuuust</em> right.</p>
-<p>It's truly the way to go through our life campaign.</p>
-<p>And what is the optimal sliding scale setting?</p>
-<p>70% highlights, 30% rants?</p>
-<p>50/50?</p>
-<p>90/10?</p>
-<p>Bah, who knows. You figure it out, numbers cruncher.</p>
-<p>I'm more of a vibe guy.</p>
-<p>Stay gold.</p>
-<p> </p>
             ]]>
         </content>
     </entry>
