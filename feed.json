@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/venn/",
+            "url": "https://iterating.com/venn/",
+            "title": "Venn",
+            "summary": "I've always been careful to keep my circles separate. Family friends.",
+            "content_html": "<p>I've always been careful to keep my circles separate.</p>\n<p>Family friends. Work friends. School friends. Old school friends. Digital friends.</p>\n<p>Each in their own category. </p>\n<p>Never the two shall mix.</p>\n<p>I don't know why I'd do that.</p>\n<p>In the few times they did actually interact, it felt like some wacky crossover episode had taken place, and I didn't quite know how to act.</p>\n<p>For you see, in each circle, I was a different version of \"me.\"</p>\n<p>I see that now.</p>\n<p>I didn't see it then.</p>\n<p>The reason I didn't overlap the circles was because I didn't know how to be <em>me</em> when they mixed.</p>\n<p>Was I school Alex? Work Alex? OG Alex? Digital Alex?</p>\n<p>Very few have seen me with my hair down, so to speak, and that's probably for the best.</p>\n<p>The point of all this is how so many haven't changed. And how so many have.</p>\n<p>And I don't know which one is better: Those who haven't changed and those who have.</p>\n<p>I know I've changed.</p>\n<p>I still don't venn diagram my life. But there are no separate circles, now. Just one special one.</p>\n<p>I sit in it and pilot it around this program called reality. My copilots actively keeping everything running, while I try to keep us on course.</p>\n<p>Every now and again, another circle, past or future, approaches.</p>\n<p>I let them bounce, though.</p>\n<p>They don't get in.</p>\n<p>This is the hermit in me, I know.</p>\n<p>But the fella they're looking for is long gone.</p>\n<p>Went to never never land and never came home.</p>\n<p>...Did they leave yet?</p>\n<p>Ok, good.</p>\n<p>I know who I am now.</p>\n<p>I know how to play it.</p>\n<p>I am bubbles clustered together. So many.</p>\n<p>That one day popped into one big bubble.</p>\n<p>I believe in the sanctity of this bubble. </p>\n<p>I sacralize it.</p>\n<p>There is no place in the world I would rather be, than where I am right now. With who I am with right now.</p>\n<p>Floating through the atmosphere.</p>\n<p> </p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-06T17:28:56-05:00",
+            "date_modified": "2025-12-06T17:28:56-05:00"
+        },
+        {
             "id": "https://iterating.com/better-than-nothing/",
             "url": "https://iterating.com/better-than-nothing/",
             "title": "Better Than Nothing",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-11-28T00:57:35-05:00",
             "date_modified": "2025-11-28T01:15:15-05:00"
-        },
-        {
-            "id": "https://iterating.com/given-thanks/",
-            "url": "https://iterating.com/given-thanks/",
-            "title": "Given Thanks",
-            "summary": "On a day of thanks, thanks should be given. So here,&hellip;",
-            "content_html": "<p>On a day of thanks, thanks should be given.</p>\n<p>So here, take my thanks.</p>\n<p>I bequeath it to you.</p>\n<p>...</p>\n<p>I don't have much to say today. </p>\n<p>Just impossibly thankful.</p>\n<p>For a good second.</p>\n<p>For a good minute.</p>\n<p>For a good hour.</p>\n<p>For a good day.</p>\n<p>For a good week.</p>\n<p>For a good month.</p>\n<p>For a good year.</p>\n<p>For the best life.</p>\n<p>Stay spicy, my friends.</p>\n<p> </p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-27T20:18:00-05:00",
-            "date_modified": "2025-11-27T20:18:00-05:00"
         }
     ]
 }
