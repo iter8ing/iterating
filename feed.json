@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/wholly/",
+            "url": "https://iterating.com/wholly/",
+            "title": "Wholly",
+            "summary": "Someday, I'm going to write about sacralizing everything. It won't be&hellip;",
+            "content_html": "<p>Someday, I'm going to write about sacralizing everything.</p>\n<p>It won't be today, but I'm building up to it.</p>\n<p>In a world where nothing is sacred, we really have it backwards.</p>\n<p>Everything is sacred.</p>\n<p>If we want it to be.</p>\n<p>I'm learning that to see the forever in the fleeting is the key.</p>\n<p>When you can see God in a sun ray during golden hour.</p>\n<p>When you feel it in your tummy when you see your wife's smile.</p>\n<p>When you hear your children belly laugh at silly jokes.</p>\n<p>These are just lights, grins, and giggles, you say.</p>\n<p>And you'd be right.</p>\n<p>But you're also so very, very wrong.</p>\n<p>I hope you see that.</p>\n<p>Infinity fits in the palm of your hand.</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-09T12:35:14-05:00",
+            "date_modified": "2025-12-09T12:35:14-05:00"
+        },
+        {
             "id": "https://iterating.com/aint-it-fun/",
             "url": "https://iterating.com/aint-it-fun/",
             "title": "Ain&#x27;t It Fun",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-12-01T13:59:50-05:00",
             "date_modified": "2025-12-01T14:44:23-05:00"
-        },
-        {
-            "id": "https://iterating.com/todays/",
-            "url": "https://iterating.com/todays/",
-            "title": "Todays",
-            "summary": "This show I was watching, a documentary of sorts, showed a&hellip;",
-            "content_html": "<p>This show I was watching, a documentary of sorts, showed a dad talking about his daughter.</p>\n<p>You could tell this man loved his daughter. You could see it in his eyes.</p>\n<p>And he sweetly recalled telling her over the years, time and time again, that he's got a lot more yesterdays than she does. But, and more importantly, she has a lot more tomorrows.</p>\n<p>This wasn't a happy show, because he shares this knowing his daughter has passed on, and he says he's now living with only yesterdays. No more tomorrows for him.</p>\n<p>And I feel his pain.</p>\n<p>I found his story profoundly touching.</p>\n<p>How we have a (predetermined?) allotment of yesterdays and tomorrows.</p>\n<p>I have a lot of yesterdays in my life. I'd like to think I have a bunch of tomorrows coming. Same for my loved ones. Especially those with not a lot of yesterdays racked up. A whole mountain of tomorrows. A starfaring stack of 'em.</p>\n<p>But we simply do not know.</p>\n<p>I don't know.</p>\n<p>I only hope.</p>\n<p>I wish.</p>\n<p>I pray.</p>\n<p>And I know there is so much truth in a life <em>well</em> lived being worth far more than a life <em>long</em> lived. </p>\n<p>But I wish more than anything, as a father, for far more tomorrows for my children than I have had yesterdays. And that someday, they remember their yesterdays as being as sweet as my todays.</p>\n<p>They say only the good die young, and I believe that (to some degree), but that doesn't mean the good can't die old.</p>\n<p><em>Only</em> the good die young.</p>\n<p>Not <em>all</em> of the good.</p>\n<p><em>Some</em> good die old.</p>\n<p>This, like many things, makes me so grateful for the right nows.</p>\n<p>To the well lived, long life.</p>\n<p>And to yesterdays, tomorrows, and everything in between.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-30T00:42:00-05:00",
-            "date_modified": "2025-11-30T01:04:47-05:00"
         }
     ]
 }
