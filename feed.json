@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/imp-patient/",
+            "url": "https://iterating.com/imp-patient/",
+            "title": "Imp Patient",
+            "summary": "For a guy who almost died who plays the long game,&hellip;",
+            "content_html": "<p>For a guy who almost died who plays the long game, I'm sort of impatient.</p>\n<p>I mean, I can delay gratification and all that bull mess, but what I mean is that window of time after the deal is done where you are waiting for everything to trickle down and clear.</p>\n<p>The shipping time.</p>\n<p>The transfer time.</p>\n<p>The results of your efforts.</p>\n<p>It's always been that way. </p>\n<p>Studying for the bar exam sucked. Taking the bar sucked. </p>\n<p>But waiting for the results?</p>\n<p>Worst of all <em>by far</em>.</p>\n<p>Why? I think it's the <em>out of my control </em>part. The <em>what if</em> part.</p>\n<p>Give me a bunch of things I can do to prepare and get it done, a mountain of them (please don't), and it'll get done. But once it's in someone else's hands, I suppose that drives me a little crazy.</p>\n<p>What's taking so long?</p>\n<p>Do they need something else?</p>\n<p>Was I unclear?</p>\n<p>There's a snow storm in the rust belt. Is that why its delayed?</p>\n<p>This is a part of young me that I carry today.</p>\n<p>And while I've done enough to discipline it over the years, he still shows his face every once in awhile.</p>\n<p>And holidays with its over-promising and under-delivering, well it's enough to make an old man shake his fist in the sky.</p>\n<p>No old men here.</p>\n<p>Just hurry up already.</p>\n<p>[Shakes fist at screen.]</p>",
+            "author": {
+                "name": "AL8X"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-10T11:48:54-05:00",
+            "date_modified": "2025-12-10T11:48:54-05:00"
+        },
+        {
             "id": "https://iterating.com/wholly/",
             "url": "https://iterating.com/wholly/",
             "title": "Wholly",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-12-02T12:15:18-05:00",
             "date_modified": "2025-12-02T12:19:48-05:00"
-        },
-        {
-            "id": "https://iterating.com/peaks-and-plateaus/",
-            "url": "https://iterating.com/peaks-and-plateaus/",
-            "title": "Peaks and Plateaus",
-            "summary": "Most of us, especially our young ones, seek the peak experience.",
-            "content_html": "<p>Most of us, especially our young ones, seek the <em>peak</em> experience.</p>\n<p>The high spots.</p>\n<p>The highlights.</p>\n<p>The explosive.</p>\n<p>Anyone can see glimmers of this with their own two eyes, their heart, their soul. The select few have tasted it, breathed it, and lived it.</p>\n<p>And almost like a drug, you can spend an eternity trying to recapture that initial experience. Chasing fleeting moments like ghost hares. Trying to snatch that rabbit's foot one more time.</p>\n<p>More rare, and more rewarding, I have learned, is the <em>plateau</em> experience (a terrible name, btw - we will rename it) signifying a prolonged experience of elevated and profound joy.</p>\n<p>An ability like this is earned over a lifetime. Meaning, with few exceptions in an already exceptional few, this is a superpower reserved for those who have accumulated a good amount of yesterdays.</p>\n<p>As we grow older, the wise say, we should stop chasing Alpha Centauri, and just learn to appreciate how beautiful the full moon is.</p>\n<p>Still celestial, still infinite, still divine, just with a more sustainable point of view.</p>\n<p>Peaks are awesome. But plateaus can be forever.</p>\n<p>And if I have to choose, I choose forever.</p>\n<p>But I'm just getting old.</p>\n<p>Hit a lot of peaks. Fell in more valleys.</p>\n<p>Right now, I'll just enjoy the view.</p>\n<p>...</p>\n<p>They say you have to die a little to be truly reborn.</p>\n<p>I feel that ess, to the bone.</p>\n<p>I died a little.</p>\n<p>And I am new.</p>\n<p>I hear the moon will be beautiful tonight.</p>\n<p>But Alpha Centauri calls.</p>",
-            "author": {
-                "name": "AL8X"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-01T13:59:50-05:00",
-            "date_modified": "2025-12-01T14:44:23-05:00"
         }
     ]
 }
