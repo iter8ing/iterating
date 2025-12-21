@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-12-21T12:59:28-05:00</updated>
+    <updated>2025-12-21T13:00:04-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -28,7 +28,7 @@
                 <p>As an autodidactic amateur coder, I draw parallels and contrasts to things I know to the things I want to know.</p>
 <p>And it's clear that when you build something, sometimes things break.</p>
 <p>You make big updates, but something along the line was ignored, accidentally erased, or just downright incompatible, making the whole thing not work.</p>
-<p>It happens so frequently that after every change my goal is to try and break it. </p>
+<p>It happens so frequently that after every change my goal is to try and break it, use it until I find a point of failure (which I usually can). </p>
 <p>So there's this delicate balance.</p>
 <p>Of making improvements but keeping it running optimally.</p>
 <p>Of adding new features but not over clunking the experience.</p>
