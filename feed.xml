@@ -3,12 +3,39 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-12-22T13:23:34-05:00</updated>
+    <updated>2025-12-23T12:19:03-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Diamonds or Coals</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/diamonds-or-coals/"/>
+        <id>https://iterating.com/diamonds-or-coals/</id>
+
+        <updated>2025-12-23T12:19:03-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Now's not the time to be writing on this thing. It's&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Now's not the time to be writing on this thing.</p>
+<p>It's a time to celebrate.</p>
+<p>To dance and sway a little.</p>
+<p>To find a mistletoe.</p>
+<p>To help Santa be Santa.</p>
+<p>To believe in magic.</p>
+<p>Have you been good?</p>
+<p>What you get?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Snowflake Opposite</title>
         <author>
@@ -464,37 +491,6 @@
 <p>"Coach, I got this theory..."</p>
 </blockquote>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wont</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/wont/"/>
-        <id>https://iterating.com/wont/</id>
-
-        <updated>2025-12-13T00:26:27-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Writing while tired is a silly, dangerous, thing. So I won't.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Writing while tired is a silly, dangerous, thing.</p>
-<p>So I won't.</p>
-<p>But let me just say, it's pretty cool to write tired.</p>
-<p>You just ramble and ramble and hope maybe something worth something will tumble out.</p>
-<p>Of course, that's how I write every day.</p>
-<p>I don't like hosting, but we're hosting this weekend. So I'm writing early.</p>
-<p>Just in case.</p>
-<p>This writing every day thing has become important to me. </p>
-<p>Even though this is my second writing, it counts as the next day, technically.</p>
-<p>So the streak continues.</p>
-<p>Hermit don't like hosting. Hermit only like to do what he like to do. Hermit curmudgeon. Hermit need sleep.</p>
-<p>Goodnight.</p>
             ]]>
         </content>
     </entry>
