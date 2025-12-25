@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-12-25T15:28:43-05:00</updated>
+    <updated>2025-12-25T15:43:48-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,12 +20,21 @@
         <updated>2025-12-25T15:28:43-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Merry Christmas.
+                    Merry Christmas. That was going to be it. But let's keep&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Merry Christmas.</p>
+<p>That was going to be it.</p>
+<p>But let's keep it going.</p>
+<p>To those hurting in these times, I want to send a special message.</p>
+<p>And to those in a great place, I also want to share the same message.</p>
+<p><em>This, too, shall pass.</em></p>
+<p>To those low, just <em>survive</em>.</p>
+<p>And to those high, just <em>bless</em>.</p>
+<p>Or maybe it's the reverse.</p>
+<p>I forget.</p>
             ]]>
         </content>
     </entry>
