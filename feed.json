@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/fetch/",
+            "url": "https://iterating.com/fetch/",
+            "title": "Fetch",
+            "summary": "One of the things I have always tried to distill is&hellip;",
+            "content_html": "<p>One of the things I have always tried to distill is this idea of success.</p>\n<p>What is it?</p>\n<p>How do you measure it?</p>\n<p>How will you know when you are \"successful?\"</p>\n<p>I mean, does a bell chime or does some little guy dressed as an elf dance at your side when it happens?</p>\n<p>I think too many of us measure success by net worth.</p>\n<p>And I suppose that's one way to do it.</p>\n<p>I grew up with a terrible sense of money.</p>\n<p>Didn't have much, didn't need much.</p>\n<p>Maybe that's not so terrible.</p>\n<p>But what I'm getting at is can you be a great family man <em>and</em> succeed in business?</p>\n<p>Who's done that?</p>\n<p>And who gets to measure whether you are successful or not?</p>\n<p>You, your portfolio, or your family?</p>\n<p>And what about your soul, your fortitude, your honor? </p>\n<p>Does that matter in the \"success\" formula?</p>\n<p>I mean, ain't that the most important stick?</p>\n<p>What I'm getting at is:</p>\n<p>Did you have a good year?</p>\n<p>And no matter your answer, how are you defining it?</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-28T12:52:35-05:00",
+            "date_modified": "2025-12-28T12:52:35-05:00"
+        },
+        {
             "id": "https://iterating.com/everyday-we-shuffling/",
             "url": "https://iterating.com/everyday-we-shuffling/",
             "title": "Everyday We Shuffling",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-12-19T13:18:12-05:00",
             "date_modified": "2025-12-19T13:53:30-05:00"
-        },
-        {
-            "id": "https://iterating.com/pow-pow/",
-            "url": "https://iterating.com/pow-pow/",
-            "title": "Pow Pow",
-            "summary": "You ever write something and then just erase it? I wrote&hellip;",
-            "content_html": "<p>You ever write something and then just erase it?</p>\n<p>I wrote paragraphs here and just didn't like it.</p>\n<p>I suppose everyone does that but I usually don't.</p>\n<p>I just write and tinker and keep writing. </p>\n<p>It probably shows.</p>\n<p>This whole writing thing is a part of me, part of who I am, and it is one of the things I thought I had lost, but I'm finding again.</p>\n<p>So many things have changed for me in the past few years, so I am happy to say I am able to write again.</p>\n<p>Writing feels like such a selfish thing. And with my time at a premium, it felt like a waste of valuable minutes when I could be, should be, focusing on other things.</p>\n<p>But like with <span style=\"text-decoration: line-through;\">really, really few, almost never really,</span>many things, I was wrong.</p>\n<p>I've learned that a little bit of typing time is a wonderful thing.</p>\n<p>It amplifies the rest of my day.</p>\n<p>Maybe by turning gears, removing cobwebs, warming me up. Who knows.</p>\n<p>I'm starting to think, \"Oh, I should write about that.\"</p>\n<p>So thanks for that, digital notebook made by a fruit, for letting me do just that. Too many thats.</p>\n<p>There's memories in my muscles. My fingers. And tapping them repetitively on little squares have helped me in more ways than I could have imagined.</p>\n<p>A return to first principles.</p>\n<p>Start from the foundation.</p>\n<p>One tap at a time.</p>\n<p>1.</p>\n<p>2.</p>\n<p>3.</p>\n<p>Unlocking levels long forgotten. </p>\n<p>Unlocking levels yet to attain.</p>\n<p>I'm rereading books and learning how much I had missed the first few times around. Seeing the whole world through these new, old, lenses.</p>\n<p>And how much <em>perspective</em> has to do with everyone and everything.</p>\n<p>I don't know what I'm getting at.</p>\n<p>I'm just glad I get to write.</p>\n<p>[Finger guns!]</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-18T14:05:18-05:00",
-            "date_modified": "2025-12-18T14:28:13-05:00"
         }
     ]
 }
