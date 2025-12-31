@@ -3,12 +3,61 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2025-12-30T12:50:18-05:00</updated>
+    <updated>2025-12-31T11:31:02-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Ramble, Old Man, Ramble</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/ramble-old-man-ramble/"/>
+        <id>https://iterating.com/ramble-old-man-ramble/</id>
+
+        <updated>2025-12-31T11:29:20-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Only been writing again for the last couple of months, but&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Only been writing again for the last couple of months, but it feels like a longer time.</p>
+<p>I've been blessed (cursed?) with the ability to stop things I loved doing without missing it much.</p>
+<p>I used to define myself by how much I could lift off my chest or over my head.</p>
+<p>Always a spiritual sort, I prayed to heavy metal listening to heavy metal.</p>
+<p>Found God there and on the mats with my freshly wrapped hands.</p>
+<p>But I don't do it anymore.</p>
+<p>Or at least for now.</p>
+<p>And I don't miss it (much).</p>
+<p>You'd think I would, because it was a big part of me, a big part of how I defined myself.</p>
+<p>And that's how I kind of feel about writing.</p>
+<p>I have written my entire life.</p>
+<p>Have always loved the written word.</p>
+<p>For a long time, I couldn't read or write anymore.</p>
+<p>And that sucked. More than the not lifting thing.</p>
+<p>I started listening to stories and watching them instead.</p>
+<p>And that helped, but it did not replace writing.</p>
+<p>And so, all of that to just say, I'm very thankful to be able to type away again. To meander in my brain and put what I find on digital paper.</p>
+<p>To ramble again, if no longer to rumble.</p>
+<p>Rumbling is a young man's game.</p>
+<p>Writing can be an old man's.</p>
+<p>Something to look forward to (no old man here).</p>
+<p>This might come across as sort of down thing, but it's not. </p>
+<p>It's the exact opposite.</p>
+<p>An up thing.</p>
+<p>I'm writing again.</p>
+<p>Wrote everyday since early October.</p>
+<p>I'm back, baby!</p>
+<p>Or, at least, I am here.</p>
+<p>What an interesting timeline.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Seconds To Last</title>
         <author>
@@ -421,43 +470,6 @@
 <p>What a run.</p>
 <p>What a world.</p>
 <p>Thank You for letting me play.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>What Happens If I Press This Button?</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/what-happens-if-i-press-this-button/"/>
-        <id>https://iterating.com/what-happens-if-i-press-this-button/</id>
-
-        <updated>2025-12-21T12:57:36-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    As an autodidactic amateur coder, I draw parallels and contrasts to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>As an autodidactic amateur coder, I draw parallels and contrasts to things I know to the things I want to know.</p>
-<p>And it's clear that when you build something, sometimes things break.</p>
-<p>You make big updates, but something along the line was ignored, accidentally erased, or just downright incompatible, making the whole thing not work.</p>
-<p>It happens so frequently that after every change my goal is to try and break it, use it until I find a point of failure (which I usually can). </p>
-<p>So there's this delicate balance.</p>
-<p>Of making improvements but keeping it running optimally.</p>
-<p>Of adding new features but not over clunking the experience.</p>
-<p>Of changing things but not crashing it all down.</p>
-<p>This is where that word, iterating, becomes so key.</p>
-<p>You tinker. You add. You see if it still works. See if you like the changes. Then tinker again.</p>
-<p>In theory, there's a time when you stop tinkering, when you move on to another project or priority. But it's nice to think you can come back, revisit, at any time. This is what's different about code. You can always go back.</p>
-<p>Change the past.</p>
-<p>You can even make backups. You should make backups.</p>
-<p>I suppose you can do this in real life, but not in a time machine sense.</p>
-<p>So here's hoping all your updates are upgrades.</p>
-<p>And that you never break.</p>
-<p>We both know that's not going to happen forever.</p>
-<p>But that's part of the fun.</p>
             ]]>
         </content>
     </entry>
