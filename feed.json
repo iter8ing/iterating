@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/mmxxvi/",
+            "url": "https://iterating.com/mmxxvi/",
+            "title": "MMXXVI",
+            "summary": "Two Ms. Two Xs. A V and an I. That spells&hellip;",
+            "content_html": "<p>Two Ms. Two Xs. A V and an I.</p>\n<p>That spells Ememexexveeeeeye.</p>\n<p>Or something.</p>\n<p>Rolls off the tongue, don't it?</p>\n<p>Apparently, these are numerals but they look like capital letters if you ask me.</p>\n<p>I am partial to LX, though.</p>\n<p>60. And kinda, sorta, my name.</p>\n<p>LX is the new XXIX, so I hear.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-02T14:51:19-05:00",
+            "date_modified": "2026-01-02T14:51:19-05:00"
+        },
+        {
             "id": "https://iterating.com/party-horn/",
             "url": "https://iterating.com/party-horn/",
             "title": "Party Horn",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-12-24T00:02:00-05:00",
             "date_modified": "2025-12-24T00:02:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/diamonds-or-coals/",
-            "url": "https://iterating.com/diamonds-or-coals/",
-            "title": "Diamonds or Coals",
-            "summary": "Now's not the time to be writing on this thing. It's&hellip;",
-            "content_html": "<p>Now's not the time to be writing on this thing.</p>\n<p>It's a time to celebrate.</p>\n<p>To dance and sway a little.</p>\n<p>To find a mistletoe.</p>\n<p>To help Santa be Santa. Shhhh.</p>\n<p>To believe in magic.</p>\n<p>Have you been good?</p>\n<p>What you get?</p>\n<p>I'm notoriously hard to buy a gift for. Not because of any real reason. I just don't want many things people can buy me. </p>\n<p>The gifts I want I already have. So if people ask what I want, it would be gifts for my gifts. So that's what people do. Buy gifts for them.</p>\n<p>I don't say this piously. I enjoy watching their joy. It's wonderful.</p>\n<p>Much better than if I got a new shirt or gift card.</p>\n<p>I do like metal pens, though. Just saying.</p>\n<p>Merry almost Christmas.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-23T12:19:03-05:00",
-            "date_modified": "2025-12-23T12:29:08-05:00"
         }
     ]
 }
