@@ -3,12 +3,55 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-01-02T23:07:41-05:00</updated>
+    <updated>2026-01-03T13:01:04-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Malls in the Matrix</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/malls-in-the-matrix/"/>
+        <id>https://iterating.com/malls-in-the-matrix/</id>
+
+        <updated>2026-01-03T13:01:04-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Malls are changing. I would say dying, but I don't think&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Malls are changing.</p>
+<p>I would say dying, but I don't think they are.</p>
+<p>They are changing.</p>
+<p>Iterating.</p>
+<p>I remember marveling at the amount of choices one had to shop in a mall.</p>
+<p>I didn't realize how curated all these places actually were, but it was cool to see so many options.</p>
+<p>Now, malls are being repurposed.</p>
+<p>Multi-use.</p>
+<p>I think it would be interesting if a company bought out an old mall and turned it into a business where their employees lived there as well. Like a campus.</p>
+<p>Or a prison.</p>
+<p>Of course, this isn't necessarily a happy idea, but some might be happy for it.</p>
+<p>What I'm getting at here is what about the internet malls?</p>
+<p>Right now, we are past the ooh and ahh stage of having a digital mall where we can shop at almost any store in the world.</p>
+<p>There are too many choices, even though most of ours are highly curated.</p>
+<p>Will the internet shopping mall pass?</p>
+<p>Or will it change?</p>
+<p>I'm still waiting for ai to start suggesting a product ("link provided") whenever I prompt it something even tangentially related.</p>
+<p>That's part of this, I think. Ai shopping. Ai ads. Ai malls.</p>
+<p>Ads on browsers shifting to ads on prompts.</p>
+<p>I know, I know.</p>
+<p>But it's coming.</p>
+<p>"This prompt answer brought to you by..."</p>
+<p>Yuck.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>High Low There</title>
         <author>
@@ -407,35 +450,6 @@
 <p>Just for the ones who can keep their heads.</p>
 <p>I see you, back row, left side. On your feet. Clapping. Hollering. Underlining.</p>
 <p>This is for you.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ho Ho Hoes</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/ho-ho-hoes/"/>
-        <id>https://iterating.com/ho-ho-hoes/</id>
-
-        <updated>2025-12-25T15:28:43-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Merry Christmas. That was going to be it. But let's keep&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Merry Christmas.</p>
-<p>That was going to be it.</p>
-<p>But let's keep it going.</p>
-<p>To those hurting in these times, I want to send a special message.</p>
-<p>And to those in a great place, I also want to share the same message.</p>
-<p><em>This, too, shall pass.</em></p>
-<p>To those low, just <em>survive</em>.</p>
-<p>And to those high, just <em>bless</em>.</p>
-<p>Or maybe it's the reverse.</p>
-<p>I forget.</p>
             ]]>
         </content>
     </entry>
