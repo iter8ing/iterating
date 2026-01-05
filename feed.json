@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/storm-before-the-quiet/",
+            "url": "https://iterating.com/storm-before-the-quiet/",
+            "title": "Storm before the Quiet",
+            "summary": "...And we're off! Man, the year is starting off with a&hellip;",
+            "content_html": "<p>...And we're off!</p>\n<p>Man, the year is starting off with a bang, ain't it?</p>\n<p>A rare Monday where a lot of folks are excited.</p>\n<p>Time to shake the fog of holiday serenity/chaos and jump back into your vocational one.</p>\n<p>How many people have vocational serenity?</p>\n<p><em>Ooof</em>.</p>\n<p>I don't think many.</p>\n<p>I won't lecture you today on how important that is.</p>\n<p>You likely are busy.</p>\n<p>Chaotic.</p>\n<p>Right now.</p>\n<p>You know what's interesting? </p>\n<p>Some people cannot live in serenity. </p>\n<p>They generate their own chaos if none is provided to them.</p>\n<p>I see this in children and elders.</p>\n<p>And everything in between.</p>\n<p>I think some are bored, and some, oddly, find a strange comfort in chaos.</p>\n<p>Familiarity.</p>\n<p>Home.</p>\n<p>As an old(ish) curmudgeon, I dig quiet.</p>\n<p>Silence!</p>\n<p>But even I admit empty house quiet is too quiet. I can hear my ears ring.</p>\n<p>It's one of the tradeoffs of being here, the ringing that is.</p>\n<p><em>I'll take it</em>.</p>\n<p>I don't even hear it most of the time.</p>\n<p>Only when it's too quiet.</p>\n<p>And only sometimes.</p>\n<p>Ringing in the new year by the ringing in my old ear.</p>\n<p>I'm not complaining though. </p>\n<p>I hear rattling in the kitchen. Pots and pans moving. Beeps. Cutlery.</p>\n<p>Ahh, peace.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-05T11:59:41-05:00",
+            "date_modified": "2026-01-05T11:59:41-05:00"
+        },
+        {
             "id": "https://iterating.com/eat-your-broccoli/",
             "url": "https://iterating.com/eat-your-broccoli/",
             "title": "Eat Your Broccoli",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2025-12-28T12:52:35-05:00",
             "date_modified": "2025-12-28T12:52:35-05:00"
-        },
-        {
-            "id": "https://iterating.com/everyday-we-shuffling/",
-            "url": "https://iterating.com/everyday-we-shuffling/",
-            "title": "Everyday We Shuffling",
-            "summary": "Again, I sit down to write without an idea about what&hellip;",
-            "content_html": "<p>Again, I sit down to write without an idea about what to say.</p>\n<p>I mean, I got a lot of ideas, but I am holding back on most things.</p>\n<p>Some things do not belong on a blog.</p>\n<p>But here I am.</p>\n<p>So let's get to writing.</p>\n<p>First of all, the word \"blog\" is terrible.</p>\n<p>It stinks.</p>\n<p>It's like the word, \"brand.\" </p>\n<p>Yuck.</p>\n<p>But yeah, I do both.</p>\n<p>I suppose.</p>\n<p>In my own anti-way.</p>\n<p>Do it by not doing it right.</p>\n<p>Or [waves hands] doing it different.</p>\n<p>I'm yelling at people who cut in lines again.</p>\n<p>I suppose that's something.</p>\n<p>\"Line starts back here, boys!\"</p>\n<p>That is kind of funny to me.</p>\n<p>And then no-selling the \"Oh, sorry\" response.</p>\n<p>Like I've moved on entirely.</p>\n<p>Which I have.</p>\n<p><em>Who is apologizing to me? And for what?</em></p>\n<p>Next!</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-27T13:34:45-05:00",
-            "date_modified": "2025-12-27T13:35:55-05:00"
         }
     ]
 }
