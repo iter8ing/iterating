@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/golden-delicious/",
+            "url": "https://iterating.com/golden-delicious/",
+            "title": "Golden Delicious",
+            "summary": "One of my favorite things growing up was PBS cooking shows.",
+            "content_html": "<p>One of my favorite things growing up was PBS cooking shows.</p>\n<p>I'd like to think this is how and why I started to love to cook but really I just enjoyed their personalities.</p>\n<p>And although some of them went horribly bad, these people were the first \"influencers.\" PBS a YouTube of sorts for old people.</p>\n<p>An omen of what was to come.</p>\n<p>No one's watching Justin Wilson cook to learn how to make cajun food.</p>\n<p>You're there to hear a story.</p>\n<p>To hear the crowd giggle.</p>\n<p>Food is just the medium.</p>\n<p>The side dish.</p>\n<p>I guarantee.</p>\n<p>The first time I heard anything on television even remotely Asian was on cooking shows. Mostly Chinese stuff, but it does stand out because I never heard anything about my roots (Korea is close enough) other than in Kung Fu movies or as villains.</p>\n<p>These things come full circle as I see my kids reaching towards items that look like them.</p>\n<p>Identity is strong and never yielding.</p>\n<blockquote>\n<p>🎵 Born in the USA! I was, Born in the USA! 🎵</p>\n</blockquote>\n<p>Don't get it twisted, though. I'm a real American through and through. Hulk would be proud.</p>\n<blockquote>\n<p>🎵 Sent me off to a foreign land, to go and kill the yellow man... 🎵</p>\n</blockquote>\n<p>Wait what?</p>\n<p>[Looks down at his skin.]</p>\n<p>Phew, I'm gold.</p>\n<p>Surely, they can tell the difference!</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-10T13:27:33-05:00",
+            "date_modified": "2026-01-10T13:27:33-05:00"
+        },
+        {
             "id": "https://iterating.com/depends/",
             "url": "https://iterating.com/depends/",
             "title": "Depends",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-01-02T14:51:19-05:00",
             "date_modified": "2026-01-02T15:02:12-05:00"
-        },
-        {
-            "id": "https://iterating.com/party-horn/",
-            "url": "https://iterating.com/party-horn/",
-            "title": "Party Horn",
-            "summary": "Well, hey. Long time. What's it been, a year? Guffaw. I&hellip;",
-            "content_html": "<p>Well, hey.</p>\n<p>Long time.</p>\n<p>What's it been, a year?</p>\n<p><em>Guffaw.</em></p>\n<p>I so funny.</p>\n<p><em>Guffaws again.</em></p>\n<p>Give me a second here.</p>\n<p>Ok.</p>\n<p>Man, I'm good.</p>\n<p>So witty.</p>\n<p>So this is my way of starting the new year on this here daily journal thing.</p>\n<p>If you're new here, I ramble. Rant. Reason. Revere.</p>\n<p>Mostly, this is my mental playground. </p>\n<p>Where I get to flip around and jump and flow my brain and finger muscles.</p>\n<p>I'd love for you to join me.</p>\n<p>Actually, I couldn't care less if you did, it just seems like people say that.</p>\n<p>Ooooooooh, honorable reader, will you join my journey, please?</p>\n<p>[Farts slowly, loudly, still going...you wonder \"How does he do that?\" The author, staring at you the whole time, never breaks eye contact. It is almost melodic. And ends on a high note, which, strangely, delights you. You got a few seconds before the smell hits. I would leave.]</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-01T11:24:05-05:00",
-            "date_modified": "2026-01-01T11:26:06-05:00"
         }
     ]
 }
