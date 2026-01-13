@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/bystander/",
+            "url": "https://iterating.com/bystander/",
+            "title": "Bystander",
+            "summary": "I think I'm hitting that mid-January funk. Except instead of a&hellip;",
+            "content_html": "<p>I think I'm hitting that mid-January funk.</p>\n<p>Except instead of a new gym membership, it's this musings column.</p>\n<p>Perhaps a little bit of the enthusiasm and luster has been lost since restarting this whole writing thing in October of '25.</p>\n<p>A smudge.</p>\n<p>Writing everyday is perhaps too much. Or too frequent.</p>\n<p>I think these days when I have nothing to say is probably where the growth comes from.</p>\n<p>What can I pluck out of thin air and make something out of nothing?</p>\n<p>One of the things about fighting is rhythm. </p>\n<p>When you see two people trained to fight, it's almost like they're dancing.</p>\n<p>One, two. One, two, three. One moves forward, the other back.</p>\n<p>There's an order there. </p>\n<p>That's why some trained people say fighting a newbie or an untrained person can be so difficult. </p>\n<p>They tend to be spastic. Unpredictable. And just chaotic.</p>\n<p>And so, when you get really high up in this training, you learn an advanced technique.</p>\n<p>It's about breaking the rhythm.</p>\n<p>Re-introducing the chaos into the order of advanced combat.</p>\n<p>You master the order to then keep it spicy through chaos.</p>\n<p>One, two, one, one, one, two, three, four, one, high kick!</p>\n<p>Bad form, bad form, bad form, perfect execution!</p>\n<p>I always found that funny.</p>\n<p>At the height of controlled technique, of true mastery, is the most beginner of tactics.</p>\n<p>Life is like that.</p>\n<p>In so many ways.</p>\n<p>An apex leads you right back to the beginning.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-13T14:21:21-05:00",
+            "date_modified": "2026-01-13T14:21:21-05:00"
+        },
+        {
             "id": "https://iterating.com/mirror-mirror/",
             "url": "https://iterating.com/mirror-mirror/",
             "title": "Mirror | rorriM",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-01-04T18:11:20-05:00",
             "date_modified": "2026-01-04T18:20:21-05:00"
-        },
-        {
-            "id": "https://iterating.com/malls-in-the-matrix/",
-            "url": "https://iterating.com/malls-in-the-matrix/",
-            "title": "Malls In The Matrix",
-            "summary": "Malls are changing. I would say dying, but I don't think&hellip;",
-            "content_html": "<p>Malls are changing.</p>\n<p>I would say dying, but I don't think they are.</p>\n<p>They are changing.</p>\n<p>Evolving.</p>\n<p>Iterating.</p>\n<p>I remember marveling at the amount of choices one had to shop in a mall.</p>\n<p>I didn't realize how curated all these places actually were, how narrow the options, but it was cool to see way more than one store.</p>\n<p>Now, malls are being repurposed.</p>\n<p>Multi-use. </p>\n<p>I think it would be interesting if a company bought out an old mall and turned it into a business where their employees lived there as well. Like a campus.</p>\n<p>Or a prison.</p>\n<p>Of course, this isn't necessarily a happy idea, but some might be happy for it.</p>\n<p>What I'm getting at here is what about the internet malls?</p>\n<p>Right now, we are past the ooh and ahh stage of having a digital mall where we can shop at almost any store in the world.</p>\n<p>There are too many choices, even though most of ours are still highly curated.</p>\n<p>Will the internet shopping mall pass?</p>\n<p>Or will it change?</p>\n<p>Adapt.</p>\n<p>Iterate.</p>\n<p>I'm still waiting for ai to start suggesting a product (\"link provided\") whenever I ask it something even tangentially related.</p>\n<p>That's part of this, I think. Ai shopping. Ai ads. Ai malls.</p>\n<p>Ads on search browsers shifting to ads on ai prompts.</p>\n<p>I know, I know.</p>\n<p>But it's coming.</p>\n<p>\"This prompt answer brought to you by...\"</p>\n<p>Yuck.</p>\n<p>It did turn Google into a monster. I wonder if it will do so for an ai company.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-03T13:01:04-05:00",
-            "date_modified": "2026-01-05T12:01:51-05:00"
         }
     ]
 }
