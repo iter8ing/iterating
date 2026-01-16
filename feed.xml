@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-01-16T11:55:26-05:00</updated>
+    <updated>2026-01-16T11:56:35-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -61,7 +61,9 @@
 <p>But I'm smiling. </p>
 <p>Belly full.</p>
 <p>Floating a few inches off the ground.</p>
-<p><em>STRIKE THREE!</em></p>
+<blockquote>
+<p>Strike Three!</p>
+</blockquote>
 <p>Got 'em.</p>
             ]]>
         </content>
