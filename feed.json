@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/apex-opus/",
+            "url": "https://iterating.com/apex-opus/",
+            "title": "Apex Opus",
+            "summary": "Today is like a second Sunday. It feels like that to&hellip;",
+            "content_html": "<p>Today is like a second Sunday.</p>\n<p>It feels like that to me.</p>\n<p>And so, I don't want to write too much, because I already did.</p>\n<p>In a good life, I think that having a magnum opus is very important.</p>\n<p>Having made something of tremendous value.</p>\n<p>But even more important is having an apex opus.</p>\n<p>Your highest work.</p>\n<p>I am going to be working on this idea.</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-19T16:22:32-05:00",
+            "date_modified": "2026-01-19T16:22:32-05:00"
+        },
+        {
             "id": "https://iterating.com/don-of-kings/",
             "url": "https://iterating.com/don-of-kings/",
             "title": "Don of Kings ",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-01-11T15:04:07-05:00",
             "date_modified": "2026-01-11T15:29:27-05:00"
-        },
-        {
-            "id": "https://iterating.com/golden-delicious/",
-            "url": "https://iterating.com/golden-delicious/",
-            "title": "Golden Delicious",
-            "summary": "One of my favorite things growing up in the 80s was&hellip;",
-            "content_html": "<p>One of my favorite things growing up in the 80s was PBS cooking shows.</p>\n<p>I'd like to think this is how and why I started to love to cook but really I just enjoyed their personalities.</p>\n<p>And although some of them went horribly bad, these people were the first \"influencers.\" PBS a YouTube of sorts for old people (and me).</p>\n<p>An omen of what was to come.</p>\n<p>No one's watching Justin Wilson cook to learn how to make cajun food.</p>\n<p>You're there to hear a story.</p>\n<p>To hear the crowd giggle.</p>\n<p>Food was just the medium.</p>\n<p>The side dish.</p>\n<p>I guarantee.</p>\n<p>The first time I saw anything on television even remotely Asian was on cooking shows. Mostly Chinese stuff, but it does stand out because I never heard anything even close to my roots (Korea wasn't mentioned at all - China was \"close enough\") other than in Kung Fu movies or as villains.</p>\n<p>These things come full circle as I see my kids reaching towards items that look like them.</p>\n<p>Identity is strong and never yielding.</p>\n<blockquote>\n<p>🎵 Born in the USA! I was, Born in the USA! 🎵</p>\n</blockquote>\n<p>Oh snap.</p>\n<p>Where's Old Glory?</p>\n<p>Don't get it twisted, though. I'm a real American through and through. Like Rotundo and Windham. Hulk would be proud.</p>\n<p>Saying prayers, eating vitamins.</p>\n<p>[Doing the Hulk up. Shaking. Shaking. You!]</p>\n<blockquote>\n<p>🎵 Sent me off to a foreign land 🎵</p>\n</blockquote>\n<p>Heck yeah!</p>\n<p>Let's go!</p>\n<blockquote>\n<p>🎵 ...to go and kill the yellow man! 🎵</p>\n</blockquote>\n<p>Wait what?</p>\n<p>[Looks down at skin.]</p>\n<p>Phew, I'm <em>gold</em>.</p>\n<p><em>Surely, they can tell the difference!</em></p>\n<p><em>Or are they talking about Hogan? He's pretty yellow.</em></p>\n<p>But yeah, I loved the 80s.</p>\n<p>If Al can cook, so can you!</p>\n<p>🍛</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-10T13:27:33-05:00",
-            "date_modified": "2026-01-10T14:03:40-05:00"
         }
     ]
 }
