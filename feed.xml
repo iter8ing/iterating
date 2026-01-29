@@ -3,12 +3,32 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-01-28T12:06:43-05:00</updated>
+    <updated>2026-01-29T15:02:24-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>First Things First</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/first-things-first/"/>
+        <id>https://iterating.com/first-things-first/</id>
+
+        <updated>2026-01-29T15:02:24-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    It doesn't look like a window of time is open for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It doesn't look like a window of time is open for me to write. This will have to do as a placeholder. I will update when I can.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Soaking It All In</title>
         <author>
@@ -633,43 +653,6 @@
 <p>AO.</p>
 <p>OA.</p>
 <p>Al out.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Apex Opus</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/apex-opus/"/>
-        <id>https://iterating.com/apex-opus/</id>
-
-        <updated>2026-01-19T16:22:32-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Today is like a second Sunday. It feels like that to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Today is like a second Sunday.</p>
-<p>It feels like that to me.</p>
-<p>And so, I don't want to write too much, because I already did.</p>
-<p>But here's something interesting.</p>
-<p>In a good life, I think that having a <em>magnum opus</em> is essential.</p>
-<p>Having a great work.</p>
-<p>Having made something of tremendous value.</p>
-<p>If only for yourself. And your loved ones.</p>
-<p>An impact.</p>
-<p>But even more important is having an <em>apex opus</em>.</p>
-<p>Your highest work.</p>
-<p>Your grandmasterpiece.</p>
-<p>Your verse.</p>
-<p>As in, what will be the headline on your obituary?</p>
-<p>And I mean that in a good way.</p>
-<p>In the best way.</p>
-<p>I am iterating on this big idea.</p>
-<p>To dreams.</p>
             ]]>
         </content>
     </entry>
