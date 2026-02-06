@@ -10,9 +10,9 @@
     },
     "items": [
         {
-            "id": "https://iterating.com/senior-center/",
-            "url": "https://iterating.com/senior-center/",
-            "title": "Senior Center",
+            "id": "https://iterating.com/easy-mode/",
+            "url": "https://iterating.com/easy-mode/",
+            "title": "Easy Mode",
             "summary": "Some days, I do not have the time to write. Or&hellip;",
             "content_html": "<p>Some days, I do not have the time to write.</p>\n<p>Or at least, the window.</p>\n<p>Is today one of those days?</p>\n<p>Every hard day these days is not so hard. </p>\n<p>At least compared to an old hard day.</p>\n<p>I consider any new hard days a blessing, now.</p>\n<p>Perhaps I always should have.</p>\n<p>Call it enlightenment.</p>\n<p>Wisdom.</p>\n<p>Old age.</p>\n<p>Second chances.</p>\n<p>Perspective is a heck of a thing.</p>\n<p>And compared to a hard day back then, these hard days are blessings.</p>\n<p>Every hard day teaches me, reminds me, that this is part of why I survived.</p>\n<p>Why I survive.</p>\n<p>I know that might not make sense, but it does for me.</p>\n<p>And it gives me peace.</p>\n<p>I know that the road ahead will have its hard days.</p>\n<p>And I'm so very thankful, I get to be here for them.</p>",
             "author": {
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2026-02-06T18:28:12-05:00",
-            "date_modified": "2026-02-06T18:28:12-05:00"
+            "date_modified": "2026-02-06T18:37:51-05:00"
         },
         {
             "id": "https://iterating.com/false-profits/",
