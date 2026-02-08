@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/tribe-called-quest/",
+            "url": "https://iterating.com/tribe-called-quest/",
+            "title": "Tribe Called Quest",
+            "summary": "Trials and tribulations are rewarded. We should be happy to have&hellip;",
+            "content_html": "<p>Trials and tribulations are rewarded.</p>\n<p>We should be happy to have them.</p>\n<p>For they build long lasting strength.</p>\n<p>I would say endurance but I don't like that word.</p>\n<p>Trials and tribulations are, in a strange way, a good thing.</p>\n<p>And ultimately, like all things that matter, it's a test.</p>\n<p>A measurement.</p>\n<p>Of your mettle.</p>\n<p>Of your \"do you have what it takes.\" </p>\n<p>Of you.</p>\n<p>Now there are some trials and tribulations that pulverize you.</p>\n<p>That turn you into powder.</p>\n<p>Dust in the wind.</p>\n<p>And, believe it or not, some people keep going.</p>\n<p>Even after that.</p>\n<p>They turn into pocket sand.</p>\n<p>Ether.</p>\n<p>Essence.</p>\n<p>Eternal.</p>\n<p>I don't know anyone who hasn't gone through it.</p>\n<p>I suppose I'm too old to.</p>\n<p>I used to think that life had to always go up. </p>\n<p>Up and to the right.</p>\n<p>But it doesn't.</p>\n<p>Nor should it.</p>\n<p>If you hit a home run every time you stepped up to the plate, you wouldn't like to hit.</p>\n<p>You wouldn't love it.</p>\n<p>Because it would be too easy.</p>\n<p>Too boring.</p>\n<p>You need to whiff.</p>\n<p>You need to miss.</p>\n<p>You need to fail.</p>\n<p>That's why you love to hit bombs.</p>\n<p>Be wary of those who only share their wins.</p>\n<p>Or only share their losses.</p>\n<p>Just be wary of everyone.</p>\n<p>Sometimes, the best thing to ever happen to you will feel like rejection at first.</p>\n<p>And the worst thing might initially feel like elation.</p>\n<p>Only time will tell.</p>\n<p>Only time.</p>\n<p>Happens to us all.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-08T17:29:51-05:00",
+            "date_modified": "2026-02-08T17:29:51-05:00"
+        },
+        {
             "id": "https://iterating.com/clear-eyes-full-belly/",
             "url": "https://iterating.com/clear-eyes-full-belly/",
             "title": "Clear Eyes, Full Belly",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-01-31T14:28:33-05:00",
             "date_modified": "2026-01-31T14:39:40-05:00"
-        },
-        {
-            "id": "https://iterating.com/tbc/",
-            "url": "https://iterating.com/tbc/",
-            "title": "TBC",
-            "summary": "Kids live in their own universes. Some adults are that way,&hellip;",
-            "content_html": "<p>Kids live in their own universes. Some adults are that way, too.</p>\n<p>Currently, my universes are overlapping, so I have to go.</p>\n<p>I get to go.</p>\n<p>Doing the stuff that makes you want to write a musings column in the first place.</p>\n<p>I'll see ya when I see ya.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-30T13:25:12-05:00",
-            "date_modified": "2026-01-30T13:28:45-05:00"
         }
     ]
 }
