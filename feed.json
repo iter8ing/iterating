@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/a-mans-home/",
+            "url": "https://iterating.com/a-mans-home/",
+            "title": "A Man&#x27;s Home",
+            "summary": "Have I been absurd enough lately? I don't think I have.",
+            "content_html": "<p>Have I been absurd enough lately?</p>\n<p>I don't think I have.</p>\n<p>And that, THAT, makes me sad.</p>\n<p>And I don't do sad.</p>\n<p>So, let me ask you something:</p>\n<p>Why do we dress up to go out?</p>\n<p>And generally wear whatever around the house?</p>\n<p>I say we got that arse backwards.</p>\n<p>Like a lot of things.</p>\n<p>Frontal.</p>\n<p>Buttocks.</p>\n<p>I say, wear gold robes around the house.</p>\n<p>And whatever is around when you leave it (just give it a good whiff - if it passes the sniff, we're good to go).</p>\n<p>Put on your finest when in and around your castle.</p>\n<p>Kings and Queens.</p>\n<p>Put on the scrubby stuff for those times you leave it.</p>\n<p>Put on your Sunday best everyday you stay home.</p>\n<p>So long as it's comfortable.</p>\n<p>Me, when I leave?</p>\n<p>I'm going for double takes.</p>\n<p>Just not in the way I used to get them.</p>\n<p>Best,</p>\n<p>𖤂</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-10T18:07:00-05:00",
+            "date_modified": "2026-02-10T18:07:00-05:00"
+        },
+        {
             "id": "https://iterating.com/apollos-creed/",
             "url": "https://iterating.com/apollos-creed/",
             "title": "Apollo&#x27;s Creed",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-02T13:02:51-05:00",
             "date_modified": "2026-02-02T13:21:12-05:00"
-        },
-        {
-            "id": "https://iterating.com/press-record/",
-            "url": "https://iterating.com/press-record/",
-            "title": "Press Record",
-            "summary": "I don't think we listen to music enough. At least, I&hellip;",
-            "content_html": "<p>I don't think we listen to music enough.</p>\n<p>At least, I don't.</p>\n<p>And, as a music lover, this is going to change.</p>\n<p>We are a long age away from listening to the radio for hours with a blank cassette inside the tape player. Finger hovering over the record button just hoping you catch your favorite song before it starts.</p>\n<p>Cursing silently when the DJ talks over the beginning, but happy you got it nonetheless.</p>\n<p>I must have re-recorded over the tape a hundred times before I got the songs I wanted.</p>\n<p>Today, the price we pay for any song at any time is an ad or two. Maybe a subscription.</p>\n<p>It's a little bit of cash or a little bit of time. </p>\n<p>And as much as I feel a bit torn about it all, I think ai is making some good music.</p>\n<p>Yeah, I said it.</p>\n<p>It follows the formula, and song is formula.</p>\n<p>Take for example the ai song \"New Year, I'm the Same ____\" (1979). I warn you it's got some adult language.</p>\n<p>Sheet rated R.</p>\n<p>But it's got oldies soul vibes with a modern (timeless?) IDGAF mindset.</p>\n<p>So yeah, I'm dancing to music created by software with the push of a few keys.</p>\n<p>No DJs yapping at the beginning to screw things up.</p>\n<p>No vulnerable cassettes eaten up by old, slowly disloyal, boomboxes.</p>\n<p>I'd encourage you to hold an iPhone sideways over your head rocking a Peter Gabriel song, but that just seems silly.</p>\n<p>There's no better time machine than music.</p>\n<p>A rare invention that can take you back, push you forward, and stir you up.</p>\n<p>All at the same time.</p>\n<p>Life is frequency.</p>\n<p>Life is vibe.</p>\n<p>Life is music.</p>\n<p>What's your song?</p>\n<p>💽</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-01T17:51:38-05:00",
-            "date_modified": "2026-02-01T18:08:21-05:00"
         }
     ]
 }
