@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/up-with-the-healthness/",
+            "url": "https://iterating.com/up-with-the-healthness/",
+            "title": "Up With The Healthness",
+            "summary": "So here's something you can do right now that can change&hellip;",
+            "content_html": "<p>So here's something you can do right now that can change your life.</p>\n<p>It's based on the idea of the sunk cost fallacy.</p>\n<p>This is the idea that since you already put money, time, and effort into something or someone, you should put more of the same into it, even though it is clearly (to everyone but you) a terrible thing to do.</p>\n<p>It's how pigs get butchered (the human kind). </p>\n<p>It's how bad relationships from the beginning can last decades.</p>\n<p>It's how bad companies, bosses, and careers can confine and define you.</p>\n<p><em>Well I'm already this far into it. What's the harm in going further?</em></p>\n<p>And do you want to know why most people stay in these types of situations?</p>\n<p>Sure, there are lots of reasons, but one of the biggest is that to change would admit they were wrong.</p>\n<p>That they made a mistake.</p>\n<p>They effed up.</p>\n<p>Some people would rather cost sunk.</p>\n<p>But at least they were right!</p>\n<p>I want to tell you something.</p>\n<p>You might be in one of these deals right now.</p>\n<p>Investing your precious time, money, and energy into things that are essentially black holes.</p>\n<p>Now, black holes are bad arse, but I ain't throwing valuable stuff in it.</p>\n<p>Maybe a stick or something.</p>\n<p>Just to see what happens.</p>\n<p>So. </p>\n<p>Take a look around your life.</p>\n<p>What needs going?</p>\n<p>I suppose I spend some time writing this thing.</p>\n<p>But I can't help it.</p>\n<p>I'm sunk!</p>\n<p>Waka waka wakaaaaaa!!!</p>\n<p>Or should it be:</p>\n<p>Oh ah-ah-ah-ah!</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-12T13:50:00-05:00",
+            "date_modified": "2026-02-12T13:50:00-05:00"
+        },
+        {
             "id": "https://iterating.com/two-kind/",
             "url": "https://iterating.com/two-kind/",
             "title": "Two Kind",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-03T14:10:07-05:00",
             "date_modified": "2026-02-04T13:09:05-05:00"
-        },
-        {
-            "id": "https://iterating.com/miyagi/",
-            "url": "https://iterating.com/miyagi/",
-            "title": "Miyagi",
-            "summary": "This say you brave: ♥️ This say you lucky: 🎖",
-            "content_html": "<p>This say you brave:</p>\n<p>♥️</p>\n<p>This say you lucky:</p>\n<p>🎖</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-02T15:27:00-05:00",
-            "date_modified": "2026-02-02T19:57:21-05:00"
         }
     ]
 }
