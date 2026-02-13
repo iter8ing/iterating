@@ -3,12 +3,59 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-02-15T17:07:00-05:00</updated>
+    <updated>2026-02-16T13:18:00-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Vouchers</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/vouchers/"/>
+        <id>https://iterating.com/vouchers/</id>
+
+        <updated>2026-02-16T13:18:00-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Today is going to be a positive musing. I'm positive about&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Today is going to be a positive musing.</p>
+<p>I'm positive about it.</p>
+<p>I've talked about choice before.</p>
+<p>And so let's talk about it some more.</p>
+<p>People think they want to choose.</p>
+<p>And I suppose that is true.</p>
+<p>But it's an illusion.</p>
+<p>They want the illusion of choice.</p>
+<p>What do I mean by that?</p>
+<p>Well, let's use us as an example.</p>
+<p>We live in a world of limitless choices.</p>
+<p>But when you think about it, these choices are already curated down quite a bit.</p>
+<p>You think you want unlimited choice, but what you really want is a good curator.</p>
+<p>You want a small batch to choose from.</p>
+<p>This is the ideal situation.</p>
+<p>From infinite to just two.</p>
+<p>Or three.</p>
+<p>You get the idea.</p>
+<p>This is why sponsorship is important.</p>
+<p>Referrals.</p>
+<p>Word of mouth.</p>
+<p>I ask, when someone recommends someone, "Do you vouch for them?"</p>
+<p>This sometimes gets funny looks, but I'm used to it.</p>
+<p>Sure you recommend them, but do you vouch for them?</p>
+<p>What's on them, is on you?</p>
+<p>That sure whittles it down.</p>
+<p>Positive about that.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Human(e)</title>
         <author>
@@ -464,44 +511,6 @@
 <p>I forget.</p>
 <p>Forgive me, what's your name...</p>
 <p>Next!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Easy Mode</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/easy-mode/"/>
-        <id>https://iterating.com/easy-mode/</id>
-
-        <updated>2026-02-06T18:28:12-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Some days, I do not have the time to write. Or&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Some days, I do not have the time to write.</p>
-<p>Or at least, the window.</p>
-<p>Is today one of those days?</p>
-<p>Every hard day these days is not so hard. </p>
-<p>At least compared to an old hard day.</p>
-<p>I consider any new hard days a blessing, now.</p>
-<p>Perhaps I always should have.</p>
-<p>Call it enlightenment.</p>
-<p>Wisdom.</p>
-<p>Old age.</p>
-<p>Second chances.</p>
-<p>Perspective is a heck of a thing.</p>
-<p>And compared to a hard day back then, these hard days are blessings.</p>
-<p>Every hard day teaches me, reminds me, that this is part of why I survived.</p>
-<p>Why I survive.</p>
-<p>I know that might not make sense, but it does for me.</p>
-<p>And it gives me peace.</p>
-<p>I know that the road ahead will have its hard days.</p>
-<p>And I'm so very thankful, I get to be here for them.</p>
             ]]>
         </content>
     </entry>

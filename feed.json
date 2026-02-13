@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/vouchers/",
+            "url": "https://iterating.com/vouchers/",
+            "title": "Vouchers",
+            "summary": "Today is going to be a positive musing. I'm positive about&hellip;",
+            "content_html": "<p>Today is going to be a positive musing.</p>\n<p>I'm positive about it.</p>\n<p>I've talked about choice before.</p>\n<p>And so let's talk about it some more.</p>\n<p>People think they want to choose.</p>\n<p>And I suppose that is true.</p>\n<p>But it's an illusion.</p>\n<p>They want the illusion of choice.</p>\n<p>What do I mean by that?</p>\n<p>Well, let's use us as an example.</p>\n<p>We live in a world of limitless choices.</p>\n<p>But when you think about it, these choices are already curated down quite a bit.</p>\n<p>You think you want unlimited choice, but what you really want is a good curator.</p>\n<p>You want a small batch to choose from.</p>\n<p>This is the ideal situation.</p>\n<p>From infinite to just two.</p>\n<p>Or three.</p>\n<p>You get the idea.</p>\n<p>This is why sponsorship is important.</p>\n<p>Referrals.</p>\n<p>Word of mouth.</p>\n<p>I ask, when someone recommends someone, \"Do you vouch for them?\"</p>\n<p>This sometimes gets funny looks, but I'm used to it.</p>\n<p>Sure you recommend them, but do you vouch for them?</p>\n<p>What's on them, is on you?</p>\n<p>That sure whittles it down.</p>\n<p>Positive about that.</p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-16T13:18:00-05:00",
+            "date_modified": "2026-02-16T13:18:00-05:00"
+        },
+        {
             "id": "https://iterating.com/humane/",
             "url": "https://iterating.com/humane/",
             "title": "Human(e)",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-07T14:29:01-05:00",
             "date_modified": "2026-02-07T15:00:43-05:00"
-        },
-        {
-            "id": "https://iterating.com/easy-mode/",
-            "url": "https://iterating.com/easy-mode/",
-            "title": "Easy Mode",
-            "summary": "Some days, I do not have the time to write. Or&hellip;",
-            "content_html": "<p>Some days, I do not have the time to write.</p>\n<p>Or at least, the window.</p>\n<p>Is today one of those days?</p>\n<p>Every hard day these days is not so hard. </p>\n<p>At least compared to an old hard day.</p>\n<p>I consider any new hard days a blessing, now.</p>\n<p>Perhaps I always should have.</p>\n<p>Call it enlightenment.</p>\n<p>Wisdom.</p>\n<p>Old age.</p>\n<p>Second chances.</p>\n<p>Perspective is a heck of a thing.</p>\n<p>And compared to a hard day back then, these hard days are blessings.</p>\n<p>Every hard day teaches me, reminds me, that this is part of why I survived.</p>\n<p>Why I survive.</p>\n<p>I know that might not make sense, but it does for me.</p>\n<p>And it gives me peace.</p>\n<p>I know that the road ahead will have its hard days.</p>\n<p>And I'm so very thankful, I get to be here for them.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-06T18:28:12-05:00",
-            "date_modified": "2026-02-06T18:38:08-05:00"
         }
     ]
 }
