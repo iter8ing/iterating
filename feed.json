@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/against-the-machine/",
+            "url": "https://iterating.com/against-the-machine/",
+            "title": "Against The Machine",
+            "summary": "As a man of peace, I tell you what, I'm angry.",
+            "content_html": "<p>As a man of peace, I tell you what, I'm angry.</p>\n<p>Seems like the thing to be these days.</p>\n<p>Pissed.</p>\n<p>Is that right?</p>\n<p>You know what I love?</p>\n<p>When some public official is behind a podium yelling at us.</p>\n<p>Admonishing us.</p>\n<p>The general public.</p>\n<p>Why?</p>\n<p>Because they are blaming us for the actions of some fool.</p>\n<p>We gotta keep our kids safe!</p>\n<p>We must end senseless violence!</p>\n<p>Meanwhile, I'm here drinking a nice beverage wondering why some idiot is yelling at me (it happens).</p>\n<p>I understand why it happens. I just don't get why it works.</p>\n<p>Or rather, why people accept it.</p>\n<p>Shouldn't it be the other way?</p>\n<p>Shouldn't it be us yelling at them?</p>\n<p>Oh wait, they're using my technique.</p>\n<p>Be more outraged than the outraged.</p>\n<p>Proactively outraged.</p>\n<p>Cobra Kai sheet.</p>\n<p>Strike first. Strike hard!</p>\n<p>No.</p>\n<p>Mercy.</p>\n<p>It's clever.</p>\n<p>Seems to work.</p>\n<p>Has for me.</p>\n<p>Ah well.</p>\n<p>Back to my beverage.</p>\n<p>Oh boy, \"rage\" is in beverage.</p>\n<p>Where's that podium...it's around here somewhere.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-17T14:54:00-05:00",
+            "date_modified": "2026-02-17T14:54:00-05:00"
+        },
+        {
             "id": "https://iterating.com/vouchers/",
             "url": "https://iterating.com/vouchers/",
             "title": "Vouchers",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-08T17:29:51-05:00",
             "date_modified": "2026-02-08T17:36:48-05:00"
-        },
-        {
-            "id": "https://iterating.com/clear-eyes-full-belly/",
-            "url": "https://iterating.com/clear-eyes-full-belly/",
-            "title": "Clear Eyes, Full Belly",
-            "summary": "Full stomach. Less sleep. Blinking cursor. Staring back. Wooh boy. Got&hellip;",
-            "content_html": "<p>Full stomach. </p>\n<p>Less sleep.</p>\n<p>Blinking cursor.</p>\n<p>Staring back.</p>\n<p>Wooh boy.</p>\n<p>Got my work cut out for me.</p>\n<p>Of course I kid.</p>\n<p>This sheet easy.</p>\n<p>I just like to play the disgruntled guy.</p>\n<p>Ornery.</p>\n<p>It makes me smile.</p>\n<p>For you see, even in a musings column, I got to play a part.</p>\n<p>It's me writing, but only the me I want you to see.</p>\n<p>And I'm not advertising this stuff, but it does feel a bit public and a bit private at the same time.</p>\n<p>So I do a little jig.</p>\n<p>Dancin' around ideas.</p>\n<p>Boppin' around musings.</p>\n<p>Stalling through giving you more imagery about me dancin'.</p>\n<p>But I got a point to make, and it ain't on the top of your head!</p>\n<p><em>Tee hee.</em></p>\n<p>Old insults are the best.</p>\n<p>Listen, I want you to know something about me.</p>\n<p>I don't forgive.</p>\n<p>I forget.</p>\n<p>Forgive me, what's your name...</p>\n<p>Next!</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-07T14:29:01-05:00",
-            "date_modified": "2026-02-07T15:00:43-05:00"
         }
     ]
 }
