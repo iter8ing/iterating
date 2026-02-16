@@ -3,12 +3,41 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-02-17T14:54:00-05:00</updated>
+    <updated>2026-02-18T12:34:00-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Laugh Art</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/laugh-art/"/>
+        <id>https://iterating.com/laugh-art/</id>
+
+        <updated>2026-02-18T12:34:00-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    You know what's a sweet sound? The sound of your own&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You know what's a sweet sound?</p>
+<p>The sound of your own belly laugh.</p>
+<p>Sure, hearing the laughter of others is wonderful, but when you catch yourself doing it, it's pretty sweet.</p>
+<p>I don't belly laugh much, but I did yesterday.</p>
+<p>My son made an observation that just tickled me to the core.</p>
+<p>He's a funny son of a good woman.</p>
+<p>Sometimes, a deep belly laugh is greeted simultaneously with a lil toot.</p>
+<p>Laughing out both ends.</p>
+<p>That's when you know you're living right.</p>
+<p>🤣💨</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Against The Machine</title>
         <author>
@@ -459,67 +488,6 @@
 </blockquote>
 <p>Keep punching, my friends.</p>
 <p>Keep punching my enemies.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tribe Called Quest</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/tribe-called-quest/"/>
-        <id>https://iterating.com/tribe-called-quest/</id>
-
-        <updated>2026-02-08T17:29:51-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Trials and tribulations are rewarded. We should be happy to have&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Trials and tribulations are rewarded.</p>
-<p>We should be happy to have them.</p>
-<p>For they build long lasting strength.</p>
-<p>I would say endurance but I don't like that word.</p>
-<p>Trials and tribulations are, in a strange way, a good thing.</p>
-<p>And ultimately, like all things that matter, they are a test.</p>
-<p>A measurement.</p>
-<p>Of your mettle.</p>
-<p>Of your "do you have what it takes." </p>
-<p>Of you.</p>
-<p>Now there are some trials and tribulations that pulverize you.</p>
-<p>That turn you into powder.</p>
-<p>Dust in the wind.</p>
-<p>And, believe it or not, some people keep going.</p>
-<p>Even after that.</p>
-<p>They turn into pocket sand.</p>
-<p>Ether.</p>
-<p>Essence.</p>
-<p>Eternal.</p>
-<p>I don't know anyone who hasn't gone through it.</p>
-<p>I suppose I'm too old to.</p>
-<p>I used to think that life had to always go up. </p>
-<p>Up and to the right.</p>
-<p>But it doesn't.</p>
-<p>Nor should it.</p>
-<p>If you hit a home run every time you stepped up to the plate, you wouldn't like to hit.</p>
-<p>You wouldn't love it.</p>
-<p>Because it would be too easy.</p>
-<p>Too boring.</p>
-<p>You need to whiff.</p>
-<p>You need to miss.</p>
-<p>You need to fail.</p>
-<p>That's why you love to hit bombs.</p>
-<p>Be wary of those who only share their wins.</p>
-<p>Or only share their losses.</p>
-<p>Just be wary of everyone.</p>
-<p>Sometimes, the best thing to ever happen to you will feel like heartbreak at first.</p>
-<p>And the worst thing might initially feel like elation.</p>
-<p>Only time will tell.</p>
-<p>Only time.</p>
-<p>Happens to us all.</p>
-<p>You on point?</p>
             ]]>
         </content>
     </entry>
