@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/there/",
+            "url": "https://iterating.com/there/",
+            "title": "There",
+            "summary": "I'm fighting something. I suppose we all are. It's creating a&hellip;",
+            "content_html": "<p>I'm fighting something.</p>\n<p>I suppose we all are.</p>\n<p>It's creating a bit of of a fog in my brain.</p>\n<p>So this musing might be a bit off.</p>\n<p>Or, maybe, better than all the rest.</p>\n<p>I know what you're thinking.</p>\n<p>He's just stalling again.</p>\n<p>Trying to find the right words to say.</p>\n<p>Because he's got no idea.</p>\n<p>Wrong.</p>\n<p>I know exactly what I want to say.</p>\n<p>It just hasn't yet been conveyed to my fingertips.</p>\n<p>But it's coming.</p>\n<p>...</p>\n<p>I will share a joke my daughter told me.</p>\n<p>Reader, will you remember me?</p>\n<p><em>Yes.</em></p>\n<p>Reader, will you always remember me?</p>\n<p><em>Of course. Why are you asking this?</em></p>\n<p>Okay. Knock knock.</p>\n<p><em>[Sigh.] Who's there?</em></p>\n<p>Reader...Did you already forget?</p>\n<p>It's better when she tells it.</p>\n<p>Because instead of Reader she says Daddy, but in a way that stretches out the word. </p>\n<p>Daaaaaaaadeeeeeeeeeee.</p>\n<p>Remember the Alamo.</p>\n<p>And the Al ya know.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-19T13:55:00-05:00",
+            "date_modified": "2026-02-19T13:55:00-05:00"
+        },
+        {
             "id": "https://iterating.com/laugh-art/",
             "url": "https://iterating.com/laugh-art/",
             "title": "Laugh Art",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-10T18:07:00-05:00",
             "date_modified": "2026-02-10T18:07:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/apollos-creed/",
-            "url": "https://iterating.com/apollos-creed/",
-            "title": "Apollo&#x27;s Creed",
-            "summary": "I am an eternal optimist. A stoic one. I believe in&hellip;",
-            "content_html": "<p>I am an eternal optimist.</p>\n<p>A stoic one.</p>\n<p>I believe in asking: </p>\n<p>\"What does this make possible?\"</p>\n<p>Sometimes finding a silver lining in a dark cloud more rewarding than a solar flare off a golden sun.</p>\n<p>Does that make sense?</p>\n<p>For every financial win, there is a tax.</p>\n<p>For every loss, an accumulation of wisdom.</p>\n<p>The night after the Big Game (ugh), half of the people involved are in misery.</p>\n<p>For many on that side of the ball, this is the closest they will get to winning it all in the game of football.</p>\n<p>Some will see it as a tragedy. But it's not.</p>\n<p>It's just a game.</p>\n<p>The interesting thing about interviewing folks who win the big games, a lot of them are ecstatic. As they should be.</p>\n<p>Elated.</p>\n<p>But the thing I learned is that the superstars, the leaders, they generally aren't.</p>\n<p>They are happy, sure.</p>\n<p>Thankful, certainly.</p>\n<p>But the emotion you hear, over and over again, is a simple one:</p>\n<p>Relief.</p>\n<p>They can exhale, now.</p>\n<p>They can mark this off their to-do list.</p>\n<p>They have done it.</p>\n<p>Now the really crazy ones say, \"On to the next one...\" and get to work.</p>\n<p>But that's a rarity in an already all-too-rare population.</p>\n<p>For you see, there are superstars, there are leaders, and then there are champions.</p>\n<p>I leave it to you as to decide which you look up to, which you aim for, and who you want to be.</p>\n<p>Just promise me, whatever you do, if you own a championship belt, leave it at home.</p>\n<p>Unless of course, you are defending it.</p>\n<p>Oh, and you're always defending it, Champ.</p>\n<blockquote>\n<p>\"You know, Stallion.</p>\n<p>It's too bad we gotta get old.\"</p>\n<p>\"Ahh, just keep punching, Apollo.</p>\n<p>You wanna ring the bell?\"</p>\n<p>\"Alright, ding ding.\"</p>\n</blockquote>\n<p>Keep punching, my friends.</p>\n<p>Keep punching my enemies.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-09T13:29:51-05:00",
-            "date_modified": "2026-02-09T18:03:15-05:00"
         }
     ]
 }
