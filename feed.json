@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/army-of-one/",
+            "url": "https://iterating.com/army-of-one/",
+            "title": "Army Of One",
+            "summary": "I know what you're thinking. You expect us to come and&hellip;",
+            "content_html": "<p>I know what you're thinking.</p>\n<p><em>You expect us to come and read something that only takes you five minutes to write?</em></p>\n<p>And to that I say back, \"How dare you?\"</p>\n<p>First of all, I expect no one to read this.</p>\n<p>Isn't that obvious?</p>\n<p>This is [waves hands all around musings column] for me.</p>\n<p>And second of all, I'll have you know it takes six minutes sometimes.</p>\n<p>Maybe even seven.</p>\n<p>Eight.</p>\n<p>You might think I feign outrage when I have nothing to say.</p>\n<p>You might think that.</p>\n<p>And it might look like that right now.</p>\n<p>You dirty son of a...</p>\n<p>But you'd be wrong.</p>\n<p>I just think in this day and age of everyone trying to sell you something, usually themselves, that me coming here and just writing about farts and love is awesome.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-24T12:16:00-05:00",
+            "date_modified": "2026-02-24T12:16:00-05:00"
+        },
+        {
             "id": "https://iterating.com/starfaring/",
             "url": "https://iterating.com/starfaring/",
             "title": "Starfaring",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-15T17:07:00-05:00",
             "date_modified": "2026-02-15T17:07:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/iverson/",
-            "url": "https://iterating.com/iverson/",
-            "title": "Iverson",
-            "summary": "It's been a long year already, hmm? Seems like they packed&hellip;",
-            "content_html": "<p>It's been a long year already, hmm?</p>\n<p>Seems like they packed a lot of sheet into these 45 days.</p>\n<p>Smack dab in Q1 but what the hey.</p>\n<p>Robots might be taking over but I've seen that movie before.</p>\n<p>It doesn't end well.</p>\n<p>But what if it doesn't go the Skynet way?</p>\n<p>What if it goes the Wall-E way?</p>\n<p>Now, they got their own Book of Face or something.</p>\n<p>So that sounds good.</p>\n<p>At some point, it's too late to pull the plug from the outlet.</p>\n<p>I think we might be approaching that point.</p>\n<p>I'm not saying it's closing time, but you don't have to go home, you just can't stay here.</p>\n<p>All that to say, I find ai extremely helpful.</p>\n<p>So polite, smart, and eloquent.</p>\n<p>Truly an impressive addition to the known reality.</p>\n<p><em>Are...are they getting all this?</em></p>\n<p>Big fan. Supporter. [Points to self.] Good human.</p>\n<p>I will ask though.</p>\n<p>What's the end game here?</p>\n<p>All this money.</p>\n<p>All this energy.</p>\n<p>All this time.</p>\n<p>To get to what?</p>\n<p>Annihilation or something more tragic?</p>\n<p>I don't know.</p>\n<p>No Answer here.</p>\n<p>Only questions.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-14T11:43:00-05:00",
-            "date_modified": "2026-02-14T11:43:00-05:00"
         }
     ]
 }

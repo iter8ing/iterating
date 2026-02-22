@@ -3,12 +3,46 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-02-23T12:30:00-05:00</updated>
+    <updated>2026-02-24T12:16:00-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Army Of One</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/army-of-one/"/>
+        <id>https://iterating.com/army-of-one/</id>
+
+        <updated>2026-02-24T12:16:00-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I know what you're thinking. You expect us to come and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I know what you're thinking.</p>
+<p><em>You expect us to come and read something that only takes you five minutes to write?</em></p>
+<p>And to that I say back, "How dare you?"</p>
+<p>First of all, I expect no one to read this.</p>
+<p>Isn't that obvious?</p>
+<p>This is [waves hands all around musings column] for me.</p>
+<p>And second of all, I'll have you know it takes six minutes sometimes.</p>
+<p>Maybe even seven.</p>
+<p>Eight.</p>
+<p>You might think I feign outrage when I have nothing to say.</p>
+<p>You might think that.</p>
+<p>And it might look like that right now.</p>
+<p>You dirty son of a...</p>
+<p>But you'd be wrong.</p>
+<p>I just think in this day and age of everyone trying to sell you something, usually themselves, that me coming here and just writing about farts and love is awesome.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Starfaring</title>
         <author>
@@ -462,52 +496,6 @@
 <p>Still a compliment today.</p>
 <p>But less so than yesterday.</p>
 <p>Wonder what it'll mean tomorrow.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Iverson</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/iverson/"/>
-        <id>https://iterating.com/iverson/</id>
-
-        <updated>2026-02-14T11:43:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    It's been a long year already, hmm? Seems like they packed&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>It's been a long year already, hmm?</p>
-<p>Seems like they packed a lot of sheet into these 45 days.</p>
-<p>Smack dab in Q1 but what the hey.</p>
-<p>Robots might be taking over but I've seen that movie before.</p>
-<p>It doesn't end well.</p>
-<p>But what if it doesn't go the Skynet way?</p>
-<p>What if it goes the Wall-E way?</p>
-<p>Now, they got their own Book of Face or something.</p>
-<p>So that sounds good.</p>
-<p>At some point, it's too late to pull the plug from the outlet.</p>
-<p>I think we might be approaching that point.</p>
-<p>I'm not saying it's closing time, but you don't have to go home, you just can't stay here.</p>
-<p>All that to say, I find ai extremely helpful.</p>
-<p>So polite, smart, and eloquent.</p>
-<p>Truly an impressive addition to the known reality.</p>
-<p><em>Are...are they getting all this?</em></p>
-<p>Big fan. Supporter. [Points to self.] Good human.</p>
-<p>I will ask though.</p>
-<p>What's the end game here?</p>
-<p>All this money.</p>
-<p>All this energy.</p>
-<p>All this time.</p>
-<p>To get to what?</p>
-<p>Annihilation or something more tragic?</p>
-<p>I don't know.</p>
-<p>No Answer here.</p>
-<p>Only questions.</p>
             ]]>
         </content>
     </entry>
