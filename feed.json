@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/grand/",
+            "url": "https://iterating.com/grand/",
+            "title": "Grand",
+            "summary": "Workshop with me. Say I get to 60. What will I&hellip;",
+            "content_html": "<p>Workshop with me.</p>\n<p>Say I get to 60.</p>\n<p>What will I be?</p>\n<p>Will I be grand?</p>\n<p>I hope to be grand.</p>\n<p>But not in the way you might think (too soon!).</p>\n<p>A mentor.</p>\n<p>A founder.</p>\n<p>Alive.</p>\n<p>The last part is somewhat out of my control.</p>\n<p>But I think I can do something about the other two.</p>\n<p>I can mentor.</p>\n<p>I can found.</p>\n<p>I've done both.</p>\n<p>I do both.</p>\n<p>What does it mean to be a grandmentor?</p>\n<p>What does it mean to be a grandfounder?</p>\n<p>Mentor of mentors?</p>\n<p>Founder of founders?</p>\n<p>The cool thing about coining a term is you get to define what it means.</p>\n<p>These are the types of things I enjoy doing.</p>\n<p>Evoking with words.</p>\n<p>Dreaming big.</p>\n<p>Playing the long game.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-02T20:06:00-05:00",
+            "date_modified": "2026-03-02T20:06:00-05:00"
+        },
+        {
             "id": "https://iterating.com/asymmetric-bettor/",
             "url": "https://iterating.com/asymmetric-bettor/",
             "title": "Asymmetric Bettor",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-21T13:14:00-05:00",
             "date_modified": "2026-02-21T13:14:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/venture/",
-            "url": "https://iterating.com/venture/",
-            "title": "Venture",
-            "summary": "Credentials are an interesting thing. I used to be impressed with&hellip;",
-            "content_html": "<p>Credentials are an interesting thing.</p>\n<p>I used to be impressed with them.</p>\n<p>Used to impress myself with them.</p>\n<p>Framed certificates signifying intellect. </p>\n<p>Business cards and titles therewith.</p>\n<p>Term sheets.</p>\n<p>Firm handshakes (still important).</p>\n<p>These things used to matter to me.</p>\n<p>Now, I'm borderline feral.</p>\n<p>Barely civilized, if I ever was.</p>\n<p>Respectful, but wild.</p>\n<p>I'm happy to say I have a lot of credentials.</p>\n<p>Even happier to say I don't need 'em.</p>\n<p>They got me here, in a roundabout way, and that's worth it in and of itself.</p>\n<p>Couldn't be where I am without them.</p>\n<p>Ties with collared shirts would break me out.</p>\n<p>Felt like a costume.</p>\n<p>A collar.</p>\n<p>A leash.</p>\n<p>I don't wear them anymore.</p>\n<p>My old boss at the Menlo Park venture capital law firm said, \"Alex, you need to be on the other side of the table.\"</p>\n<p>I think he was trying to get rid of me, but he's right.</p>\n<p>That's where I belong.</p>\n<p>Been trying to fit square pegs in round holes my whole life.</p>\n<p>Then I figured out something:</p>\n<p>Credentials don't make you happy.</p>\n<p>They make your parents happy.</p>\n<p>Because it makes them feel better around other old Koreans.</p>\n<p>I love my folks, but I wish they didn't care about what other old Koreans thought.</p>\n<p>Everything, though, puts me right here.</p>\n<p>Writing on this ridiculously good domain name just for my own personal joy.</p>\n<p>Haha.</p>\n<p>Weird.</p>\n<p>🕺</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-20T16:49:00-05:00",
-            "date_modified": "2026-02-20T16:49:00-05:00"
         }
     ]
 }

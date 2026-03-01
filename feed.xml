@@ -3,12 +3,55 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-03-01T12:42:00-05:00</updated>
+    <updated>2026-03-02T20:06:00-05:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Grand</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/grand/"/>
+        <id>https://iterating.com/grand/</id>
+
+        <updated>2026-03-02T20:06:00-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Workshop with me. Say I get to 60. What will I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Workshop with me.</p>
+<p>Say I get to 60.</p>
+<p>What will I be?</p>
+<p>Will I be grand?</p>
+<p>I hope to be grand.</p>
+<p>But not in the way you might think (too soon!).</p>
+<p>A mentor.</p>
+<p>A founder.</p>
+<p>Alive.</p>
+<p>The last part is somewhat out of my control.</p>
+<p>But I think I can do something about the other two.</p>
+<p>I can mentor.</p>
+<p>I can found.</p>
+<p>I've done both.</p>
+<p>I do both.</p>
+<p>What does it mean to be a grandmentor?</p>
+<p>What does it mean to be a grandfounder?</p>
+<p>Mentor of mentors?</p>
+<p>Founder of founders?</p>
+<p>The cool thing about coining a term is you get to define what it means.</p>
+<p>These are the types of things I enjoy doing.</p>
+<p>Evoking with words.</p>
+<p>Dreaming big.</p>
+<p>Playing the long game.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Asymmetric Bettor</title>
         <author>
@@ -504,60 +547,6 @@
 <p>Internal optimism.</p>
 <p>Input output.</p>
 <p>IO.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Venture</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/venture/"/>
-        <id>https://iterating.com/venture/</id>
-
-        <updated>2026-02-20T16:49:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Credentials are an interesting thing. I used to be impressed with&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Credentials are an interesting thing.</p>
-<p>I used to be impressed with them.</p>
-<p>Used to impress myself with them.</p>
-<p>Framed certificates signifying intellect. </p>
-<p>Business cards and titles therewith.</p>
-<p>Term sheets.</p>
-<p>Firm handshakes (still important).</p>
-<p>These things used to matter to me.</p>
-<p>Now, I'm borderline feral.</p>
-<p>Barely civilized, if I ever was.</p>
-<p>Respectful, but wild.</p>
-<p>I'm happy to say I have a lot of credentials.</p>
-<p>Even happier to say I don't need 'em.</p>
-<p>They got me here, in a roundabout way, and that's worth it in and of itself.</p>
-<p>Couldn't be where I am without them.</p>
-<p>Ties with collared shirts would break me out.</p>
-<p>Felt like a costume.</p>
-<p>A collar.</p>
-<p>A leash.</p>
-<p>I don't wear them anymore.</p>
-<p>My old boss at the Menlo Park venture capital law firm said, "Alex, you need to be on the other side of the table."</p>
-<p>I think he was trying to get rid of me, but he's right.</p>
-<p>That's where I belong.</p>
-<p>Been trying to fit square pegs in round holes my whole life.</p>
-<p>Then I figured out something:</p>
-<p>Credentials don't make you happy.</p>
-<p>They make your parents happy.</p>
-<p>Because it makes them feel better around other old Koreans.</p>
-<p>I love my folks, but I wish they didn't care about what other old Koreans thought.</p>
-<p>Everything, though, puts me right here.</p>
-<p>Writing on this ridiculously good domain name just for my own personal joy.</p>
-<p>Haha.</p>
-<p>Weird.</p>
-<p>🕺</p>
-<p> </p>
             ]]>
         </content>
     </entry>
