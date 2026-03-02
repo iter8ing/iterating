@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/i-was-inverted/",
+            "url": "https://iterating.com/i-was-inverted/",
+            "title": "I Was Inverted",
+            "summary": "Mental models are an interesting thing. Basically, it's like a mini-rulebook&hellip;",
+            "content_html": "<p>Mental models are an interesting thing.</p>\n<p>Basically, it's like a mini-rulebook on how to think and therefore how to act.</p>\n<p>One of note is to invert.</p>\n<p>Always invert.</p>\n<p>Made famous by Charlie Munger (RIP), you basically start at the end result of what you do not want and work backwards.</p>\n<p>Want a good life?</p>\n<p>How do you guarantee that you will live a bad one?</p>\n<p>Then, do everything you can to avoid the things you listed as living a bad life.</p>\n<p>Poor Charlie used to always say, \"Where will I pass?\"</p>\n<p>And then joke that he just would never go to that location, and thus, live forever.</p>\n<p>It's an interesting way to think.</p>\n<p>Want to be fit?</p>\n<p>How do you get fat?</p>\n<p>Want to be rich?</p>\n<p>How do you stay poor?</p>\n<p>Want to be successful?</p>\n<p>How do you lose at life?</p>\n<p>Sometimes, narrowing it down helps.</p>\n<p>What to do based on what not to do.</p>\n<p>Next time you're stuck, think about it from a different point of view.</p>\n<p>Upside down.</p>\n<p>And give it the finger.</p>\n<p>✈️</p>\n<p>🛩</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-04T15:00:00-05:00",
+            "date_modified": "2026-03-04T15:00:00-05:00"
+        },
+        {
             "id": "https://iterating.com/late-again/",
             "url": "https://iterating.com/late-again/",
             "title": "Late Again",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-02-23T12:30:00-05:00",
             "date_modified": "2026-02-23T12:30:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/liner-notes/",
-            "url": "https://iterating.com/liner-notes/",
-            "title": "Liner Notes",
-            "summary": "One of my favorite parts of a good live album or&hellip;",
-            "content_html": "<p>One of my favorite parts of a good live album or concert is the intro, the monologue, the banter.</p>\n<p>Sometimes the band's playing a little something in the background, while the singer talks about the song coming up.</p>\n<p>When I was young, I didn't like live versions.</p>\n<p>I wanted the album version.</p>\n<p>And most of the time, the live versions weren't as good.</p>\n<p>Poorer sounding.</p>\n<p>Vocally or otherwise.</p>\n<p>Sometimes, these folks dared changing the lyrics! </p>\n<p>Or turned it acoustic!</p>\n<p>As I grew up, I learned I was wrong.</p>\n<p>I realized how change could be so very magical.</p>\n<p>How much play there was in doing it live.</p>\n<p>How you can go acoustic, ballad, or electric.</p>\n<p>How the same song can feel so different, can play so different, just by changing how you sing it.</p>\n<p>And so, I learned that the true measure of a band was not in the safe studio, it was how they did it live.</p>\n<p>Did they have a story to tell before certain songs.</p>\n<p>Did they evolve it in the time since it's release.</p>\n<p>You hear some artists say they hate to sing their hits because it's just the same crap over and over.</p>\n<p>It becomes something of a catch phrase.</p>\n<p>And I get that, maybe that's why songs do evolve.</p>\n<p>To keep it interesting.</p>\n<p>The best songs change over time. But they stay the same in spirit.</p>\n<p>The best remakes are those that change fast to slow, electric to acoustic. But they stay the same in significance.</p>\n<p>And versa vice.</p>\n<p>I wish sometimes, that there was a piano playing behind me, while I stand on this stage.</p>\n<p>Musing about music.</p>\n<p>Sure, I hit some keys of my own, but they aren't the Mariah Carey or Bruce Hornsby kind, more the clicky-clacky.</p>\n<p>And I just got to tell you, poetry comes in all forms.</p>\n<p>You can read it, you can listen to it, you can see it in motion.</p>\n<p>Live and in living color.</p>\n<p>But most importantly, you can <em>feel</em> it.</p>\n<p>To the bone.</p>\n<p>In your heart.</p>\n<p>For our souls.</p>\n<p>This is for you.</p>\n<p>[Cues up the band.]</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-22T12:03:00-05:00",
-            "date_modified": "2026-02-22T12:03:00-05:00"
         }
     ]
 }
