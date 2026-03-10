@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/i-feel-better-when-im-dancing/",
+            "url": "https://iterating.com/i-feel-better-when-im-dancing/",
+            "title": "I Feel Better When I&#x27;m Dancing",
+            "summary": "When was the last time you cut a rug? I don't&hellip;",
+            "content_html": "<p>When was the last time you cut a rug?</p>\n<p>I don't mean carpetry. Is that a word?</p>\n<p>I mean dancing.</p>\n<p>When's the last time you got down?</p>\n<p>Got low?</p>\n<p>Got down to business?</p>\n<p>When's the last time you danced?</p>\n<p>Life is rhythm.</p>\n<p>Life is frequency.</p>\n<p>Life is motion.</p>\n<p>So I've been told by the people I love that I have terrible taste in music.</p>\n<p>Like for instance, I don't like that iconic band from London named after an insect.</p>\n<p>But I do like the radiation boys from Chicago.</p>\n<p>What?</p>\n<p>You got a problem with that?</p>\n<p>You lucky I'm dancing.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-10T14:23:12-04:00",
+            "date_modified": "2026-03-10T14:23:12-04:00"
+        },
+        {
             "id": "https://iterating.com/good-and-bad/",
             "url": "https://iterating.com/good-and-bad/",
             "title": "Good and Bad",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-01T12:42:00-05:00",
             "date_modified": "2026-03-01T12:42:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/vidi-vici-veni/",
-            "url": "https://iterating.com/vidi-vici-veni/",
-            "title": "Vidi, Vici, Veni",
-            "summary": "You know, I hear they cancelled Latin. I do like a&hellip;",
-            "content_html": "<p>You know, I hear they cancelled Latin.</p>\n<p>I do like a lot of Latin, though.</p>\n<p>It's an interesting language with lots of interesting words and phrases.</p>\n<p>But we're not a language class.</p>\n<p>We're here to...</p>\n<p>[Covers mic.]</p>\n<p>What are we here to do, again?</p>\n<p>People just come here to read the musings?</p>\n<p>No, no, that can't be right.</p>\n<p>[Uncovers mic.]</p>\n<p>We are here to talk about grace.</p>\n<p>About giving it, receiving it, and how it took me ages to understand its power.</p>\n<p>For many decades, I never gave it.</p>\n<p>I was cold.</p>\n<p>Unforgiving.</p>\n<p>Ungraceful.</p>\n<p>And it worked both ways.</p>\n<p>I never gave myself any grace.</p>\n<p>Nor did I give it to others.</p>\n<p>Unless I didn't care about you. Then you're just invisible.</p>\n<p>Ain't that something?</p>\n<p>Not giving you grace meant I cared.</p>\n<p>Back then.</p>\n<p>I'm changed now, right?</p>\n<p>Right??</p>\n<p>Bah.</p>\n<p>Now, respect I did give.</p>\n<p>I was raised to respect.</p>\n<blockquote>\n<p>\"You're supposed to be my lab partner.\"</p>\n<p>\"I am!\"</p>\n<p>\"No, you're not. You're disloyal.\"</p>\n</blockquote>\n<p>And it's something I did give and did expect.</p>\n<p>And if I didn't receive it, well, then there might be a problem.</p>\n<p>But I've learned, as I approach these golden years, to extend grace in the face of disrespect.</p>\n<p>At least, I know it on paper.</p>\n<p>I'm not batting 1.000 here on the extend grace in the face of disrespect stat line.</p>\n<p>But we all gotta start somewhere.</p>\n<p>Grace falls from the sky like manna from Heaven.</p>\n<p>I've lived many ways.</p>\n<p>No grace.</p>\n<p>Grace.</p>\n<p>Everything in between.</p>\n<p>Living on grace is a good way to be.</p>\n<p>Respectfully,</p>\n<h1>𖤂</h1>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-28T11:33:00-05:00",
-            "date_modified": "2026-02-28T11:33:00-05:00"
         }
     ]
 }
