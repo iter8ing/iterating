@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/nada/",
+            "url": "https://iterating.com/nada/",
+            "title": "Nada",
+            "summary": "I got nothing to say today. This may change. If it&hellip;",
+            "content_html": "<p>I got nothing to say today.</p>\n<p>This may change.</p>\n<p>If it does, it'll happen here.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-11T15:00:02-04:00",
+            "date_modified": "2026-03-11T15:00:02-04:00"
+        },
+        {
             "id": "https://iterating.com/i-feel-better-when-im-dancing/",
             "url": "https://iterating.com/i-feel-better-when-im-dancing/",
             "title": "I Feel Better When I&#x27;m Dancing",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-02T20:06:00-05:00",
             "date_modified": "2026-03-02T20:06:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/asymmetric-bettor/",
-            "url": "https://iterating.com/asymmetric-bettor/",
-            "title": "Asymmetric Bettor",
-            "summary": "I don't gamble. At least, not like most. I like little&hellip;",
-            "content_html": "<p>I don't gamble.</p>\n<p>At least, not like most.</p>\n<p>I like little ventures, large outputs.</p>\n<p>Now, you're thinking monetarily.</p>\n<p>And that's where most people want to take it.</p>\n<p>But if you think about it, little ins and big outs are what life is about.</p>\n<p>Like a prism.</p>\n<p>Light in, rainbow out.</p>\n<p>This musings column, I'd like to think, is an asymmetric bet of sorts.</p>\n<p>I just sit here and type.</p>\n<p>A few minutes a day.</p>\n<p>And let me tell you, it has been a huge win.</p>\n<p>The trick then is to find your own arenas where a little goes a long way.</p>\n<p>Writing.</p>\n<p>Coding.</p>\n<p>Hustling.</p>\n<p>Love.</p>\n<blockquote>\n<p>\"You know, sometimes all you need is twenty seconds of insane courage, just literally, twenty seconds of just embarrassing bravery. And I promise you, something great will come of it.\"</p>\n</blockquote>\n<p>To underdogs.</p>\n<p>And underdawgs.</p>\n<p>Betting on you.</p>\n<p>🐾</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-01T12:42:00-05:00",
-            "date_modified": "2026-03-01T12:42:00-05:00"
         }
     ]
 }
