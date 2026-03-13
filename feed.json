@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/phatburgers/",
+            "url": "https://iterating.com/phatburgers/",
+            "title": "Phatburgers",
+            "summary": "I got a confession to make. I want to help more&hellip;",
+            "content_html": "<p>I got a confession to make.</p>\n<p>I want to help more people.</p>\n<p>I really do.</p>\n<p>But here's the thing:</p>\n<p>I don't like people.</p>\n<p>Most of them, anyway.</p>\n<p>I'm sure I'm an assburger or whatever they call that blessing.</p>\n<p>You seem alright, though.</p>\n<p>I mean, you come here to read this sheet.</p>\n<p>You're either crazy or cool.</p>\n<p>Or both.</p>\n<p>Either way, that's a good start.</p>\n<p>I can work with that.</p>\n<p>I mean, sorry folks, park's closed.</p>\n<p>Sign outside should have told you.</p>\n<p>But maybe, someday, I flip it over.</p>\n<p>👐🍔</p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-13T11:44:39-04:00",
+            "date_modified": "2026-03-13T11:44:39-04:00"
+        },
+        {
             "id": "https://iterating.com/cyber-and-space/",
             "url": "https://iterating.com/cyber-and-space/",
             "title": "Cyber and Space",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-04T15:00:00-05:00",
             "date_modified": "2026-03-04T15:00:00-05:00"
-        },
-        {
-            "id": "https://iterating.com/late-again/",
-            "url": "https://iterating.com/late-again/",
-            "title": "Late Again",
-            "summary": "A great actor playing a terrible role once told another actor&hellip;",
-            "content_html": "<p>A great actor playing a terrible role once told another actor on screen to \"never go full absurd.\"</p>\n<p>He said another word, but that's how I took it.</p>\n<p>Never go full absurd.</p>\n<p>That's the mistake.</p>\n<p>Going maximal absurdity.</p>\n<p>Leave a little room for normalcy.</p>\n<p>Full absurd makes people squirmy.</p>\n<p>Now, I typically enjoy that, but only in degrees.</p>\n<p>And thus, believe it or not, I have to dial it down at times.</p>\n<p>For the public.</p>\n<p>For the column.</p>\n<p>In pro wrestling, they say \"just be yourself, dialed up to 11.\"</p>\n<p>And in the modern day circus, this advice works.</p>\n<p>But I'm just a dude in a spaceship, rocketing around the multiverse.</p>\n<p>If I dialed it up to 11, I'd be <span style=\"text-decoration: line-through;\">in</span> on Uranus.</p>\n<p>🛸</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-03T11:18:00-05:00",
-            "date_modified": "2026-03-03T11:18:00-05:00"
         }
     ]
 }
