@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-03-14T16:23:20-04:00</updated>
+    <updated>2026-03-14T16:25:43-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -25,7 +25,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1">"There is nothing free in this world, but the grace of God."</p>
+                <blockquote>
+<p class="p1">"There is nothing free in this world, but the grace of God."</p>
+</blockquote>
 <p class="p1">Today, I want to talk about cost.</p>
 <p class="p1">But not in the way you might be thinking.</p>
 <p class="p1">Because sometimes, the most expensive things in our lives are free.</p>
