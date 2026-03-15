@@ -3,12 +3,38 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-03-14T16:38:33-04:00</updated>
+    <updated>2026-03-15T16:40:16-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Chill</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/chill/"/>
+        <id>https://iterating.com/chill/</id>
+
+        <updated>2026-03-15T16:40:16-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    It's hard to write on weekends. Hard is relative of course.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It's hard to write on weekends.</p>
+<p>Hard is relative of course.</p>
+<p>I just think today should be a rest day.</p>
+<p>An off day.</p>
+<p>Relaxed.</p>
+<p>So, I won't write today.</p>
+<p>Not a single word.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How Much?</title>
         <author>
@@ -422,75 +448,6 @@
 <p class="p1">For our story.</p>
 <p class="p1">I promise.</p>
 <p class="p3">🍌</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gold Magic</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/gold-magic/"/>
-        <id>https://iterating.com/gold-magic/</id>
-
-        <updated>2026-03-05T13:41:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    If you were a song, what song would you be? I&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>If you were a song, what song would you be?</p>
-<p>I mean, what's your anthem?</p>
-<p>Your theme song?</p>
-<p>Your entrance song?</p>
-<p>Your exit song?</p>
-<blockquote>
-<p><em>"When it comes your time to die, </em></p>
-<p><em>be not like those whose hearts are filled </em><em>with the fear of death, </em></p>
-<p><em>so that when their time comes they weep </em><em>and pray </em></p>
-<p><em>for a little more time to live their lives </em></p>
-<p><em>over again in a different way.</em></p>
-<p><em>Sing your death song </em></p>
-<p><em>and die like a hero going home."</em></p>
-</blockquote>
-<p>I mean, we got <em>Sirius</em>, from Alan Parsons.</p>
-<p>Something by Tool.</p>
-<p>Something by Pac.</p>
-<p><em>Space Lord</em> by Monster Magnet.</p>
-<p>The clean version of the song's chorus goes "Space Lord, Mother, Mother."</p>
-<p>Which I thought quirky and unique.</p>
-<p>Only later did I realize that the original version had a crass word, and they used "Mother" twice instead of "Mother Bleeper."</p>
-<p>But you know what?</p>
-<p>I like Mother, Mother better.</p>
-<p>Space Lord Mother Mother.</p>
-<p>So I'd use the clean version.</p>
-<p>My wife says the song's dirty.</p>
-<p>Even clean.</p>
-<p>And I suppose I am, too.</p>
-<p>Dirty even clean.</p>
-<blockquote>
-<p>🎵 "Take a sip from my secret potion,</p>
-<p>I'll make you fall in love." 🎶</p>
-</blockquote>
-<p><em>Hey!!!</em></p>
-<p>We should have songs that define us.</p>
-<p>Songs that just make us happy.</p>
-<p>When we enter a room.</p>
-<p>And when we leave it.</p>
-<p>And everything in between.</p>
-<blockquote>
-<p>🎵 "I could write it better than you ever felt it." 🎶</p>
-</blockquote>
-<p>Hallelujah.</p>
-<blockquote>
-<p>🎵 "I'm coming out the other side stronger.</p>
-<p>One foot in front of the other.</p>
-<p>Hands still raising.</p>
-<p>Heart still praising." 🎶</p>
-</blockquote>
-<p>Hallelujah, mother mothers.</p>
             ]]>
         </content>
     </entry>
