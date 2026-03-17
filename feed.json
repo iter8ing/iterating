@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/around-and-around-we-go/",
+            "url": "https://iterating.com/around-and-around-we-go/",
+            "title": "Around And Around We Go",
+            "summary": "This daily musings column may be becoming a weekly one. It's&hellip;",
+            "content_html": "<p>This daily musings column may be becoming a weekly one.</p>\n<p>It's not that I don't love doing it, I do.</p>\n<p>It's just that I am searching for things to say these days.</p>\n<p>Or at least, not preparing to say it until I come here.</p>\n<p>I just sits and types.</p>\n<p>Let the thoughts flow through my fingers.</p>\n<p>That's not a way to write a musings column.</p>\n<p>I mean, I suppose it's one way, but it's not the way I want to write one (moving forward).</p>\n<p>Bit of a funk.</p>\n<p>Writer's block?</p>\n<p>Muser's block?</p>\n<p>Opportunity cost block?</p>\n<p>Living up to the name of this place.</p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-17T13:11:08-04:00",
+            "date_modified": "2026-03-17T13:11:08-04:00"
+        },
+        {
             "id": "https://iterating.com/asymmetric-symmetry/",
             "url": "https://iterating.com/asymmetric-symmetry/",
             "title": "Asymmetric Symmetry",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-08T16:22:00-04:00",
             "date_modified": "2026-03-14T16:22:47-04:00"
-        },
-        {
-            "id": "https://iterating.com/sandwich/",
-            "url": "https://iterating.com/sandwich/",
-            "title": "Sandwich",
-            "summary": "Alright. It's time to talk about punches. Now, there are a&hellip;",
-            "content_html": "<p class=\"p1\">Alright. It's time to talk about punches.</p>\n<p class=\"p1\">Now, there are a couple of ways to go about it.</p>\n<p class=\"p1\">But today I want to talk about knuckles.</p>\n<p class=\"p1\">Are you a two knuckle (index, middle) or a three knuckle (middle, ring, pinky) puncher?</p>\n<p class=\"p1\">I was always taught to hit with the big two, but always landed three knuckle.</p>\n<p class=\"p1\">Just felt more natural.</p>\n<p class=\"p1\">You want to make sure your knuckles are aligned with your wrist, so that your fist has the support of the entire forearm upon impact. A bent or misaligned fist is no fun.</p>\n<p class=\"p1\">And it's a snapping motion. </p>\n<p class=\"p1\">Relax, relax, whip, snap, retract.</p>\n<p class=\"p1\">Like a snake.</p>\n<p class=\"p1\">Do not clench hard when starting the punch. </p>\n<p class=\"p1\">Contract at impact (give or take).</p>\n<p class=\"p1\">Relax.</p>\n<p class=\"p1\">Step. Snap. Step back.</p>\n<p class=\"p1\">Step. Snap snap. Step back.</p>\n<p class=\"p1\">Step. Snap snap snap. Step back.</p>\n<p class=\"p1\">Good.</p>\n<p class=\"p1\">If your knuckles are scratched, it's because you're scraping down on the target.</p>\n<p class=\"p1\">Pop 'em.</p>\n<p class=\"p1\">In and out.</p>\n<p class=\"p1\">Jabs and crosses are straight lines.</p>\n<p class=\"p1\">Hooks and uppercuts are circles.</p>\n<p class=\"p1\">Everything starts and ends at your feet.</p>\n<p class=\"p1\">Center and turn at the waist.</p>\n<p class=\"p1\">The knuckles are just the follow-through of shoulders.</p>\n<p class=\"p1\">The inevitable.</p>\n<p class=\"p1\">Snap.</p>\n<p class=\"p1\">Now come back.</p>\n<p class=\"p1\">Relax.</p>\n<p class=\"p1\">Good.</p>\n<p class=\"p2\">👊🥪</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-07T16:23:00-05:00",
-            "date_modified": "2026-03-14T16:23:20-04:00"
         }
     ]
 }
