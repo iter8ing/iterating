@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/har-har-hardy-har-har/",
+            "url": "https://iterating.com/har-har-hardy-har-har/",
+            "title": "Har Har Hardy Har Har",
+            "summary": "If you want my advice, you've come to the wrong place.",
+            "content_html": "<p>If you want my advice, you've come to the wrong place.</p>\n<p>This is a musings column.</p>\n<p>In the old days of print newspapers, it'd be on the front page, bottom right, under the fold.</p>\n<p>There'd probably be a nice little headshot of me.</p>\n<p>Just delighted to be there.</p>\n<p>And then there are the musings.</p>\n<p>My goodness, the musings.</p>\n<p>Enough to make a silvered lady giggle like a tween.</p>\n<p>Laughter is a song.</p>\n<p>Isn't it?</p>\n<p>Melody.</p>\n<p>I mean, it can be a cackle, which isn't so melodic.</p>\n<p>But a true laugh is poetry.</p>\n<p>Dare I say, beautiful, coming from beauty.</p>\n<p>I always used to say, in meaner language, a nice smile on an ugly soul is an ugly smile.</p>\n<p>So I suppose laughter is a weapon, too.</p>\n<p>At versus with.</p>\n<p>The ultimate rapport builder or an empire faller.</p>\n<p>With or at.</p>\n<p>May you always be laughed with. </p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-21T13:18:22-04:00",
+            "date_modified": "2026-03-21T13:18:22-04:00"
+        },
+        {
             "id": "https://iterating.com/speedwagons/",
             "url": "https://iterating.com/speedwagons/",
             "title": "Speedwagons",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-12T16:18:00-04:00",
             "date_modified": "2026-03-14T16:38:33-04:00"
-        },
-        {
-            "id": "https://iterating.com/fist-on-chin/",
-            "url": "https://iterating.com/fist-on-chin/",
-            "title": "Fist on Chin",
-            "summary": "Welp. Today is/was a strange day. Sometimes, it be that way.",
-            "content_html": "<p class=\"p1\">Welp.</p>\n<p class=\"p1\">Today is/was a strange day.</p>\n<p class=\"p1\">Sometimes, it be that way.</p>\n<p class=\"p1\">It occurs to me, that as little time as I put into this thing, I still need to have some focus.</p>\n<p class=\"p1\">And my mind is elsewhere.</p>\n<p class=\"p1\">Accumulating and processing data.</p>\n<p class=\"p1\">I never like reacting.</p>\n<p class=\"p1\">I'm pro active.</p>\n<p class=\"p1\">But this one, it's a thinker.</p>\n<p class=\"p1\">A best course of (re)actioner.</p>\n<p class=\"p1\"><i>What's the correct response?</i><i></i></p>\n<p class=\"p1\">More important than a musings column.</p>\n<p class=\"p1\">At least for today.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-11T16:20:00-04:00",
-            "date_modified": "2026-03-14T16:20:51-04:00"
         }
     ]
 }
