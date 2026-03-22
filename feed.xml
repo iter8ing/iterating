@@ -3,12 +3,40 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-03-21T14:29:38-04:00</updated>
+    <updated>2026-03-22T13:43:39-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Ten Year Itches</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/ten-year-itches/"/>
+        <id>https://iterating.com/ten-year-itches/</id>
+
+        <updated>2026-03-22T13:43:39-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    About every ten years or so, in my life, there'd be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>About every ten years or so, in my life, there'd be a big move.</p>
+<p>New schools.</p>
+<p>An across the country road trips.</p>
+<p>Back and forths.</p>
+<p>It doesn't have to be a solid ten years, there's wiggle room both ways.</p>
+<p>But about the last one we did was about a decade ago.</p>
+<p>I ain't saying I'm moving.</p>
+<p>But looking back sometimes can tell you what's ahead.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jump Line</title>
         <author>
@@ -412,49 +440,6 @@
 <p class="p1">Sign outside should have told you.</p>
 <p class="p1">But maybe, someday, I flip it over.</p>
 <p class="p2">👐🍔</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cyber and Space</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/cyber-and-space/"/>
-        <id>https://iterating.com/cyber-and-space/</id>
-
-        <updated>2026-03-12T16:18:00-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    So I'm dancing with ideas. 🎶 And we held the world,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="p1">So I'm dancing with ideas.</p>
-<blockquote>
-<p class="p1"><span class="s1">🎶</span> And we held the world, we were turning it. <span class="s1">🎵</span></p>
-</blockquote>
-<p class="p1">Like I do.</p>
-<p class="p1">And it occurs to me that there are themes.</p>
-<p class="p1">Genres.</p>
-<p class="p1">In my life.</p>
-<p class="p1">In my interests.</p>
-<p class="p1">Iterating to Actualization.</p>
-<p class="p1">Cyber and Space.</p>
-<p class="p1">Quantum and Sacralization.</p>
-<p class="p1">You ever wonder why they first called the internet and everything around it cyberspace?</p>
-<p class="p1">It's this idea that there is so much in there (versus out).</p>
-<p class="p1">A vastness.</p>
-<p class="p1">With points of light in the mass of dark.</p>
-<p class="p1">They say we analogize our brain with the latest technology.</p>
-<p class="p1">So the brain is a computer, perhaps an ai one, and it is agentic to our soul.</p>
-<p class="p1">And our universe is a cyberspace of sorts.</p>
-<p class="p1">And if you really think about it, the only way to reach the real stars out there is to figure it all out inside these little boxes down here.</p>
-<p class="p1">Cyber and Space.</p>
-<p class="p2">💻🛸</p>
-<p class="p1">To boldly go...[FARTS].</p>
-<p class="p3">𖤂</p>
             ]]>
         </content>
     </entry>
