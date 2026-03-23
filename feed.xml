@@ -3,12 +3,33 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-03-22T21:16:00-04:00</updated>
+    <updated>2026-03-22T22:11:06-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>This Way</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/this-way/"/>
+        <id>https://iterating.com/this-way/</id>
+
+        <updated>2026-03-22T22:11:06-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Confidence does not come from evidence. Confidence comes from decision.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Confidence does not come from evidence.</p>
+<p>Confidence comes from decision.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ten Years, Itches</title>
         <author>
@@ -403,45 +424,6 @@
 <p class="p1">But I say, like lots of things, they don't know what the fudge they talking about.</p>
 <p class="p1">If you can afford it, always ask how much it costs.</p>
 <p class="p1">You can't afford not to.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Phatbergers</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/phatbergers/"/>
-        <id>https://iterating.com/phatbergers/</id>
-
-        <updated>2026-03-13T16:18:00-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I got a confession to make. I want to help more&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="p1">I got a confession to make.</p>
-<p class="p1">I want to help more people.</p>
-<p class="p1">I really do.</p>
-<p class="p1">But here's the thing:</p>
-<p class="p1">I don't like people.</p>
-<p class="p1">Most of them, anyway.</p>
-<p class="p1">I'm sure I'm an assburger or whatever they call that blessing.</p>
-<p class="p1">[Dramatic pause].</p>
-<p class="p1">You seem alright, though.</p>
-<p class="p1">I mean, you come here to read this sheet.</p>
-<p class="p1">You're either crazy or cool.</p>
-<p class="p1">Or both.</p>
-<p class="p1">Either way, that's a good start.</p>
-<p class="p1">I can work with that.</p>
-<p class="p1">Just not now.</p>
-<p class="p1">Give it time.</p>
-<p class="p1">Until then, sorry folks, park's closed.</p>
-<p class="p1">Sign outside should have told you.</p>
-<p class="p1">But maybe, someday, I flip it over.</p>
-<p class="p2">👐🍔</p>
             ]]>
         </content>
     </entry>

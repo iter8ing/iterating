@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/this-way/",
+            "url": "https://iterating.com/this-way/",
+            "title": "This Way",
+            "summary": "Confidence does not come from evidence. Confidence comes from decision.",
+            "content_html": "<p>Confidence does not come from evidence.</p>\n<p>Confidence comes from decision.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-22T22:11:06-04:00",
+            "date_modified": "2026-03-22T22:11:06-04:00"
+        },
+        {
             "id": "https://iterating.com/ten-year-itches/",
             "url": "https://iterating.com/ten-year-itches/",
             "title": "Ten Years, Itches",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-14T16:17:04-04:00",
             "date_modified": "2026-03-14T16:25:43-04:00"
-        },
-        {
-            "id": "https://iterating.com/phatbergers/",
-            "url": "https://iterating.com/phatbergers/",
-            "title": "Phatbergers",
-            "summary": "I got a confession to make. I want to help more&hellip;",
-            "content_html": "<p class=\"p1\">I got a confession to make.</p>\n<p class=\"p1\">I want to help more people.</p>\n<p class=\"p1\">I really do.</p>\n<p class=\"p1\">But here's the thing:</p>\n<p class=\"p1\">I don't like people.</p>\n<p class=\"p1\">Most of them, anyway.</p>\n<p class=\"p1\">I'm sure I'm an assburger or whatever they call that blessing.</p>\n<p class=\"p1\">[Dramatic pause].</p>\n<p class=\"p1\">You seem alright, though.</p>\n<p class=\"p1\">I mean, you come here to read this sheet.</p>\n<p class=\"p1\">You're either crazy or cool.</p>\n<p class=\"p1\">Or both.</p>\n<p class=\"p1\">Either way, that's a good start.</p>\n<p class=\"p1\">I can work with that.</p>\n<p class=\"p1\">Just not now.</p>\n<p class=\"p1\">Give it time.</p>\n<p class=\"p1\">Until then, sorry folks, park's closed.</p>\n<p class=\"p1\">Sign outside should have told you.</p>\n<p class=\"p1\">But maybe, someday, I flip it over.</p>\n<p class=\"p2\">👐🍔</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-13T16:18:00-04:00",
-            "date_modified": "2026-03-14T16:18:13-04:00"
         }
     ]
 }
