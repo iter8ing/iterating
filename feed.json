@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/get-to-the-point/",
+            "url": "https://iterating.com/get-to-the-point/",
+            "title": "Get To The Point",
+            "summary": "What's the point of it all? I mean, that's the right&hellip;",
+            "content_html": "<p>What's the point of it all?</p>\n<p>I mean, that's the right question, isn't it?</p>\n<p>So, what's your answer?</p>\n<p>Hmm?</p>\n<p>You see, I have a point.</p>\n<p>To make.</p>\n<p>And to live for.</p>\n<p>You work so hard during your youth to maybe get a piece of paper that lets you get another piece of paper and you put those pieces of paper into another piece of paper that shows everything you have accomplished (sorta) and you hand that digital piece of paper to a computer that searches for keywords that you may or may not know are needed to get through the selection process and then if so you get to meet with another human (agentic ai?) who may be a decent person (bot) but in this case holds your future in their hands.</p>\n<p>All that to get a job you really don't care about.</p>\n<p>Is that the point?</p>\n<p>I worked four days a week, eight hour days, during my senior year in college.</p>\n<p>I don't say that to brag, I say that to question what the heck I was thinking.</p>\n<p>What was the point?</p>\n<p>There's a school of thought that says you have to get tougher.</p>\n<p>And only tough times give you growth.</p>\n<p>But where's the line between tough times and other people's enrichment of your struggles?</p>\n<p>You pay your dues, but they sure go into someone else's pockets.</p>\n<p>Ever think of that?</p>\n<p>Every day, we sacrifice the very best of our kind because of decisions made by those we wouldn't spare a square for on the adjacent can.</p>\n<p>That sheet staggers me.</p>\n<p>I am a man of peace.</p>\n<p>A simple man.</p>\n<p>A lucky mug.</p>\n<p>I have a point to make.</p>\n<p>And I will spend my days trying to get to it.</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-23T14:06:28-04:00",
+            "date_modified": "2026-03-23T14:06:28-04:00"
+        },
+        {
             "id": "https://iterating.com/this-way/",
             "url": "https://iterating.com/this-way/",
             "title": "This Way",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-15T16:40:16-04:00",
             "date_modified": "2026-03-15T16:40:16-04:00"
-        },
-        {
-            "id": "https://iterating.com/how-much/",
-            "url": "https://iterating.com/how-much/",
-            "title": "How Much?",
-            "summary": "\"There is nothing free in this world, but the grace of&hellip;",
-            "content_html": "<blockquote>\n<p class=\"p1\">\"There is nothing free in this world, but the grace of God.\"</p>\n</blockquote>\n<p class=\"p1\">Today, I want to talk about cost.</p>\n<p class=\"p1\">But not in the way you might be thinking.</p>\n<p class=\"p1\">Because sometimes, the most expensive things in our lives are free.</p>\n<p class=\"p1\">That is, they cost us the most.</p>\n<p class=\"p1\">The free things.</p>\n<p class=\"p1\">Now, some free things are cheap.</p>\n<p class=\"p1\">Some are priceless.</p>\n<p class=\"p1\">And some are worse than any loan you could ever sign.</p>\n<p class=\"p1\">In the business world, they talk about <i>opportunity</i> cost.</p>\n<p class=\"p1\">It's a fancy way of saying \"Is this the best use of X? What do we lose out on by putting it here?\"</p>\n<p class=\"p1\">In this case, X is money.</p>\n<p class=\"p1\">But X can be anything.</p>\n<p class=\"p1\">For if you put money <i>here</i>, you can't put it <i>there</i>.</p>\n<p class=\"p1\">Thus, <i>there</i> is lost.</p>\n<p class=\"p1\">That's the opportunity cost. You can't put it there, because you put it here.</p>\n<p class=\"p1\">It's a fine model.</p>\n<p class=\"p1\">One you should apply to your entire life, not just finances.</p>\n<p class=\"p1\">At what cost?</p>\n<p class=\"p1\">Is there a better place to put this (time, attention, energy)?</p>\n<p class=\"p1\">The answer is almost always a resounding \"YES!\"</p>\n<p class=\"p1\">You know what to do here.</p>\n<p class=\"p1\">And double down on all the times you say \"No.\"</p>\n<p class=\"p1\">Do more of that.</p>\n<p class=\"p1\">They say if you have to ask how much it costs, you can't afford it.</p>\n<p class=\"p1\">But I say, like lots of things, they don't know what the fudge they talking about.</p>\n<p class=\"p1\">If you can afford it, always ask how much it costs.</p>\n<p class=\"p1\">You can't afford not to.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-14T16:17:04-04:00",
-            "date_modified": "2026-03-14T16:25:43-04:00"
         }
     ]
 }
