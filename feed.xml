@@ -3,12 +3,53 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-03-23T14:18:26-04:00</updated>
+    <updated>2026-03-24T13:28:54-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Tiny Elvis</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/tiny-elvis/"/>
+        <id>https://iterating.com/tiny-elvis/</id>
+
+        <updated>2026-03-24T13:28:54-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I've been thinking about the universe. And its scale. And how,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've been thinking about the universe.</p>
+<p>And its scale.</p>
+<p>And how, things we consider so out of the realm of reality could just be lounging on some galaxy, just beyond our telescopes.</p>
+<p>And things we consider impossible are just happening.</p>
+<p>Every single day.</p>
+<p>Like it's nothing.</p>
+<p><em>Energy is not created or destroyed.</em></p>
+<p><em>It is transformed.</em></p>
+<p><em>Or transferred.</em></p>
+<p>Everybody agrees this is true.</p>
+<p>What dat mean, tho?</p>
+<p>When you die, where's your soul go?</p>
+<p>Where's your spirit?</p>
+<p>Where's your consciousness?</p>
+<p>Is it transformed to another plane of existence?</p>
+<p>Or transferred to a corner of our own?</p>
+<p>I believe we all go somewhere.</p>
+<p>But the question is:</p>
+<p>Where?</p>
+<p>When your eyes close for the last time, does another's open for the first?</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Get To The Point</title>
         <author>
@@ -403,32 +444,6 @@
 <p>To monster outcomes.</p>
 <p>May your life be balanced with imbalance.</p>
 <p>An imperfect infinity loop.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Chill</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/chill/"/>
-        <id>https://iterating.com/chill/</id>
-
-        <updated>2026-03-15T16:40:16-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    It's hard to write on weekends. Hard is relative of course.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>It's hard to write on weekends.</p>
-<p>Hard is relative of course.</p>
-<p>I just think today should be a rest day.</p>
-<p>An off day.</p>
-<p>Relaxed.</p>
-<p>So, I won't write today.</p>
-<p>Not a single word.</p>
             ]]>
         </content>
     </entry>
