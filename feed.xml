@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-01T12:53:41-04:00</updated>
+    <updated>2026-04-01T12:57:16-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,12 +20,17 @@
         <updated>2026-04-01T12:44:59-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    We are going to the moon today. Did you know that?&hellip;
+                    🎵 "Well, can we still be friends? Well, I guess that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>We are going to the moon today.</p>
+                <blockquote>
+<p>🎵 "Well, can we still be friends?</p>
+<p>Well, I guess that depends.</p>
+<p>How's the weather, from so high?" 🎶</p>
+</blockquote>
+<p>We are going to the moon today.</p>
 <p>Did you know that?</p>
 <p>No, this isn't some ess word fool on the first day of April thing.</p>
 <p>We're going.</p>
@@ -42,8 +47,8 @@
 <p>And PPP loans.</p>
 <p>It's like shooting a money cannon into the ether.</p>
 <p>Ooh, pretty.</p>
-<p>I like pretty.</p>
 <p>🚀</p>
+<p>Look at it, in all its Splender.</p>
             ]]>
         </content>
     </entry>
