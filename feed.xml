@@ -3,12 +3,45 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-03-31T13:51:05-04:00</updated>
+    <updated>2026-04-01T12:44:59-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>April Sage</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/april-sage/"/>
+        <id>https://iterating.com/april-sage/</id>
+
+        <updated>2026-04-01T12:44:59-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    We are going to the moon today. Did you know that?&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are going to the moon today.</p>
+<p>Did you know that?</p>
+<p>No, this isn't some ess word fool on the first day of April thing.</p>
+<p>We're going.</p>
+<p>Tonight.</p>
+<p>I don't think we're stepping foot, though.</p>
+<p>Just doing a fly by.</p>
+<p>Saying hello.</p>
+<p>The thing about flying into space is it just takes so many darn resources.</p>
+<p>Resources better(?) spent down here.</p>
+<p>Like on child care. </p>
+<p>And PPP loans.</p>
+<p>It's like shooting a money cannon into the ether.</p>
+<p>Ooh, pretty.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Little Offended</title>
         <author>
@@ -435,27 +468,6 @@
 <p>To peacefully remove yourself from such an environment.</p>
 <p>And get to the friggin' point already.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>This Way</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/this-way/"/>
-        <id>https://iterating.com/this-way/</id>
-
-        <updated>2026-03-22T22:11:06-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Confidence does not come from evidence. Confidence comes from decision.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Confidence does not come from evidence.</p>
-<p>Confidence comes from decision.</p>
             ]]>
         </content>
     </entry>
