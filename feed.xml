@@ -3,12 +3,46 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-02T13:34:04-04:00</updated>
+    <updated>2026-04-03T14:32:22-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Good</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/good/"/>
+        <id>https://iterating.com/good/</id>
+
+        <updated>2026-04-03T14:32:22-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hi. I don't know what to write today. I just want&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi.</p>
+<p>I don't know what to write today.</p>
+<p>I just want to say thanks.</p>
+<p>Thank you.</p>
+<p>For being good.</p>
+<p>I don't think people are told that enough.</p>
+<p>Thank you for being a good person.</p>
+<p>Now, that presupposes some things.</p>
+<p>So don't make an arse outta me.</p>
+<p>So if there's some work you gotta do in this area, today's as good a day as any.</p>
+<p>I would start with those you love the most.</p>
+<p>Those who love you the most.</p>
+<p>I hope they are the same people.</p>
+<p>And I hope they think you're good.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Actual Universe</title>
         <author>
@@ -420,50 +454,6 @@
 <p>At night, he would fix himself a simple supper.</p>
 <p>And go to sleep, reading his favorite book.</p>
 <p>All to repeat the day the next.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tiny Elvis</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/tiny-elvis/"/>
-        <id>https://iterating.com/tiny-elvis/</id>
-
-        <updated>2026-03-24T13:28:54-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I've been thinking about the universe. And its scale. And how,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I've been thinking about the universe.</p>
-<p>And its scale.</p>
-<p>And how, things we consider so out of the realm of reality could just be lounging on some galaxy, just beyond our telescopes.</p>
-<p>And things we consider impossible are just happening.</p>
-<p>Every single day.</p>
-<p>Like it's nothing.</p>
-<p><em>Energy is not created or destroyed.</em></p>
-<p><em>It is transformed.</em></p>
-<p><em>Or transferred.</em></p>
-<p>Everybody agrees this is true.</p>
-<p>What dat mean, tho?</p>
-<p>When you die, where's your soul go?</p>
-<p>Where's your spirit?</p>
-<p>Where's your consciousness?</p>
-<p>Is it transformed to another plane of existence?</p>
-<p>Or transferred to a corner of our own?</p>
-<p>We all go somewhere or turn into something.</p>
-<p>But the question is:</p>
-<p>Where?</p>
-<p>And what?</p>
-<p>When your eyes close for the last time, does another's open for the first?</p>
-<p>Or does it all continue?</p>
-<p>Forever, forever, ever?</p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>

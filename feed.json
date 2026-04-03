@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/good/",
+            "url": "https://iterating.com/good/",
+            "title": "Good",
+            "summary": "Hi. I don't know what to write today. I just want&hellip;",
+            "content_html": "<p>Hi.</p>\n<p>I don't know what to write today.</p>\n<p>I just want to say thanks.</p>\n<p>Thank you.</p>\n<p>For being good.</p>\n<p>I don't think people are told that enough.</p>\n<p>Thank you for being a good person.</p>\n<p>Now, that presupposes some things.</p>\n<p>So don't make an arse outta me.</p>\n<p>So if there's some work you gotta do in this area, today's as good a day as any.</p>\n<p>I would start with those you love the most.</p>\n<p>Those who love you the most.</p>\n<p>I hope they are the same people.</p>\n<p>And I hope they think you're good.</p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-03T14:32:22-04:00",
+            "date_modified": "2026-04-03T14:32:22-04:00"
+        },
+        {
             "id": "https://iterating.com/actual-universe/",
             "url": "https://iterating.com/actual-universe/",
             "title": "Actual Universe",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-25T12:06:04-04:00",
             "date_modified": "2026-03-25T12:19:05-04:00"
-        },
-        {
-            "id": "https://iterating.com/tiny-elvis/",
-            "url": "https://iterating.com/tiny-elvis/",
-            "title": "Tiny Elvis",
-            "summary": "I've been thinking about the universe. And its scale. And how,&hellip;",
-            "content_html": "<p>I've been thinking about the universe.</p>\n<p>And its scale.</p>\n<p>And how, things we consider so out of the realm of reality could just be lounging on some galaxy, just beyond our telescopes.</p>\n<p>And things we consider impossible are just happening.</p>\n<p>Every single day.</p>\n<p>Like it's nothing.</p>\n<p><em>Energy is not created or destroyed.</em></p>\n<p><em>It is transformed.</em></p>\n<p><em>Or transferred.</em></p>\n<p>Everybody agrees this is true.</p>\n<p>What dat mean, tho?</p>\n<p>When you die, where's your soul go?</p>\n<p>Where's your spirit?</p>\n<p>Where's your consciousness?</p>\n<p>Is it transformed to another plane of existence?</p>\n<p>Or transferred to a corner of our own?</p>\n<p>We all go somewhere or turn into something.</p>\n<p>But the question is:</p>\n<p>Where?</p>\n<p>And what?</p>\n<p>When your eyes close for the last time, does another's open for the first?</p>\n<p>Or does it all continue?</p>\n<p>Forever, forever, ever?</p>\n<p> </p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-24T13:28:54-04:00",
-            "date_modified": "2026-03-24T13:52:59-04:00"
         }
     ]
 }
