@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/as-far-as-you-go/",
+            "url": "https://iterating.com/as-far-as-you-go/",
+            "title": "As Far As You Go",
+            "summary": "I have a note in front of my desk that reminds&hellip;",
+            "content_html": "<p>I have a note in front of my desk that reminds me to:</p>\n<p><em>Cherish every second.</em></p>\n<p>And it's a fine reminder.</p>\n<p>The pursuit of happiness is a wonderful pursuit, as far as they go.</p>\n<p>But I think most of us confuse it with the pursuit of pleasure.</p>\n<p>Which turns into hedonism.</p>\n<p>Highs.</p>\n<p>Short term.</p>\n<p>Addiction.</p>\n<p>Long term.</p>\n<p>Happiness, gone term.</p>\n<p>Now I'm not saying happiness is it, either.</p>\n<p>We are not happy with happy.</p>\n<p>Happy is soft.</p>\n<p>Out of shape.</p>\n<p>Doughy.</p>\n<p>Just happy to be here.</p>\n<p><em>Hey!!!</em></p>\n<p>To cherish is to protect and care for someone or something lovingly.</p>\n<p>What a great word, as far as words go.</p>\n<p>Your loved ones, yourself.</p>\n<p>Every.</p>\n<p>Second.</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-04T11:48:07-04:00",
+            "date_modified": "2026-04-04T11:48:07-04:00"
+        },
+        {
             "id": "https://iterating.com/bad-and-good/",
             "url": "https://iterating.com/bad-and-good/",
             "title": "Bad and Good",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-26T11:31:15-04:00",
             "date_modified": "2026-03-26T11:52:13-04:00"
-        },
-        {
-            "id": "https://iterating.com/monk/",
-            "url": "https://iterating.com/monk/",
-            "title": "Monk",
-            "summary": "The old man spent his mornings on the mountaintop swinging his&hellip;",
-            "content_html": "<p>The old man spent his mornings on the mountaintop swinging his fists at the air and talking to God.</p>\n<p>He did that because that's what warrior monks do, he thought.</p>\n<p>When he was done, he would sit and contemplate.</p>\n<p>When the sun set, he'd watch it and quietly weep at its majesty.</p>\n<p>At night, he would fix himself a simple supper.</p>\n<p>And go to sleep, reading his favorite book.</p>\n<p>All to repeat the day the next.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-25T12:06:04-04:00",
-            "date_modified": "2026-03-25T12:19:05-04:00"
         }
     ]
 }

@@ -3,12 +3,56 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-03T14:57:29-04:00</updated>
+    <updated>2026-04-04T11:48:07-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>As Far As You Go</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/as-far-as-you-go/"/>
+        <id>https://iterating.com/as-far-as-you-go/</id>
+
+        <updated>2026-04-04T11:48:07-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I have a note in front of my desk that reminds&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have a note in front of my desk that reminds me to:</p>
+<p><em>Cherish every second.</em></p>
+<p>And it's a fine reminder.</p>
+<p>The pursuit of happiness is a wonderful pursuit, as far as they go.</p>
+<p>But I think most of us confuse it with the pursuit of pleasure.</p>
+<p>Which turns into hedonism.</p>
+<p>Highs.</p>
+<p>Short term.</p>
+<p>Addiction.</p>
+<p>Long term.</p>
+<p>Happiness, gone term.</p>
+<p>Now I'm not saying happiness is it, either.</p>
+<p>We are not happy with happy.</p>
+<p>Happy is soft.</p>
+<p>Out of shape.</p>
+<p>Doughy.</p>
+<p>Just happy to be here.</p>
+<p><em>Hey!!!</em></p>
+<p>To cherish is to protect and care for someone or something lovingly.</p>
+<p>What a great word, as far as words go.</p>
+<p>Your loved ones, yourself.</p>
+<p>Every.</p>
+<p>Second.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bad and Good</title>
         <author>
@@ -440,32 +484,6 @@
 <p>⚖</p>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Monk</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/monk/"/>
-        <id>https://iterating.com/monk/</id>
-
-        <updated>2026-03-25T12:06:04-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    The old man spent his mornings on the mountaintop swinging his&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The old man spent his mornings on the mountaintop swinging his fists at the air and talking to God.</p>
-<p>He did that because that's what warrior monks do, he thought.</p>
-<p>When he was done, he would sit and contemplate.</p>
-<p>When the sun set, he'd watch it and quietly weep at its majesty.</p>
-<p>At night, he would fix himself a simple supper.</p>
-<p>And go to sleep, reading his favorite book.</p>
-<p>All to repeat the day the next.</p>
             ]]>
         </content>
     </entry>
