@@ -3,12 +3,34 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-05T12:00:44-04:00</updated>
+    <updated>2026-04-07T13:50:36-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Dancing</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/dancing/"/>
+        <id>https://iterating.com/dancing/</id>
+
+        <updated>2026-04-07T13:50:36-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Welp, streak's broken. Time for a new one. Around and around&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welp, streak's broken.</p>
+<p>Time for a new one.</p>
+<p>Around and around we go.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Riser</title>
         <author>
@@ -388,82 +410,6 @@
 <p>PS: Add two zeroes.</p>
 <p>Maybe four.</p>
 <p>DO IT.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Shorelines and Timelines</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/shorelines-and-timelines/"/>
-        <id>https://iterating.com/shorelines-and-timelines/</id>
-
-        <updated>2026-03-27T13:54:20-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I've been sitting next to this thing. Blinking at me. Wanting&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I've been sitting next to this thing.</p>
-<p>Blinking at me.</p>
-<p>Wanting me to say something.</p>
-<p>Anything.</p>
-<p>At least with my fingers.</p>
-<p>And I've just been staring back.</p>
-<p>Watching it watch me.</p>
-<p>A standoff of sorts.</p>
-<p>With the most minimal of stakes.</p>
-<p>I usually write it all out, you know, then come up with a title.</p>
-<p>Sometimes, it's the other way.</p>
-<p>Today is a write it all out kinda day.</p>
-<p>About ten years ago, I found a cool domain name that wasn't registered. And I was convinced this was it for me.</p>
-<p>So I bought it.</p>
-<p>Registered it for ten years.</p>
-<p>Thinking it was <em>it</em>.</p>
-<p>I was going to change the world with it.</p>
-<p>Now it's up for renewal.</p>
-<p>And I think, wow, where did those ten years go?</p>
-<p>And how much has changed since that silly boy bought it?</p>
-<p>I bought the .net and .org versions, too.</p>
-<p>That's how (un)popular the domain was.</p>
-<p>But I thought I was on to something. </p>
-<p>Might still be.</p>
-<p>The lesson here is at the time, a decade ago, I thought it's future was brighter than any star in the galaxy.</p>
-<p>But I kind of forgot about it.</p>
-<p>As people do.</p>
-<p>Or rather, I found shinier things.</p>
-<p>By year one or two.</p>
-<p>Maybe four.</p>
-<p>My perspective had changed, you see.</p>
-<p>One rock leads to two rocks and pretty soon you're collecting rocks.</p>
-<p>You're a friggin' rock collector!</p>
-<p>Now, at first, you're just picking up anything that looks nice.</p>
-<p>But soon, you learn discernment.</p>
-<p>What makes a rock good or not so good.</p>
-<p>What makes it valuable.</p>
-<p>You leave behind rocks you would have picked up in a heartbeat years ago.</p>
-<p>Some you throw back into the water.</p>
-<p>You can call this experience.</p>
-<p>I call it wisdom (or wis<em>smart</em> if I'm being cheeky, which is usually the case).</p>
-<p>A decade ago, I was so sure (<em>full?</em>) of it.</p>
-<p>And today, I know (<em>am?</em>) better.</p>
-<p>To another ten, then.</p>
-<p>And shinier things.</p>
-<p>It seems so far away, but I know how fast it passes.</p>
-<p>So let's make a deal.</p>
-<p>You and I.</p>
-<p>Ten years, we circle back.</p>
-<p>To right here.</p>
-<p>Where the ocean meets the land.</p>
-<p>March 27, 2036.</p>
-<p>I want to see what rocks you have collected from today to ten.</p>
-<p>So bring 'em.</p>
-<p>And may their sparkle guide your way.</p>
-<p>🤝</p>
-<p>See you soon.</p>
             ]]>
         </content>
     </entry>
