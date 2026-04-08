@@ -3,12 +3,34 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-07T15:41:21-04:00</updated>
+    <updated>2026-04-08T12:36:26-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>𖤂</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com//"/>
+        <id>https://iterating.com//</id>
+
+        <updated>2026-04-08T12:36:26-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a special post. A special musing. One I will&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a special post.</p>
+<p>A special musing.</p>
+<p>One I will write later.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Swing From Uranus</title>
         <author>
@@ -376,43 +398,6 @@
 <p>Will it work?</p>
 <p>💯</p>
 <p>🙇</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Late Bird</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/late-bird/"/>
-        <id>https://iterating.com/late-bird/</id>
-
-        <updated>2026-03-29T13:15:00-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Are you a sunrise person or a sunset? Most people are&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Are you a sunrise person or a sunset?</p>
-<p>Most people are one or the other.</p>
-<p>I suppose you could be both, you overachieving son of a...</p>
-<p>But choose.</p>
-<p>Sun up?</p>
-<p>Or sun down?</p>
-<p>Dawn?</p>
-<p>Or dusk?</p>
-<p>I've always been a night owl.</p>
-<p>Not an early bird.</p>
-<p>And golden hours are sacred in this house.</p>
-<p>When day and night are about to meet.</p>
-<p>Sorta.</p>
-<p>Nodding at one another as they pass.</p>
-<p>One clocking out, the other clocking in.</p>
-<p>Golden hours lead to sunsets which leads to the night's stars.</p>
-<p>So it's a win-win-win for me.</p>
-<p>I like those.</p>
             ]]>
         </content>
     </entry>

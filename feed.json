@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com//",
+            "url": "https://iterating.com//",
+            "title": "𖤂",
+            "summary": "This is a special post. A special musing. One I will&hellip;",
+            "content_html": "<p>This is a special post.</p>\n<p>A special musing.</p>\n<p>One I will write later.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-08T12:36:26-04:00",
+            "date_modified": "2026-04-08T12:36:26-04:00"
+        },
+        {
             "id": "https://iterating.com/swing-from-uranus/",
             "url": "https://iterating.com/swing-from-uranus/",
             "title": "Swing From Uranus",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-03-30T13:12:14-04:00",
             "date_modified": "2026-03-30T13:28:00-04:00"
-        },
-        {
-            "id": "https://iterating.com/late-bird/",
-            "url": "https://iterating.com/late-bird/",
-            "title": "Late Bird",
-            "summary": "Are you a sunrise person or a sunset? Most people are&hellip;",
-            "content_html": "<p>Are you a sunrise person or a sunset?</p>\n<p>Most people are one or the other.</p>\n<p>I suppose you could be both, you overachieving son of a...</p>\n<p>But choose.</p>\n<p>Sun up?</p>\n<p>Or sun down?</p>\n<p>Dawn?</p>\n<p>Or dusk?</p>\n<p>I've always been a night owl.</p>\n<p>Not an early bird.</p>\n<p>And golden hours are sacred in this house.</p>\n<p>When day and night are about to meet.</p>\n<p>Sorta.</p>\n<p>Nodding at one another as they pass.</p>\n<p>One clocking out, the other clocking in.</p>\n<p>Golden hours lead to sunsets which leads to the night's stars.</p>\n<p>So it's a win-win-win for me.</p>\n<p>I like those.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-29T13:15:00-04:00",
-            "date_modified": "2026-03-29T13:48:42-04:00"
         }
     ]
 }
