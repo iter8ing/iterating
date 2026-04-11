@@ -3,12 +3,40 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-10T18:30:01-04:00</updated>
+    <updated>2026-04-11T13:33:58-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>A Mused</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/a-mused/"/>
+        <id>https://iterating.com/a-mused/</id>
+
+        <updated>2026-04-11T13:33:58-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I want to tell you how nice it is to be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I want to tell you how nice it is to be able to type.</p>
+<p>How much I love to write.</p>
+<p>And I do.</p>
+<p>I do love to write.</p>
+<p>But there are more important things in the world.</p>
+<p>And lately, I've been feeling called to those and them.</p>
+<p>The more important things.</p>
+<p>A musings column is such a selfish endeavour.</p>
+<p>And perhaps I've spent enough time over the years doing those.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Half Penny</title>
         <author>
@@ -359,31 +387,6 @@
 <p>Ooh, pretty.</p>
 <p>🚀</p>
 <p>Look at it, in all its Splender.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A Little Offended</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/a-little-offended/"/>
-        <id>https://iterating.com/a-little-offended/</id>
-
-        <updated>2026-03-31T13:46:24-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    My wife jokes that she's not a spring chicken anymore. So&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>My wife jokes that she's not a spring chicken anymore.</p>
-<p>So I call her my summer chicken.</p>
-<p>The first time I called her that, she got 11% mad and 89% giggly.</p>
-<p>AKA, the sweet spot.</p>
-<p>☀️🐤</p>
-<p> </p>
             ]]>
         </content>
     </entry>

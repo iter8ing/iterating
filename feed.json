@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/a-mused/",
+            "url": "https://iterating.com/a-mused/",
+            "title": "A Mused",
+            "summary": "I want to tell you how nice it is to be&hellip;",
+            "content_html": "<p>I want to tell you how nice it is to be able to type.</p>\n<p>How much I love to write.</p>\n<p>And I do.</p>\n<p>I do love to write.</p>\n<p>But there are more important things in the world.</p>\n<p>And lately, I've been feeling called to those and them.</p>\n<p>The more important things.</p>\n<p>A musings column is such a selfish endeavour.</p>\n<p>And perhaps I've spent enough time over the years doing those.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-11T13:33:58-04:00",
+            "date_modified": "2026-04-11T13:33:58-04:00"
+        },
+        {
             "id": "https://iterating.com/half-penny/",
             "url": "https://iterating.com/half-penny/",
             "title": "Half Penny",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-04-01T12:44:59-04:00",
             "date_modified": "2026-04-01T12:57:16-04:00"
-        },
-        {
-            "id": "https://iterating.com/a-little-offended/",
-            "url": "https://iterating.com/a-little-offended/",
-            "title": "A Little Offended",
-            "summary": "My wife jokes that she's not a spring chicken anymore. So&hellip;",
-            "content_html": "<p>My wife jokes that she's not a spring chicken anymore.</p>\n<p>So I call her my summer chicken.</p>\n<p>The first time I called her that, she got 11% mad and 89% giggly.</p>\n<p>AKA, the sweet spot.</p>\n<p>☀️🐤</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-31T13:46:24-04:00",
-            "date_modified": "2026-03-31T13:51:05-04:00"
         }
     ]
 }
