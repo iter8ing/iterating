@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/more-than-one-bruce/",
+            "url": "https://iterating.com/more-than-one-bruce/",
+            "title": "More Than One Bruce",
+            "summary": "Boy, I think I'm running out of things to say. When&hellip;",
+            "content_html": "<p>Boy, I think I'm running out of things to say.</p>\n<p>When I was a kid, I'd stay up at night and listen to the radio.</p>\n<p>Now, a lot of the times it was to listen to music.</p>\n<p>But then I found a dude who would spend all night giving advice to people.</p>\n<p>On all sorts of things from money, business, to general life advice.</p>\n<p>His name was Bruce Williams.</p>\n<p>He had a deep, resonant, voice and it had a little New York City vibe, so I was hooked.</p>\n<p>Bruce was honest, helpful, and rarely sugar coated anything.</p>\n<p>And during a time I was searching for answers (this happens from time to time, I see), I found a mentor on the air.</p>\n<p>All of that to say Bruce is no longer with us.</p>\n<p>His last show was in 2013 (by then a podcast) at the young age of 81.</p>\n<p>Passed away a few years after.</p>\n<p>Some beautiful people have archived his stuff online.</p>\n<p>And I just recently found him again on YouTube.</p>\n<p>So I've been sitting here in my time machine.</p>\n<p>Being a kid again.</p>\n<p>Listening and learning.</p>\n<p>Raising a glass of Coke Zero (on ice) to BW.</p>\n<blockquote>\n<p>\"Hello, Des Moines, Iowa!\"</p>\n</blockquote>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-14T13:07:06-04:00",
+            "date_modified": "2026-04-14T13:07:06-04:00"
+        },
+        {
             "id": "https://iterating.com/energy-and-time/",
             "url": "https://iterating.com/energy-and-time/",
             "title": "Energy and Time",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2026-04-13T13:01:51-04:00",
-            "date_modified": "2026-04-13T13:01:51-04:00"
+            "date_modified": "2026-04-13T13:03:56-04:00"
         },
         {
             "id": "https://iterating.com/a-mused/",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-04-03T14:32:22-04:00",
             "date_modified": "2026-04-03T14:54:30-04:00"
-        },
-        {
-            "id": "https://iterating.com/actual-universe/",
-            "url": "https://iterating.com/actual-universe/",
-            "title": "Actual Universe",
-            "summary": "The observable universe is something like 100 billion (+/-50) light years&hellip;",
-            "content_html": "<p>The observable universe is something like 100 billion (+/-50) light years in width.</p>\n<p>You believe that?</p>\n<p>Lots of variance here.</p>\n<p>Depending on who you listen to.</p>\n<p>But the thing is, if you could travel the speed of light (impossible?) it would still take 100 billion years to go from start to finish.</p>\n<p>And guess what?</p>\n<p>There's more universe, maybe far more, than we can see.</p>\n<p>Why?</p>\n<p>Because that part of the universe's light hasn't reached us yet.</p>\n<p>We're too far away.</p>\n<p>Now I'm a man of faith.</p>\n<p>Not so much a man of science.</p>\n<p>But the more I learn about science, the more faith inducing stuff I hear.</p>\n<p>An infinite, actual, universe.</p>\n<p>Reality is only real if actually observed.</p>\n<p>Time actually slows as you speed up.</p>\n<p>That's a lot of actuals.</p>\n<p>This is as strange a tale as any a book of faith has ever told.</p>\n<p>So why the divide?</p>\n<p>Why the separation?</p>\n<p>Are we talking about the same thing here?</p>\n<p>Don't get me started on quantum entanglement...</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-02T13:34:04-04:00",
-            "date_modified": "2026-04-03T14:57:29-04:00"
         }
     ]
 }
