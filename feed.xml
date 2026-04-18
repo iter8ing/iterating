@@ -3,12 +3,49 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-17T13:29:22-04:00</updated>
+    <updated>2026-04-18T13:59:54-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Can&#x27;t Make You Drink</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/cant-make-you-drink/"/>
+        <id>https://iterating.com/cant-make-you-drink/</id>
+
+        <updated>2026-04-18T13:59:54-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a happy place. My happy place. I got a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a happy place.</p>
+<p>My happy place.</p>
+<p>I got a lot of them.</p>
+<p>Maybe sometimes I rant here.</p>
+<p>When I should be happier.</p>
+<p>I should be happier here.</p>
+<p>A musings column, this is, not a tabloid.</p>
+<p>I should be more <em>amused</em> here.</p>
+<p>And so I shall.</p>
+<p>Did you know there was a highway that stretched from Alaska all the way down to Argentina?</p>
+<p>There's a 60 mile stretch of impassible rain forest in the middle but that gets in the way of a cool idea.</p>
+<p>You can drive the whole time (almost).</p>
+<p>Pretty amazing.</p>
+<p>Now would you want to?</p>
+<p>I mean, that's for you to decide.</p>
+<p>Horse, this is water.</p>
+<p><em>Neigh!</em></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>No Sell</title>
         <author>
@@ -404,28 +441,6 @@
 <p>Me?</p>
 <p>I'm a Barry Bonds guy.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Twirl, My Love, Twirl</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/twirl-my-love-twirl/"/>
-        <id>https://iterating.com/twirl-my-love-twirl/</id>
-
-        <updated>2026-04-07T13:50:36-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Welp, streak's broken. Time for a new one. Around and around&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Welp, streak's broken.</p>
-<p>Time for a new one.</p>
-<p>Around and around we go.</p>
             ]]>
         </content>
     </entry>
