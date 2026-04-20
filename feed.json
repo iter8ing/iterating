@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/thank-you/",
+            "url": "https://iterating.com/thank-you/",
+            "title": "Thank You",
+            "summary": "Can I just thank God for music? Just for the whole&hellip;",
+            "content_html": "<p>Can I just thank God for music?</p>\n<p>Just for the whole thing.</p>\n<p>For piano solos.</p>\n<p>And sax solos.</p>\n<p>And ballads.</p>\n<p>And rock anthems.</p>\n<p>For songs to enter the cage in.</p>\n<p>And songs to leave the ring to.</p>\n<p>For mixtapes.</p>\n<p>And bootlegs.</p>\n<p>For live concerts.</p>\n<p>And the stories told before, during, and after.</p>\n<p>For the way they open your soul and touch it.</p>\n<p>For harm and heal.</p>\n<p>If you need more proof of God, I can't sing it any better.</p>\n<p>Hallelujah.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-20T19:43:46-04:00",
+            "date_modified": "2026-04-20T19:45:38-04:00"
+        },
+        {
             "id": "https://iterating.com/one-balls/",
             "url": "https://iterating.com/one-balls/",
             "title": "One Balls",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-04-11T13:33:58-04:00",
             "date_modified": "2026-04-11T13:35:20-04:00"
-        },
-        {
-            "id": "https://iterating.com/half-penny/",
-            "url": "https://iterating.com/half-penny/",
-            "title": "Half Penny",
-            "summary": "What would your childhood version of you think of you now?&hellip;",
-            "content_html": "<p>What would your childhood version of you think of you now?</p>\n<p>Like 11 year old you.</p>\n<p>What would they think?</p>\n<p>At 11, I would think I'd now be a retired hall of famer who spent his entire career at 3B with the New York Mets.</p>\n<p>Won a few MVPs, a few triple crowns, and, most importantly, a few championship rings.</p>\n<p>Of course, I didn't peak in my smashing bombs days until my late 30s.</p>\n<p>A bad time to peak.</p>\n<p>And sadly, my fields were slow-pitch church leagues by then.</p>\n<p>But I'd like to think 11 me would be staggered, just the same, by what's happened.</p>\n<p>I mean, he was kinda right.</p>\n<p>I'm sorta retired.</p>\n<p>Sort of a hall of famer (if only in my own mind).</p>\n<p>Won some MVF awards.</p>\n<p>Always wear a crown or three.</p>\n<p>And I am blessed to wear one ring.</p>\n<p>\"That's not what I meant,\" he'd say.</p>\n<p>And he'd be right, of course.</p>\n<p>It's just so much better, kid.</p>\n<p>To dreams asked for.</p>\n<p>And dreams given.</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-10T18:12:05-04:00",
-            "date_modified": "2026-04-10T18:30:01-04:00"
         }
     ]
 }
