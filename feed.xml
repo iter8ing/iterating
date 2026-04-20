@@ -3,12 +3,47 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-19T13:20:52-04:00</updated>
+    <updated>2026-04-20T13:41:30-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Uni Balls</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/uni-balls/"/>
+        <id>https://iterating.com/uni-balls/</id>
+
+        <updated>2026-04-20T13:41:30-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Uniball 207. What? That's the pen I'm using now. Okay... Because&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Uniball 207.</p>
+<p><em>What?</em></p>
+<p>That's the pen I'm using now.</p>
+<p><em>Okay...</em></p>
+<p>Because it uses nano fiber ink.</p>
+<p>Pigment ink.</p>
+<p><em>...</em></p>
+<p>Which means it's impossible to "wash."</p>
+<p>It bonds itself to the paper.</p>
+<p>I'm sure other pens can do this, but I saw the dude who inspired <em>Catch Me If You Can</em> promote it at a bank speech.</p>
+<p>It seems like an (inactive) attorney should want something secure in his writing arsenal.</p>
+<p>And so I do.</p>
+<p>It's a nice pen, if you're into that sort of thing.</p>
+<p>And I am.</p>
+<p>Hello?</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Golden Locks</title>
         <author>
@@ -410,28 +445,6 @@
 <p>To dreams asked for.</p>
 <p>And dreams given.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>𖤂</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/xn-4l9e/"/>
-        <id>https://iterating.com/xn-4l9e/</id>
-
-        <updated>2026-04-08T12:36:26-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    This is a special post. A special musing. One I will&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is a special post.</p>
-<p>A special musing.</p>
-<p>One I will write later.</p>
             ]]>
         </content>
     </entry>
