@@ -3,12 +3,55 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-20T19:51:58-04:00</updated>
+    <updated>2026-04-21T14:24:03-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Painting Over the Ugly Parts</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/painting-over-the-ugly-parts/"/>
+        <id>https://iterating.com/painting-over-the-ugly-parts/</id>
+
+        <updated>2026-04-21T14:24:03-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    🎵 "I watched the proverbial sunrise Coming up over the Pacific&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>🎵 "I watched the proverbial sunrise</p>
+<p>Coming up over the Pacific and</p>
+<p>You might think I'm losing my mind</p>
+<p>But I will shy away from the specifics." 🎶</p>
+</blockquote>
+<p>There's an old song most people hated.</p>
+<p>It was a guy speaking over a nice beat.</p>
+<p>A commencement speech.</p>
+<p>Just talking.</p>
+<p>Giving advice.</p>
+<p>And in it </p>
+<p>And there's a line in it about live in New York City once, but leave it before you it makes you hard.</p>
+<p>Live in Northern California once but leave before it makes you soft.</p>
+<p>And it follows another bit of advice I remember.</p>
+<p>New Yorkers are not nice, but they are kind.</p>
+<p>Californians are nice, but they are not kind.</p>
+<p>These are harsh generalizations, but that's what old(ish) people do.</p>
+<p>Makes things easier to process.</p>
+<p>You might call it prejudice, they call it experience.</p>
+<p>Man, the right song can make a happy man sad.</p>
+<p>And a sad one happy.</p>
+<p>Ain't that something?</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Thank You</title>
         <author>
@@ -418,34 +461,6 @@
 <p>Power = Energy over Time.</p>
 <p>BOOM!</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A Mused</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/a-mused/"/>
-        <id>https://iterating.com/a-mused/</id>
-
-        <updated>2026-04-11T13:33:58-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I want to tell you how nice it is to be&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I want to tell you how nice it is to be able to type.</p>
-<p>How much I love to write.</p>
-<p>And I do.</p>
-<p>I do love to write.</p>
-<p>But there are more important things in the world.</p>
-<p>And lately, I've been feeling called to those and them.</p>
-<p>The more important things.</p>
-<p>A musings column is such a selfish endeavor.</p>
-<p>And perhaps I've spent enough time over the years doing those.</p>
             ]]>
         </content>
     </entry>
