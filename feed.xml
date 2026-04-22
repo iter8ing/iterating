@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-04-22T14:00:41-04:00</updated>
+    <updated>2026-04-22T14:02:02-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,12 +20,17 @@
         <updated>2026-04-22T14:00:41-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    I'm a surfer. I mean, not like the kind that catches&hellip;
+                    "But, that's a sweet song. A sweet song. I hope!" I'm&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I'm a surfer.</p>
+                <blockquote>
+<p><em>"But, that's a sweet song. </em></p>
+<p>A sweet song.</p>
+<p>I hope!"</p>
+</blockquote>
+<p>I'm a surfer.</p>
 <p>I mean, not like the kind that catches waves.</p>
 <p>Heck no.</p>
 <p>I surf the web.</p>
