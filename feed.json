@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/anyone-feel-a-draft/",
+            "url": "https://iterating.com/anyone-feel-a-draft/",
+            "title": "Anyone Feel A Draft?",
+            "summary": "I started writing about two things and erased them both. One&hellip;",
+            "content_html": "<p>I started writing about two things and erased them both.</p>\n<p>One was about being vigilant outside as we approach warmer seasons.</p>\n<p>The other was about Day 3 of the NFL Draft.</p>\n<p>I erased them both.</p>\n<p>I don't know why.</p>\n<p>I will say, be careful, out there.</p>\n<p>And I love Day 3 of the NFL Draft.</p>\n<p>I feel like we should have corporate drafts for the Fortune 500.</p>\n<p>Scouts in college classrooms.</p>\n<p>An academic combine in auditoriums.</p>\n<p>Boardrooms watching highlights of volunteer tape.</p>\n<p>Talking heads arguing over who Nvidia will take in the first round.</p>\n<p>Actually, that sounds terrible.</p>\n<p>Or does it?</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-25T14:07:36-04:00",
+            "date_modified": "2026-04-25T14:07:36-04:00"
+        },
+        {
             "id": "https://iterating.com/howling/",
             "url": "https://iterating.com/howling/",
             "title": "Howling",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-04-17T13:18:38-04:00",
             "date_modified": "2026-04-17T13:29:22-04:00"
-        },
-        {
-            "id": "https://iterating.com/macho-cheese/",
-            "url": "https://iterating.com/macho-cheese/",
-            "title": "Macho Cheese",
-            "summary": "Ooooohh yeah, it's the Macho Man. Is it too soon to&hellip;",
-            "content_html": "<p>Ooooohh yeah, it's the Macho Man.</p>\n<p>Is it too soon to claim Mach's moniker?</p>\n<p>Dropping elbows and beef jerkyesque sticks on fools.</p>\n<p>All while wearing sequin.</p>\n<p>And speaking impossibly raspy.</p>\n<p>And being kind of mean.</p>\n<p>Especially to the people he loved.</p>\n<p>It shouldn't have worked.</p>\n<p>But it did.</p>\n<p>Magnificently.</p>\n<p>I'm a Ricky \"The Dragon\" Steamboat guy.</p>\n<p>But Mach can do no wrong in this house.</p>\n<p>Read the boots.</p>\n<p>First name: Macho.</p>\n<p>Last name: Man.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-16T14:26:57-04:00",
-            "date_modified": "2026-04-16T14:31:58-04:00"
         }
     ]
 }
