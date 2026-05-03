@@ -3,12 +3,36 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-05-02T13:53:13-04:00</updated>
+    <updated>2026-05-03T17:58:58-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Why For</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/why-for/"/>
+        <id>https://iterating.com/why-for/</id>
+
+        <updated>2026-05-03T17:58:58-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I'm a sucker for a ballad-ized version of a hard song.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'm a sucker for a ballad-ized version of a hard song.</p>
+<p>I sometimes do it myself.</p>
+<p>I'll take a song like "Let the Bodies Hit the Floor" and turn it into a country song.</p>
+<p>Like Tracy Lawrence sang it.</p>
+<p><em>Floooooooooooor.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>It&#x27;s Never Personal, Always</title>
         <author>
@@ -514,61 +538,6 @@
 <p>Into you.</p>
 <p>👋</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Painting Over the Ugly Parts</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/painting-over-the-ugly-parts/"/>
-        <id>https://iterating.com/painting-over-the-ugly-parts/</id>
-
-        <updated>2026-04-21T14:24:03-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    🎵 "I watched the proverbial sunrise Coming up over the Pacific&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>🎵 "I watched the proverbial sunrise</p>
-<p>Coming up over the Pacific and</p>
-<p>You might think I'm losing my mind</p>
-<p>But I will shy away from the specifics." 🎶</p>
-</blockquote>
-<p>There's an old song most people hated.</p>
-<p>It was a guy speaking over a nice beat.</p>
-<p>A commencement speech.</p>
-<p>Just talking.</p>
-<p>Giving advice.</p>
-<p>And there's a line in it about living in New York City once, but leaving it before you it makes you hard.</p>
-<p>And to live in Northern California once but leave before it makes you soft.</p>
-<p>And it follows another bit of advice I remember:</p>
-<p>New Yorkers are not nice, but they are kind.</p>
-<p>Californians are nice, but they are not kind.</p>
-<p>These are harsh generalizations, but that's what old(ish) people do.</p>
-<p>Makes things easier to process.</p>
-<p>Digest.</p>
-<p>You might call it prejudice, they call it experience.</p>
-<p>I call it wisdom.</p>
-<p>Or, wissmart.</p>
-<p>Tee hee.</p>
-<p><em>That's never going to catch on.</em></p>
-<p>Hrmph.</p>
-<p>Man, the right song can make a sad man happy.</p>
-<p>And a happy one sad.</p>
-<p>Ain't that something?</p>
-<p>This time machine, man.</p>
-<p>It runs on sound waves.</p>
-<p>⏳🎼🎢</p>
-<p>I made a mix.</p>
-<p>Check this out.</p>
-<p>📀</p>
-<p>😎</p>
-<p>🚘</p>
             ]]>
         </content>
     </entry>
