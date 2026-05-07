@@ -3,12 +3,53 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-05-06T09:55:51-04:00</updated>
+    <updated>2026-05-07T13:49:40-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Take A Look At This</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/take-a-look-at-this/"/>
+        <id>https://iterating.com/take-a-look-at-this/</id>
+
+        <updated>2026-05-07T13:49:40-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Guys like to poke fun at one another. Bust each others'&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Guys like to poke fun at one another.</p>
+<p>Bust each others' <em>burals</em>.</p>
+<p>You know, the nuggets?</p>
+<p>⚾⚾</p>
+<p>It's just something we do.</p>
+<p>And when I was younger, we had a running joke.</p>
+<p>We would say things like:</p>
+<p><em>If this were an action movie, I'd be the guy putting my life in danger and fighting and bringing back data from the field for you to analyze.</em></p>
+<p>We said it in crasser language.</p>
+<p>But you get the idea.</p>
+<p>It wasn't a joke where we picked on one person, we just used it when we wanted action.</p>
+<p>Itching.</p>
+<p>And to instill that sense in the other.</p>
+<p>And let me tell you, it works.</p>
+<p>No one wanted to be the data guy.</p>
+<p>The back at base guy.</p>
+<p>The numbers cruncher.</p>
+<p>But they do pretty well, now.</p>
+<p>Always have.</p>
+<blockquote>
+<p>"50 dollar bill! 50 DOLLAR BILLS!!!"</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Loud And Opaque</title>
         <author>
@@ -507,40 +548,6 @@
 <p>A voice told me to stop.</p>
 <p>So I did.</p>
 <p>But that time, I was in the car all by myself.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Anyone Feel A Draft?</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/anyone-feel-a-draft/"/>
-        <id>https://iterating.com/anyone-feel-a-draft/</id>
-
-        <updated>2026-04-25T14:07:36-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I started writing about two things and erased them both. One&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I started writing about two things and erased them both.</p>
-<p>One was about being vigilant outside as we approach warmer seasons.</p>
-<p>The other was about Day 3 of the NFL Draft.</p>
-<p>I erased them both.</p>
-<p>I don't know why.</p>
-<p>I will say, be careful, out there.</p>
-<p>And I love Day 3 of the NFL Draft.</p>
-<p>I feel like we should have corporate drafts for the Fortune 500.</p>
-<p>Scouts in college classrooms.</p>
-<p>An academic combine in auditoriums.</p>
-<p>Boardrooms watching highlights of volunteer tape.</p>
-<p>Talking heads arguing over who Nvidia will take in the first round.</p>
-<p>Actually, that sounds terrible.</p>
-<p><em>Or does it already happen?</em></p>
-<p> </p>
             ]]>
         </content>
     </entry>
