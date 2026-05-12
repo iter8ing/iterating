@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-05-12T14:54:20-04:00</updated>
+    <updated>2026-05-12T14:58:24-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,12 +20,17 @@
         <updated>2026-05-12T14:47:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Love is a strength and a weakness. I've said this before.
+                    Why do they call it fall in love? Shouldn't it be&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Love is a strength and a weakness.</p>
+                <p>Why do they call it <em>fall</em> in love?</p>
+<p>Shouldn't it be <em>rise</em>?</p>
+<p>Rise in love?</p>
+<p>Soar in love?</p>
+<p><em>No, fall's right.</em></p>
+<p>Love is a strength and a weakness.</p>
 <p>I've said this before.</p>
 <p>And I'll say it again.</p>
 <p>Love is a strength and a weakness.</p>
@@ -57,9 +62,9 @@
 <p>But you understand.</p>
 <p>May you know the love of loving someone more than yourself.</p>
 <p>May you know the love of having been loved by someone more than they love themselves.</p>
+<p>And may those loves fall in love.</p>
 <p>And may you all always believe it was better to have done so.</p>
 <p>Better to have loved...</p>
-<p> </p>
             ]]>
         </content>
     </entry>
