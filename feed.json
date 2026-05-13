@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/family-jewels/",
+            "url": "https://iterating.com/family-jewels/",
+            "title": "Family Jewels",
+            "summary": "Bas Rutten is a hero of mine. I don't have too&hellip;",
+            "content_html": "<p>Bas Rutten is a hero of mine.</p>\n<p>I don't have too many of those.</p>\n<p>But Bas is one.</p>\n<p>And, he made a series of MMA videos back in the day.</p>\n<p>Even a how to protect yourself in the streets video.</p>\n<p>It's both hilarious and educational.</p>\n<p>Highly recommend.</p>\n<p>Anyways, in this particular video he goes on and on about the virtues of a kick to the groin.</p>\n<p>Everybody underestimates a kick to the groin.</p>\n<p>Meaning, all things being unequal, a kick to the nuggets tends to even things out.</p>\n<p>Now, as a old(ish) man of peace(ish), I would never tell you to kick someone in the chicken tenders, but do so if you need to.</p>\n<p>And that's a good rule right?</p>\n<p>Fight honorably.</p>\n<p>Until you need to not.</p>\n<p>If you're in a struggle that seems like you winning means you get to live, remember to fight dirty.</p>\n<p>What's fighting dirty?</p>\n<p>Well, basically take a look at what you cannot do in an organized, professional, fight.</p>\n<p>And do a whole lotta that.</p>\n<p>Piledriving. Eye-gouging. Headbutts. Throat strikes. Using objects. Leverage. Back of the head strikes.</p>\n<p>Read the list of no-no's and make 'em yes-yes's.</p>\n<p>Only in defense of course.</p>\n<p>Of yourself or others.</p>\n<p>And only if you are at a disadvantage.</p>\n<p>Fight fair until it's not.</p>\n<p><em>Oh, and it's never fair.</em></p>\n<p>🦶🍒</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-13T13:30:18-04:00",
+            "date_modified": "2026-05-13T13:30:18-04:00"
+        },
+        {
             "id": "https://iterating.com/lost-and-found/",
             "url": "https://iterating.com/lost-and-found/",
             "title": "Lost and Found",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-05-04T12:27:35-04:00",
             "date_modified": "2026-05-04T12:27:35-04:00"
-        },
-        {
-            "id": "https://iterating.com/why-for/",
-            "url": "https://iterating.com/why-for/",
-            "title": "Why For",
-            "summary": "I'm a sucker for a ballad-ized version of a hard song.",
-            "content_html": "<p>I'm a sucker for a ballad-ized version of a hard song.</p>\n<p>I sometimes do it myself.</p>\n<p>I'll take a song like \"Let the Bodies Hit the Floor\" and turn it into a country song.</p>\n<p>Like Tracy Lawrence sang it.</p>\n<p><em>Floooooooooooor.</em></p>\n<p>🤠🎸</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-03T17:58:58-04:00",
-            "date_modified": "2026-05-03T18:05:39-04:00"
         }
     ]
 }
