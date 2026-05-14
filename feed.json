@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/put-me-in-coach/",
+            "url": "https://iterating.com/put-me-in-coach/",
+            "title": "Put Me In, Coach",
+            "summary": "I have nothing to say today. Go get 'em, tiger. Oh,&hellip;",
+            "content_html": "<p>I have nothing to say today.</p>\n<p>Go get 'em, tiger.</p>\n<p>Oh, a hat tip to the Harbaugh brothers' father:</p>\n<p><em>I want you to attack this day with an enthusiasm previously unknown to mankind.</em></p>\n<p>Have a great day.</p>\n<p>🐯</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-14T13:58:26-04:00",
+            "date_modified": "2026-05-14T13:58:26-04:00"
+        },
+        {
             "id": "https://iterating.com/family-jewels/",
             "url": "https://iterating.com/family-jewels/",
             "title": "Family Jewels",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-05-05T13:20:59-04:00",
             "date_modified": "2026-05-05T13:39:31-04:00"
-        },
-        {
-            "id": "https://iterating.com/were-both-learning-together/",
-            "url": "https://iterating.com/were-both-learning-together/",
-            "title": "We&#x27;re Both Learning Together",
-            "summary": "Good people. Yes, I'm talking to you. You good? It occurs&hellip;",
-            "content_html": "<p>Good people.</p>\n<p>Yes, I'm talking to you.</p>\n<p>You good?</p>\n<p>It occurs to me, as such things do, that good people are too quiet.</p>\n<p>Too hesitant.</p>\n<p>To put their foots forward.</p>\n<p>To raise their hands.</p>\n<p>To say, \"Hey, look at me.\"</p>\n<p>It makes sense.</p>\n<p>Humility.</p>\n<p>Privacy.</p>\n<p>Meek.</p>\n<p>As a result of their silence, there's this sea of foot-forwarded, hand-raised, look-at-me jackarses.</p>\n<p>Just an ocean of 'em.</p>\n<p>An ocean!</p>\n<p>An ocean of jackarses.</p>\n<p>🌊</p>\n<p>So much so that you start believing maybe that's <em>all</em> <em>there</em> <em>is</em> out there.</p>\n<p>But I'm here to tell you something.</p>\n<p>There's a lot more good out there than not.</p>\n<p>I believe that.</p>\n<p>Do you?</p>\n<p>As a believer, as a father, I must.</p>\n<p>The good far outnumber the others.</p>\n<p>The good far outnumber the others.</p>\n<p>The good far outnumber the others.</p>\n<p>It just doesn't seem that way anytime you turn on your technology.</p>\n<p>But I hope you see it every time you turn it off.</p>\n<p>I went to a store opening the other day.</p>\n<p>A fancy little fusion joint.</p>\n<p>And it was a <em>soft</em> opening.</p>\n<p>A bunch of young folk running around and messing up.</p>\n<p>A dress rehearsal in front of a live studio audience.</p>\n<p>So eager, optimistic, to get it right.</p>\n<p>Nervous, hopeful, and trying.</p>\n<p>Giving a darn.</p>\n<p>Got an old(ish) man rooting for them.</p>\n<p>And for a lot of you.</p>\n<p>More than I sometimes think.</p>\n<p>To the quiet good.</p>\n<p>Get louder.</p>\n<p>📣</p>\n<p>Thank you for giving a sheet.</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-04T12:27:35-04:00",
-            "date_modified": "2026-05-04T12:27:35-04:00"
         }
     ]
 }
