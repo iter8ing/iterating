@@ -3,12 +3,36 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-05-15T14:10:34-04:00</updated>
+    <updated>2026-05-16T13:29:40-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Snooze Button</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/snooze-button/"/>
+        <id>https://iterating.com/snooze-button/</id>
+
+        <updated>2026-05-16T13:29:40-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I'll keep this short and sweet. Because I have no idea&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I'll keep this short and sweet.</p>
+<p>Because I have no idea what I'm going to say.</p>
+<p>So how are youuuuuuuu?</p>
+<p>How's life?</p>
+<p><em>Zzzzzzzzzzz</em>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wrong In All The Right Ways</title>
         <author>
@@ -403,52 +427,6 @@
 <blockquote>
 <p>"Fifty dollar bill. Fifty dollar bill! 50 DOLLAR BILL!!!"</p>
 </blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Loud And Opaque</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/loud-and-opaque/"/>
-        <id>https://iterating.com/loud-and-opaque/</id>
-
-        <updated>2026-05-06T09:42:39-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    You know what I love? Writing in generalities when people need&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>You know what I love?</p>
-<p>Writing in generalities when people need specifics.</p>
-<p>👁👁</p>
-<p>You might hear a lot of about adding value.</p>
-<p>Just add value.</p>
-<p>I sure do.</p>
-<p>And you might be wondering, like I do, what that all means.</p>
-<p>Well, I'll tell you.</p>
-<p>It's just a way to sound smart.</p>
-<p>To sound influency.</p>
-<p>To sound like you're giving advice when all you're really doing is just being vague.</p>
-<p>Add value is like a newer Always Be Closing.</p>
-<p><em>ABC!</em></p>
-<p>But forget all that.</p>
-<p>You want to add value?</p>
-<p>Help.</p>
-<p>Help people.</p>
-<p>Help animals.</p>
-<p>Help your surroundings.</p>
-<p>Help the universe.</p>
-<p>Help causes you still believe in.</p>
-<p>Here's hoping that includes yourself.</p>
-<p>Just my value add for the day.</p>
-<p>Invoice is in your inbox.</p>
-<p>As you will see, rates have gone up.</p>
-<p>Way up.</p>
-<p>K thx bye.</p>
             ]]>
         </content>
     </entry>

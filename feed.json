@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/snooze-button/",
+            "url": "https://iterating.com/snooze-button/",
+            "title": "Snooze Button",
+            "summary": "I'll keep this short and sweet. Because I have no idea&hellip;",
+            "content_html": "<p>I'll keep this short and sweet.</p>\n<p>Because I have no idea what I'm going to say.</p>\n<p>So how are youuuuuuuu?</p>\n<p>How's life?</p>\n<p><em>Zzzzzzzzzzz</em>.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-16T13:29:40-04:00",
+            "date_modified": "2026-05-16T13:29:40-04:00"
+        },
+        {
             "id": "https://iterating.com/wrong-in-all-the-right-ways/",
             "url": "https://iterating.com/wrong-in-all-the-right-ways/",
             "title": "Wrong In All The Right Ways",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-05-07T13:49:40-04:00",
             "date_modified": "2026-05-07T13:51:15-04:00"
-        },
-        {
-            "id": "https://iterating.com/loud-and-opaque/",
-            "url": "https://iterating.com/loud-and-opaque/",
-            "title": "Loud And Opaque",
-            "summary": "You know what I love? Writing in generalities when people need&hellip;",
-            "content_html": "<p>You know what I love?</p>\n<p>Writing in generalities when people need specifics.</p>\n<p>👁👁</p>\n<p>You might hear a lot of about adding value.</p>\n<p>Just add value.</p>\n<p>I sure do.</p>\n<p>And you might be wondering, like I do, what that all means.</p>\n<p>Well, I'll tell you.</p>\n<p>It's just a way to sound smart.</p>\n<p>To sound influency.</p>\n<p>To sound like you're giving advice when all you're really doing is just being vague.</p>\n<p>Add value is like a newer Always Be Closing.</p>\n<p><em>ABC!</em></p>\n<p>But forget all that.</p>\n<p>You want to add value?</p>\n<p>Help.</p>\n<p>Help people.</p>\n<p>Help animals.</p>\n<p>Help your surroundings.</p>\n<p>Help the universe.</p>\n<p>Help causes you still believe in.</p>\n<p>Here's hoping that includes yourself.</p>\n<p>Just my value add for the day.</p>\n<p>Invoice is in your inbox.</p>\n<p>As you will see, rates have gone up.</p>\n<p>Way up.</p>\n<p>K thx bye.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-06T09:42:39-04:00",
-            "date_modified": "2026-05-06T09:55:51-04:00"
         }
     ]
 }
