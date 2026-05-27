@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/one-of-one/",
+            "url": "https://iterating.com/one-of-one/",
+            "title": "One of One",
+            "summary": "You know something? You are one in a million. Truly. There&hellip;",
+            "content_html": "<p>You know something?</p>\n<p>You are one in a million.</p>\n<p>Truly.</p>\n<p>There are only about 8,300 of you walking this blue marble.</p>\n<p>What?</p>\n<p>Does knowing there's a small town's worth of you running around make it less special?</p>\n<p>Fine.</p>\n<p>You're one in a billion!</p>\n<p><em>Doing math. There's still sevenish others just like me??</em></p>\n<p>One of eight!</p>\n<p>Even at one in a billy, you're still not unique.</p>\n<p>And we're not even counting other marbles.</p>\n<p>There's still seven other versions of you walking around <span style=\"text-decoration: line-through;\">picking their nose</span> being productive and reading musings columns.</p>\n<p>One of the biggest fears of the supremacy of artificial intellect is that we'll lose that uniqueness of being human.</p>\n<p>But I mean, aren't we already kinda there?</p>\n<p>Humans are sort of the same, now.</p>\n<p>Look around.</p>\n<p>You see it.</p>\n<p>Similar templates.</p>\n<p>Repeated over and over.</p>\n<p>Like the character generator got lazy and just started mass spawning mother mothers.</p>\n<p>Who do you know that marches to the beat of their own 808?</p>\n<p>To one of ones.</p>\n<p>Thank you for being you.</p>\n<blockquote>\n<p>🎵 \"Peace on earth.</p>\n<p>Can it be?\" 🎵</p>\n</blockquote>\n<p>Pa rum pum pum pum.</p>\n<p>🥁</p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-27T15:22:09-04:00",
+            "date_modified": "2026-05-27T15:22:09-04:00"
+        },
+        {
             "id": "https://iterating.com/weird-to-think-about/",
             "url": "https://iterating.com/weird-to-think-about/",
             "title": "Weird To Think About",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-05-17T16:09:59-04:00",
             "date_modified": "2026-05-17T16:41:01-04:00"
-        },
-        {
-            "id": "https://iterating.com/snooze-button/",
-            "url": "https://iterating.com/snooze-button/",
-            "title": "Snooze Button",
-            "summary": "I'll keep this short and sweet. Because I have no idea&hellip;",
-            "content_html": "<p>I'll keep this short and sweet.</p>\n<p>Because I have no idea what I'm going to say.</p>\n<p>So how are youuuuuuuu?</p>\n<p>How's life?</p>\n<p><em>Zzzzzzzzzzz</em>.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-16T13:29:40-04:00",
-            "date_modified": "2026-05-16T13:29:40-04:00"
         }
     ]
 }

@@ -3,12 +3,62 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-05-26T16:49:24-04:00</updated>
+    <updated>2026-05-27T15:22:09-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>One of One</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/one-of-one/"/>
+        <id>https://iterating.com/one-of-one/</id>
+
+        <updated>2026-05-27T15:22:09-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    You know something? You are one in a million. Truly. There&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You know something?</p>
+<p>You are one in a million.</p>
+<p>Truly.</p>
+<p>There are only about 8,300 of you walking this blue marble.</p>
+<p>What?</p>
+<p>Does knowing there's a small town's worth of you running around make it less special?</p>
+<p>Fine.</p>
+<p>You're one in a billion!</p>
+<p><em>Doing math. There's still sevenish others just like me??</em></p>
+<p>One of eight!</p>
+<p>Even at one in a billy, you're still not unique.</p>
+<p>And we're not even counting other marbles.</p>
+<p>There's still seven other versions of you walking around <span style="text-decoration: line-through;">picking their nose</span> being productive and reading musings columns.</p>
+<p>One of the biggest fears of the supremacy of artificial intellect is that we'll lose that uniqueness of being human.</p>
+<p>But I mean, aren't we already kinda there?</p>
+<p>Humans are sort of the same, now.</p>
+<p>Look around.</p>
+<p>You see it.</p>
+<p>Similar templates.</p>
+<p>Repeated over and over.</p>
+<p>Like the character generator got lazy and just started mass spawning mother mothers.</p>
+<p>Who do you know that marches to the beat of their own 808?</p>
+<p>To one of ones.</p>
+<p>Thank you for being you.</p>
+<blockquote>
+<p>🎵 "Peace on earth.</p>
+<p>Can it be?" 🎵</p>
+</blockquote>
+<p>Pa rum pum pum pum.</p>
+<p>🥁</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Weird To Think About</title>
         <author>
@@ -524,30 +574,6 @@
 <p>And with who?</p>
 <p>Who's your "You go?"</p>
 <p>And does anyone "You go" about you?</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Snooze Button</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/snooze-button/"/>
-        <id>https://iterating.com/snooze-button/</id>
-
-        <updated>2026-05-16T13:29:40-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I'll keep this short and sweet. Because I have no idea&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I'll keep this short and sweet.</p>
-<p>Because I have no idea what I'm going to say.</p>
-<p>So how are youuuuuuuu?</p>
-<p>How's life?</p>
-<p><em>Zzzzzzzzzzz</em>.</p>
             ]]>
         </content>
     </entry>
