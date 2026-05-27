@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-05-27T15:22:09-04:00</updated>
+    <updated>2026-05-27T15:24:57-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,12 +20,16 @@
         <updated>2026-05-27T15:22:09-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    You know something? You are one in a million. Truly. There&hellip;
+                    🎵 "Come They told me." 🎵 You know something? You are&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>You know something?</p>
+                <blockquote>
+<p>🎵 "Come</p>
+<p>They told me."  🎵</p>
+</blockquote>
+<p>You know something?</p>
 <p>You are one in a million.</p>
 <p>Truly.</p>
 <p>There are only about 8,300 of you walking this blue marble.</p>
