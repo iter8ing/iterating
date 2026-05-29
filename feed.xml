@@ -3,12 +3,41 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-05-27T15:34:04-04:00</updated>
+    <updated>2026-05-28T20:06:24-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Tickling Ivory</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/tickling-ivory/"/>
+        <id>https://iterating.com/tickling-ivory/</id>
+
+        <updated>2026-05-28T20:06:24-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    [You find the author strumming away at a grand piano. He&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>[You find the author strumming away at a grand piano. He seems surprised to see you.]</p>
+<p>Well hello there.</p>
+<p>How are you?</p>
+<p>...</p>
+<p>Oh, I'm fine.</p>
+<p>I'm fine.</p>
+<p>Just working the keys.</p>
+<p><em>That's not a piano, that's a MacBook.</em></p>
+<p>Comme ci, comme ca, mon amie.</p>
+<p>🎹</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>One of One</title>
         <author>
@@ -531,53 +560,6 @@
 <p>It's not keep it simple, stupid.</p>
 <p>It's keep it stupid simple.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Amigo</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/amigo/"/>
-        <id>https://iterating.com/amigo/</id>
-
-        <updated>2026-05-17T16:09:59-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    One of the best dudes I know was a Blackhawk helicopter&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>One of the best dudes I know was a Blackhawk helicopter pilot.</p>
-<p>By the time I knew him, he was a 1L in law school.</p>
-<p>But he and I quickly bonded over the repetitive lifting of heavy objects.</p>
-<p>And we quickly became good friends.</p>
-<p>He loved to quote a movie I'd never seen.</p>
-<p><em>Backdraft</em>.</p>
-<p>It's a movie about firefighters firefighting and sheet.</p>
-<p>Apparently, there's a part where the two main characters are fighting a fire that overtakes them.</p>
-<p>One gets into dire trouble and the other holds onto him for dear life.</p>
-<p>The one in peril tells the other to leave him, to let him go, to get out and get to safety.</p>
-<p>And the line my buddy quotes, is the other guy's response:</p>
-<blockquote>
-<p>"You go, we go."</p>
-</blockquote>
-<p>He was the ultimate got-your-back, share-a-foxhole, dude.</p>
-<p>A good man.</p>
-<p>A badmf.</p>
-<p><em>How many of those are left?</em></p>
-<p>Have the honor of knowing many.</p>
-<p>But like all old(ish) men, we have lost touch over the years.</p>
-<p>My fault (as most things are of this ilk).</p>
-<p>But I remember the line.</p>
-<p>You go...</p>
-<p>🚁</p>
-<p>And so I ask, are you like that?</p>
-<p>And with who?</p>
-<p>Who's your "You go?"</p>
-<p>And does anyone "You go" about you?</p>
             ]]>
         </content>
     </entry>
