@@ -14,14 +14,14 @@
             "url": "https://iterating.com/tickling-ivory/",
             "title": "Tickling Ivory",
             "summary": "[You find the author strumming away at a grand piano. He&hellip;",
-            "content_html": "<p>[You find the author strumming away at a grand piano. He seems surprised to see you.]</p>\n<p>Well hello there.</p>\n<p>How are you?</p>\n<p>...</p>\n<p>Oh, I'm fine.</p>\n<p>I'm fine.</p>\n<p>Just working the keys.</p>\n<p><em>That's not a piano, that's a MacBook.</em></p>\n<p>Comme ci, comme ca, mon amie.</p>\n<p>🎹</p>",
+            "content_html": "<p>[You find the author strumming away at a grand piano. He seems surprised to see you.]</p>\n<p>Well hello there.</p>\n<p>How are you?</p>\n<p>...</p>\n<p>Oh, I'm fine.</p>\n<p>I'm fine.</p>\n<p>Thank you for asking.</p>\n<p>Just working the keys here.</p>\n<p><em>That's not a piano, that's a MacBook.</em></p>\n<p>Comme ci, comme ca, mon amie.</p>\n<p>🎹</p>",
             "author": {
                 "name": "𖤂"
             },
             "tags": [
             ],
             "date_published": "2026-05-28T20:06:24-04:00",
-            "date_modified": "2026-05-28T20:06:24-04:00"
+            "date_modified": "2026-05-28T20:07:57-04:00"
         },
         {
             "id": "https://iterating.com/one-of-one/",
