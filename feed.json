@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/even-me/",
+            "url": "https://iterating.com/even-me/",
+            "title": "Even Me",
+            "summary": "Can we keep it lighthearted, today? Let's do that. Keep it&hellip;",
+            "content_html": "<p>Can we keep it lighthearted, today?</p>\n<p>Let's do that.</p>\n<p>Keep it light.</p>\n<p>Hearted.</p>\n<p>Cheerful.</p>\n<p><em>Okay!</em></p>\n<p>Have you ever trusted anyone to the level that one of them flipping cheerleaders do?</p>\n<p>I mean the ones that flip and soar and blindly trust that someone will (try to) catch them?</p>\n<p>I don't know why I thought of that.</p>\n<p>But it does require a degree of trust that just seems, oh what's the word, silly.</p>\n<p>Silly.</p>\n<p>An asymmetric risk the other way.</p>\n<p>Low reward.</p>\n<p>Of course, my favorite wisdom is DTA.</p>\n<p>Don't.</p>\n<p>Trust.</p>\n<p>Anybody.</p>\n<p><em>But you promised to keep it lighthearted!</em></p>\n<p>Oh right.</p>\n<p>Don't.</p>\n<p>[Clap clap]</p>\n<p>Trust.</p>\n<p>[Clap clap clap].</p>\n<p>Any....</p>\n<p>Body!!!</p>\n<p>Yay!!!</p>\n<p>🥂</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-29T12:56:52-04:00",
+            "date_modified": "2026-05-29T12:56:52-04:00"
+        },
+        {
             "id": "https://iterating.com/tickling-ivory/",
             "url": "https://iterating.com/tickling-ivory/",
             "title": "Tickling Ivory",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-05-19T15:50:23-04:00",
             "date_modified": "2026-05-19T16:13:57-04:00"
-        },
-        {
-            "id": "https://iterating.com/dumb-complex/",
-            "url": "https://iterating.com/dumb-complex/",
-            "title": "Dumb Complex",
-            "summary": "Never confuse complexity with superiority. Simplicity is the goal. Basic. Elegant.",
-            "content_html": "<p>Never confuse complexity with superiority.</p>\n<p>Simplicity is the goal.</p>\n<p>Basic.</p>\n<p>Elegant.</p>\n<p>Graceful.</p>\n<p>You know how chefs get all fancy and make normal sheet ridonkulous?</p>\n<p>The fancier the price tag, the more crazy things get.</p>\n<p>And smaller portions, too.</p>\n<p>Shaving frozen duck liver fat onto vanilla ice cream churned by an elf and putting it into a thimble to serve to you, as you eagerly wait with a toothpick sized spoon in your hand.</p>\n<p><em>That sounds delightful.</em></p>\n<p>Listen:</p>\n<p>Cast iron pan.</p>\n<p>A nice chunk of tri tip.</p>\n<p>Sizzle.</p>\n<p>Butter.</p>\n<p>Cut into steaks.</p>\n<p>Salt.</p>\n<p>Eat.</p>\n<p>Don't get too crazy focusing on the seasoning.</p>\n<p>Work the meat!</p>\n<p>Serve with rice and kimchi.</p>\n<p>Eat.</p>\n<p>Let settle.</p>\n<p>Conquer world.</p>\n<p>After nap.</p>\n<p>Conquer world before or after nap.</p>\n<p>Up to you.</p>\n<p>It's not keep it simple, stupid.</p>\n<p>It's keep it stupid simple.</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-18T13:33:29-04:00",
-            "date_modified": "2026-05-18T13:38:24-04:00"
         }
     ]
 }
