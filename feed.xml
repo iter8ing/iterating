@@ -3,12 +3,55 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-06-06T20:06:12-04:00</updated>
+    <updated>2026-06-07T14:48:10-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>You People</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/you-people/"/>
+        <id>https://iterating.com/you-people/</id>
+
+        <updated>2026-06-07T14:48:10-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    You know how rappers have diss tracks? Where they battle their&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You know how rappers have diss tracks?</p>
+<p>Where they battle their fellow rapper foes via lyrical warfare?</p>
+<p>I think we should do that at the corporate levels.</p>
+<p>Diss tracks between F500 company CEOs.</p>
+<p>I wouldn't buy 'em.</p>
+<p>But I'd listen.</p>
+<p>It doesn't even have to be C-Level.</p>
+<p>It can even be internal.</p>
+<p>You gotta problem with Fred in HR?</p>
+<p>Diss track.</p>
+<p>He gotta problem with you?</p>
+<p>Response track.</p>
+<p>Loser leaves the company.</p>
+<p>It ain't festivus.</p>
+<p>But there is an airing of grievances.</p>
+<p>Now, I realize this puts an awfully skewed amount of ability towards rapping, likely not at all related to your occupation, but hey I don't make the rules.</p>
+<p>I think corporate rap battles is the one thing missing from this silly world.</p>
+<p>There are others, but I like to keep things simple.</p>
+<p>But would you all be shocked?</p>
+<p>At all?</p>
+<p>Even a little?</p>
+<p>It kind of fits.</p>
+<p>If you see Marky Zee on stage looking angry in a gi, a ballcap turned to the side, and a mic in his hand, well.</p>
+<p>You're welcome.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Big and Small</title>
         <author>
@@ -538,36 +581,6 @@
 <p>🥂</p>
 <p>Go Humans!!!</p>
 <p>Woooooooo!!!!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tickling Ivory</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/tickling-ivory/"/>
-        <id>https://iterating.com/tickling-ivory/</id>
-
-        <updated>2026-05-28T20:06:24-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    [You find the author strumming away at a grand piano. He&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>[You find the author strumming away at a grand piano. He seems surprised to see you.]</p>
-<p>Well hello there.</p>
-<p>How are you?</p>
-<p>...</p>
-<p>Oh, I'm fine.</p>
-<p>I'm fine.</p>
-<p>Thank you for asking.</p>
-<p>Just working the keys here.</p>
-<p><em>That's not a piano, that's a MacBook.</em></p>
-<p>Comme ci, comme ca, mon amie.</p>
-<p>🎹</p>
             ]]>
         </content>
     </entry>
