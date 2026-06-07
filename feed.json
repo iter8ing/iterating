@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/big-and-small/",
+            "url": "https://iterating.com/big-and-small/",
+            "title": "Big and Small",
+            "summary": "Quantum is one of my favorite words. I got a lot&hellip;",
+            "content_html": "<p>Quantum is one of my favorite words.</p>\n<p>I got a lot of them.</p>\n<p>Actualization.</p>\n<p>Starfaring.</p>\n<p>Iterating.</p>\n<p>But quantum's up there.</p>\n<p>You want to know why?</p>\n<p>Because it means two very different things at the same time.</p>\n<p>It means two opposite things simultaneously.</p>\n<p>Quantum can be defined as something so small it's practically zero.</p>\n<p>The notch right above nothing.</p>\n<p>The smallest of the smallest.</p>\n<p>At the same time, quantum can also refer to something very big.</p>\n<p>Significant.</p>\n<p>The giant leaps.</p>\n<p>This is not even to mention its use in physics, mechanics, computing.</p>\n<p>It's the word de jour, a polarizing one to be sure (my favorites usually are), but it'll likely be an important word from here out.</p>\n<p>I'm all about important words.</p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-06T20:02:25-04:00",
+            "date_modified": "2026-06-06T20:02:25-04:00"
+        },
+        {
             "id": "https://iterating.com/songs-of-the-desert/",
             "url": "https://iterating.com/songs-of-the-desert/",
             "title": "Songs of the Desert",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-05-28T20:06:24-04:00",
             "date_modified": "2026-05-28T20:07:57-04:00"
-        },
-        {
-            "id": "https://iterating.com/one-of-one/",
-            "url": "https://iterating.com/one-of-one/",
-            "title": "One of One",
-            "summary": "🎵 \"Come They told me.\" 🎵 You know something? You are&hellip;",
-            "content_html": "<blockquote>\n<p>🎵 \"Come</p>\n<p>They told me.\"  🎵</p>\n</blockquote>\n<p>You know something?</p>\n<p>You are one in a million.</p>\n<p>Truly.</p>\n<p>There are only about 8,300 of you walking this blue marble.</p>\n<p>What?</p>\n<p>Does knowing there's a small town's worth of you running around make it less special?</p>\n<p>Fine.</p>\n<p>You're one in a billion!</p>\n<p><em>Doing math. There's still sevenish others just like me??</em></p>\n<p>One of eight!</p>\n<p>Even at one in a billy, you're still not unique.</p>\n<p>And we're not even counting other marbles.</p>\n<p>There's still seven other versions of you walking around <span style=\"text-decoration: line-through;\">picking their nose</span> being productive and reading musings columns.</p>\n<p>One of the biggest fears of the supremacy of artificial intellect is that we'll lose that uniqueness of being human.</p>\n<p>But I mean, aren't we already kinda there?</p>\n<p>Humans are sort of the same, now.</p>\n<p>Look around.</p>\n<p>You see it.</p>\n<p>Similar templates.</p>\n<p>Repeated over and over.</p>\n<p>Like the character generator got lazy and just started mass spawning mother mothers.</p>\n<p>Who do you know that marches to the beat of their own 808?</p>\n<p>To one of ones.</p>\n<p>Thank you for being you.</p>\n<blockquote>\n<p>🎵 \"Peace on earth.</p>\n<p>Can it be?\" 🎵</p>\n</blockquote>\n<p>Pa rum pum pum pum.</p>\n<p>🥁</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-27T15:22:09-04:00",
-            "date_modified": "2026-05-27T15:34:04-04:00"
         }
     ]
 }
