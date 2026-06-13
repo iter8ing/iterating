@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/integrity-intelligence-and-energy/",
+            "url": "https://iterating.com/integrity-intelligence-and-energy/",
+            "title": "Integrity, Intelligence, and Energy",
+            "summary": "And another thing. Didn't you just muse? I'm on a roll&hellip;",
+            "content_html": "<p>And another thing.</p>\n<p><em>Didn't you just muse?</em></p>\n<p>I'm on a roll here.</p>\n<p>Repeat after me:</p>\n<p>Rejection is not the horrible thing.</p>\n<p><em>Rejection is not the horrible thing.</em></p>\n<p>What is the horrible thing?</p>\n<p><em>What is the horrible thing?</em></p>\n<p>Stop.</p>\n<p>Choosing, or being chosen by, the horrible thing.</p>\n<p>There is a lot of blessing in rejection.</p>\n<p>In failure.</p>\n<p>In a lot of near misses.</p>\n<p>Reframe your rejection.</p>\n<p>Refocus your failures.</p>\n<p>Unanswered prayers.</p>\n<p><em>But by the grace of God...</em></p>\n<p>You might be dodging bullets.</p>\n<p>Because sometimes, a lot of times, it's the hits that end of being fatal.</p>\n<p>You want to know the greatest curse that looks like a blessing?</p>\n<p>May your every wish come true.</p>\n<p>On that happy note.</p>\n<p>Buh bye.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-13T18:34:18-04:00",
+            "date_modified": "2026-06-13T18:34:18-04:00"
+        },
+        {
             "id": "https://iterating.com/not-for-everyone/",
             "url": "https://iterating.com/not-for-everyone/",
             "title": "Not For Everyone",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-06-05T18:03:17-04:00",
             "date_modified": "2026-06-05T18:16:14-04:00"
-        },
-        {
-            "id": "https://iterating.com/al-slop/",
-            "url": "https://iterating.com/al-slop/",
-            "title": "Al Slop",
-            "summary": "I'm testing out a new setup. Kind of like the old&hellip;",
-            "content_html": "<p>I'm testing out a new setup.</p>\n<p>Kind of like the old setup.</p>\n<p>Writing on big monitors, instead of laptop ones.</p>\n<p>Let's see how it works.</p>\n<p>It occurs to me, as such things do, that I can't write when someone's over my shoulder.</p>\n<p>Or in the room.</p>\n<p>I don't know why I'm like that.</p>\n<p>But I'm sure I'm not alone.</p>\n<p>I need to be alone.</p>\n<p>At least for the moment.</p>\n<p>At least for the musings column.</p>\n<p>So I can really exhale.</p>\n<p>And get down to business.</p>\n<p>So today, you get this.</p>\n<p>It's not ai.</p>\n<p>But it is kinda sloppy.</p>\n<p> </p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-06-05T15:05:01-04:00",
-            "date_modified": "2026-06-05T15:05:01-04:00"
         }
     ]
 }
