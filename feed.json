@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/some-say-it-is-so/",
+            "url": "https://iterating.com/some-say-it-is-so/",
+            "title": "Some Say It Is So",
+            "summary": "Speak it into existence. Go ahead. Say what you have been&hellip;",
+            "content_html": "<p>Speak it into existence.</p>\n<p>Go ahead.</p>\n<p>Say what you have been aiming for.</p>\n<p>I don't mean in your head.</p>\n<p>I mean out your mouth.</p>\n<p>Lemme hear it.</p>\n<p>Too loud.</p>\n<p>Whisper it.</p>\n<p>Spoken words are powerful.</p>\n<p>And sometimes, the calmest words said are the fieriest.</p>\n<p>Are the finest.</p>\n<p>So speak easy.</p>\n<p>Let me hear you.</p>\n<p>Are you the one?</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-24T14:00:36-04:00",
+            "date_modified": "2026-06-24T14:00:36-04:00"
+        },
+        {
             "id": "https://iterating.com/iron/",
             "url": "https://iterating.com/iron/",
             "title": "Iron",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-06-16T14:44:59-04:00",
             "date_modified": "2026-06-16T14:57:41-04:00"
-        },
-        {
-            "id": "https://iterating.com/unctuous/",
-            "url": "https://iterating.com/unctuous/",
-            "title": "Unctuous",
-            "summary": "Well, hello. How are you? Have you eaten? Come, sit down&hellip;",
-            "content_html": "<p>Well, hello.</p>\n<p>How are you?</p>\n<p>Have you eaten?</p>\n<p>Come, sit down and join us.</p>\n<p>We were just about to dine on some home cooked Korean food.</p>\n<p>Prepared by yours truly.</p>\n<p>The best cuisine on the planet.</p>\n<p>Would you do us the honor of having a little less food to throw out?</p>\n<p><em>Yeah, pretty sure you have never said that in your life.</em></p>\n<p>Oh bother.</p>\n<p>It's good to have an imagination.</p>\n<p>Yes?</p>\n<p>💭</p>\n<p>Stuffing our grocery holes is a term I heard someone from Maine use to refer to the art of consumption.</p>\n<p>Stuffing our grocery holes.</p>\n<p>That just tickles me.</p>\n<p>So I use it from time to time.</p>\n<p>To mixed reception.</p>\n<p>(My sweet spot).</p>\n<p>I don't have a point today.</p>\n<p>Like many days.</p>\n<p>I'm just here. </p>\n<p>Taking it all in.</p>\n<p>I am simply amused with myself.</p>\n<p><em>You got to be your number one fan.</em></p>\n<p>You got to be your number one fan.</p>\n<p><em>Woah.</em></p>\n<p>Right?</p>\n<p>Clear eyes.</p>\n<p>Full belly.</p>\n<p>Always win.</p>\n<p>After nap.</p>\n<p>Win after nap.</p>\n<p>Plenty of time to win.</p>\n<p>After nap.</p>\n<p>💤</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-06-15T15:26:05-04:00",
-            "date_modified": "2026-06-15T15:33:29-04:00"
         }
     ]
 }
