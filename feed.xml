@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-06-28T12:52:23-04:00</updated>
+    <updated>2026-06-28T12:56:19-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2026-06-28T12:48:52-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    The first law firm I worked at as a freshly minted&hellip;
+                    The first law firm I worked for as a freshly minted&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The first law firm I worked at as a freshly minted attorney had this really cool ampersand in its logo.</p>
+                <p>The first law firm I worked for as a freshly minted attorney had this really cool ampersand in its logo.</p>
 <p>I worked at another firm as a law student before that, but their ampersand was just normal.</p>
 <p><em>Great firm, though.</em></p>
 <p>Which is fine.</p>
@@ -39,6 +39,7 @@
 <p>Cool logo, though.</p>
 <p>For a law firm.</p>
 <p>🔣</p>
+<p><em>That's the whole post?</em></p>
             ]]>
         </content>
     </entry>
