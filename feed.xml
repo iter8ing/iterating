@@ -3,19 +3,19 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-06-30T17:39:39-04:00</updated>
+    <updated>2026-06-30T17:52:30-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
     <entry>
-        <title>Jericho Pilot</title>
+        <title>Jericho</title>
         <author>
             <name>𖤂</name>
         </author>
-        <link href="https://iterating.com/jericho-pilot/"/>
-        <id>https://iterating.com/jericho-pilot/</id>
+        <link href="https://iterating.com/jericho/"/>
+        <id>https://iterating.com/jericho/</id>
 
         <updated>2026-06-30T17:25:06-04:00</updated>
             <summary type="html">
@@ -39,6 +39,7 @@
 <p>A wisdom letter.</p>
 <p>Maybe all of the above.</p>
 <p>Maybe, all of the above.</p>
+<p><em>Don't worry. Not an error. He just likes to repeat himself. And throw in an unnecessary comma or two.</em></p>
 <p>Do people write love letters anymore?</p>
 <p><em>Love texts, maybe.</em></p>
 <p>Maybe.</p>
@@ -53,8 +54,9 @@
 <p>Than one more.</p>
 <p>Layers.</p>
 <p>Then, all at once!</p>
-<p>Just another musing from an amusing fellow.</p>
+<p>Just another musing from an <span style="text-decoration: line-through;">absurd</span> amused fellow.</p>
 <p>Thank you.</p>
+<p>Thank, you.</p>
 <p>🎈</p>
 <p>May you find better.</p>
             ]]>
