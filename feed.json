@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/jericho-pilot/",
+            "url": "https://iterating.com/jericho-pilot/",
+            "title": "Jericho Pilot",
+            "summary": "🎵 And you ask me what I want this year, And&hellip;",
+            "content_html": "<blockquote>\n<p>🎵 And you ask me what I want this year,</p>\n<p>And I try to make this kind and clear.</p>\n<p>Just a chance that we'll find better days.</p>\n<p>'Cause I don't need boxes wrapped in string,</p>\n<p>And designer love and empty things.</p>\n<p>Just a chance that we'll find better days. 🎶</p>\n</blockquote>\n<p>🎈</p>\n<p>May you find better.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-30T17:25:06-04:00",
+            "date_modified": "2026-06-30T17:25:06-04:00"
+        },
+        {
             "id": "https://iterating.com/call-me-al/",
             "url": "https://iterating.com/call-me-al/",
             "title": "Call Me AL (Al looks too much like AI)",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-06-22T15:10:42-04:00",
             "date_modified": "2026-06-22T15:14:34-04:00"
-        },
-        {
-            "id": "https://iterating.com/make-my-day/",
-            "url": "https://iterating.com/make-my-day/",
-            "title": "Make My Day",
-            "summary": "Today's my day. As far as days go. Every day is.",
-            "content_html": "<p>Today's my day.</p>\n<p>As far as days go.</p>\n<p>Every day is.</p>\n<p>My day, that is.</p>\n<p>More so today?</p>\n<p><em>Some would like us to think so.</em></p>\n<p>I didn't always get to celebrate today.</p>\n<p>At least, not as the center of it.</p>\n<p>But I have now for quite some time.</p>\n<p>And here's the thing.</p>\n<p>As for most holidays and \"special occasions.\"</p>\n<p>Every day is my birthday.</p>\n<p><em>You ARE old.</em></p>\n<p>Every day is Father's Day.</p>\n<p>Every day is a holiday.</p>\n<p>Special.</p>\n<p>It just so happens that my loved ones find today a cause to celebrate.</p>\n<p>And who am I to say no to a party?</p>\n<p>Within reason.</p>\n<p>Father is one of my favorite titles.</p>\n<p>Might be the most, but I don't want the other titles to feel bad.</p>\n<p>I have to do that now, as a father, you see.</p>\n<p>No favorites.</p>\n<p>All favorites.</p>\n<p>Tied for first, certainly.</p>\n<p>It's such an important title they made a stationary card day dedicated to honoring it.</p>\n<p>Just like moms the month before.</p>\n<p>Mamas come first.</p>\n<p>As it should be.</p>\n<p>And so, today's my day.</p>\n<p>Has been for a while, now.</p>\n<p>Just like every other day.</p>\n<p>So very special.</p>\n<p>Thank you.</p>\n<p>Now, let's party!!!</p>\n<p>Within reason.</p>\n<p>Get down off that couch.</p>\n<p>Got dang too loud.</p>\n<p>Turn that lower.</p>\n<p>You ok?</p>\n<p>What was that?</p>\n<p>Is that a bag of almond M&amp;M's?</p>\n<p>For me?</p>\n<p>Re-sealable?</p>\n<p>Woo-hoo!</p>\n<p>My kinda party.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-06-21T12:27:53-04:00",
-            "date_modified": "2026-06-21T12:44:41-04:00"
         }
     ]
 }
