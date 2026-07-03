@@ -3,12 +3,50 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-07-02T22:38:25-04:00</updated>
+    <updated>2026-07-03T11:56:52-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Abnormal</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/abnormal/"/>
+        <id>https://iterating.com/abnormal/</id>
+
+        <updated>2026-07-03T11:56:52-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    What's open today? Anything? Everything? I don't know. One of those&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>What's open today?</p>
+<p>Anything?</p>
+<p>Everything?</p>
+<p>I don't know.</p>
+<p>One of those odd holidays.</p>
+<p>Falls on a Saturday.</p>
+<p>Do you get Friday off?</p>
+<p>Saturday?</p>
+<p>Both?</p>
+<p>Let's celebrate this weekend (aka this strong beginning).</p>
+<p>Whether it's started or will start tonight.</p>
+<p>And thank you to those who work this holiday weekend while we all party.</p>
+<p>Thank you for working.</p>
+<p>Monday is when everything will go back to normal.</p>
+<p>And who wants to be that?</p>
+<p><em>Not me.</em></p>
+<p>The last day of being 249.</p>
+<p>God bless.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Free For All</title>
         <author>
@@ -520,32 +558,6 @@
 <p>So speak easy.</p>
 <p>Let me hear you.</p>
 <p>Are you the one?</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Iron</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/iron/"/>
-        <id>https://iterating.com/iron/</id>
-
-        <updated>2026-06-24T00:24:20-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    "Listen. This is what I learned: Everybody that you fight Is&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>"Listen.</p>
-<p>This is what I learned:</p>
-<p>Everybody that you fight</p>
-<p>Is not your enemy.</p>
-<p>And everybody that helps you</p>
-<p>Is not your friend."</p>
-<p>🥊</p>
             ]]>
         </content>
     </entry>
