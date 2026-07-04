@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/ill-drink-coke-zero-to-that/",
+            "url": "https://iterating.com/ill-drink-coke-zero-to-that/",
+            "title": "I&#x27;ll Drink (Coke Zero) To That",
+            "summary": "To 250. May you all make it to 300. 🍞",
+            "content_html": "<p>To 250.</p>\n<p>May you all make it to 300.</p>\n<p>🍞</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-04T13:03:49-04:00",
+            "date_modified": "2026-07-04T13:03:49-04:00"
+        },
+        {
             "id": "https://iterating.com/abnormal/",
             "url": "https://iterating.com/abnormal/",
             "title": "Abnormal",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-06-26T13:27:19-04:00",
             "date_modified": "2026-06-26T13:27:19-04:00"
-        },
-        {
-            "id": "https://iterating.com/some-say-it-is-so/",
-            "url": "https://iterating.com/some-say-it-is-so/",
-            "title": "Some Say It Is So",
-            "summary": "Speak it into existence. Go ahead. Say what you have been&hellip;",
-            "content_html": "<p>Speak it into existence.</p>\n<p>Go ahead.</p>\n<p>Say what you have been aiming for.</p>\n<p>I don't mean in your head.</p>\n<p>I mean out your mouth.</p>\n<p>Lemme hear it.</p>\n<p>Too loud.</p>\n<p>Whisper it.</p>\n<p>Spoken words are powerful.</p>\n<p>And sometimes, the calmest words said are the fieriest.</p>\n<p>Are the finest.</p>\n<p>So speak easy.</p>\n<p>Let me hear you.</p>\n<p>Are you the one?</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-06-24T14:00:36-04:00",
-            "date_modified": "2026-06-24T14:00:36-04:00"
         }
     ]
 }
