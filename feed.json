@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/nappeun-nom/",
+            "url": "https://iterating.com/nappeun-nom/",
+            "title": "Nappeun Nom",
+            "summary": "When I lived in the Bay, I used to go to&hellip;",
+            "content_html": "<p>When I lived in the Bay, I used to go to this wonderful little Korean restaurant by myself.</p>\n<p>I'd eat Korean BBQ and kimchi stew.</p>\n<p>It was owned, as most Korean restaurants should be, by a family.</p>\n<p>And the mother used to come by and chit chat.</p>\n<p>As Korean mothers do.</p>\n<p>And, one day, after I'd become a regular, she'd ask me if she could set me up.</p>\n<p>With a nice Korean girl.</p>\n<p>She knew and approved of many.</p>\n<p>And I told her, in my broken Korean, no thank you.</p>\n<p>And when she asked why, I made up something.</p>\n<p>I said, in Korean, \"Because I'm a bad man.\"</p>\n<p>Looking back, I see there's more truth to that statement that I'd like to have admitted back then.</p>\n<p>But I simply didn't want to \"ruin\" my sanctuary.</p>\n<p>My circle of comfort food.</p>\n<p>She looked rightfully confused and shocked.</p>\n<p>But never mentioned it again.</p>\n<p>Even grew a little distant.</p>\n<p>I suppose I stopped going there soon after anyways.</p>\n<p>It's the way I like it.</p>\n<p>I don't remember a single thing I loved there.</p>\n<p><em>Spicy pork, maybe?</em></p>\n<p>But it was good.</p>\n<p>Good food.</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-10T17:11:14-04:00",
+            "date_modified": "2026-07-10T17:11:14-04:00"
+        },
+        {
             "id": "https://iterating.com/earth-wind-and-fire/",
             "url": "https://iterating.com/earth-wind-and-fire/",
             "title": "Earth, Wind &amp; Fire",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-07-01T15:08:11-04:00",
             "date_modified": "2026-07-01T15:24:19-04:00"
-        },
-        {
-            "id": "https://iterating.com/jericho/",
-            "url": "https://iterating.com/jericho/",
-            "title": "Jericho",
-            "summary": "🎵 And you ask me what I want this year, And&hellip;",
-            "content_html": "<blockquote>\n<p>🎵 And you ask me what I want this year,</p>\n<p>And I try to make this kind and clear.</p>\n</blockquote>\n<p>Some songs.</p>\n<p>Sound like a letter.</p>\n<blockquote>\n<p>Just a chance that maybe we'll find better days.</p>\n</blockquote>\n<p>A love letter.</p>\n<p>A how I'm doing letter.</p>\n<p>A wisdom letter.</p>\n<blockquote>\n<p>'Cause I don't need boxes wrapped in string*,</p>\n<p>And designer love and empty things.</p>\n<p>Just a chance that maybe we'll find better days. 🎶</p>\n</blockquote>\n<p>Maybe all of the above.</p>\n<p>Maybe, all of the above.</p>\n<p><em>Don't worry. Not an error. He just likes to repeat himself for dramatic effect. And throw in an extra comma or two.</em></p>\n<p>Do people write love letters anymore?</p>\n<p><em>Love texts, maybe.</em></p>\n<p>Maybe.</p>\n<p>Love emojis, for sure.</p>\n<p>❤️</p>\n<p>The <span style=\"text-decoration: line-through;\">letter</span> song I quoted starts with a piano.</p>\n<p>Then you hear the thump of a bass drum.</p>\n<p>Then a tambourine (I didn't know you spelled it like that).</p>\n<p>And I just like it.</p>\n<p>One thing.</p>\n<p>Then another.</p>\n<p>Then one more.</p>\n<p><em>That's a lot of thens.</em></p>\n<p>Layers of thens.</p>\n<p>Then (last one), all at once!</p>\n<p>Just another musing from an <span style=\"text-decoration: line-through;\">absurd</span> amused fellow.</p>\n<p>Thank you.</p>\n<p>Thank, you.</p>\n<p>🎈</p>\n<p>May you find better.</p>\n<p> </p>\n<p> </p>\n<p>* - It's \"strings\" plural in the song but I like the singular \"string\" better. \"[Humming the first part]....Wrapped in string.\" So inaccuracy and personal quirk wins here. As it often does. Perhaps I have explained too much. If you don't like it, go get your own musings column!</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-06-30T17:25:06-04:00",
-            "date_modified": "2026-06-30T18:17:18-04:00"
         }
     ]
 }
