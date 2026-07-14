@@ -3,12 +3,54 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-07-11T18:18:24-04:00</updated>
+    <updated>2026-07-14T15:57:50-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Did You Eat?</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/did-you-eat/"/>
+        <id>https://iterating.com/did-you-eat/</id>
+
+        <updated>2026-07-14T15:57:50-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hello there. Welcome back to this wonderful musings column. Where I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello there.</p>
+<p>Welcome back to this wonderful musings column.</p>
+<p>Where I write about whatever I want.</p>
+<p>Within reason.</p>
+<p>That's what I tell my kids when we go out to eat.</p>
+<p>You can have anything you want.</p>
+<p>Within reason.</p>
+<p>If I were unreasonable, which happens from time to time, this place would be unfit for human consumption.</p>
+<p>Maybe ai could eat, but you? </p>
+<p>No.</p>
+<p>Unless you're ai.</p>
+<p>Then you could eat.</p>
+<p>Life is this crazy dance between being reasonable and unreasonable.</p>
+<p>Too much reason and you're meh.</p>
+<p><em>Never be meh.</em></p>
+<p>Too much unreason and you're likely shackled.</p>
+<p><em>Never stay caged. Unless you're in a steel cage match, but I digress. Well, actually especially in a steel cage match, because the whole point of it is to win and you can do that by leaving it. But I digress twice.</em></p>
+<p>The joy is in the middle.</p>
+<p>Sweet spot.</p>
+<p>Goldilocks.</p>
+<p>Just right.</p>
+<p>Be unreasonable.</p>
+<p>Within reason.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sniff Test - Pass / Fail (Circle One)</title>
         <author>
@@ -475,62 +517,6 @@
 <p>Old(ish).</p>
 <p>God bless.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Free For All</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/free-for-all/"/>
-        <id>https://iterating.com/free-for-all/</id>
-
-        <updated>2026-07-02T12:47:42-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Where are your highest successes? Behind you? In front? Under? Above?&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Where are your highest successes?</p>
-<p>Behind you?</p>
-<p>In front?</p>
-<p>Under?</p>
-<p>Above?</p>
-<p>Can you see them?</p>
-<p>Feel them?</p>
-<p>Smell them?</p>
-<p>Where they at?</p>
-<p>How do you measure such things?</p>
-<p>How are you keeping score?</p>
-<p>When you go, and we all have to go (speaking of, it's kinda getting late), how do you wish to be remembered?</p>
-<p>Don't leave an o-bitch-uary for someone else to write.</p>
-<p><em>Alex had a lot of problems with you people. Here are the top 100:</em></p>
-<p>Craft an apex opus.</p>
-<p>Not a great work.</p>
-<p><em>Magnum meh.</em></p>
-<p>Your peak art.</p>
-<p><em>Apex!</em></p>
-<p>Your highest.</p>
-<p><em>Opus!</em></p>
-<p>I don't mean a got dang job.</p>
-<p>Unless that's your thing.</p>
-<p><em>Do they still give you a pin for 30 years?</em></p>
-<p>I mean something that you can leave behind.</p>
-<p>That you will leave behind.</p>
-<p>A verse.</p>
-<p>📝</p>
-<p>Your verse.</p>
-<p>When you have to go.</p>
-<p>When it's time.</p>
-<p>We all gotta.</p>
-<p>Speaking of.</p>
-<p>Get out.</p>
-<p>There's the door:</p>
-<p>🚪</p>
-<p>Peace.</p>
             ]]>
         </content>
     </entry>

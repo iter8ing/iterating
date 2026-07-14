@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/did-you-eat/",
+            "url": "https://iterating.com/did-you-eat/",
+            "title": "Did You Eat?",
+            "summary": "Hello there. Welcome back to this wonderful musings column. Where I&hellip;",
+            "content_html": "<p>Hello there.</p>\n<p>Welcome back to this wonderful musings column.</p>\n<p>Where I write about whatever I want.</p>\n<p>Within reason.</p>\n<p>That's what I tell my kids when we go out to eat.</p>\n<p>You can have anything you want.</p>\n<p>Within reason.</p>\n<p>If I were unreasonable, which happens from time to time, this place would be unfit for human consumption.</p>\n<p>Maybe ai could eat, but you? </p>\n<p>No.</p>\n<p>Unless you're ai.</p>\n<p>Then you could eat.</p>\n<p>Life is this crazy dance between being reasonable and unreasonable.</p>\n<p>Too much reason and you're meh.</p>\n<p><em>Never be meh.</em></p>\n<p>Too much unreason and you're likely shackled.</p>\n<p><em>Never stay caged. Unless you're in a steel cage match, but I digress. Well, actually especially in a steel cage match, because the whole point of it is to win and you can do that by leaving it. But I digress twice.</em></p>\n<p>The joy is in the middle.</p>\n<p>Sweet spot.</p>\n<p>Goldilocks.</p>\n<p>Just right.</p>\n<p>Be unreasonable.</p>\n<p>Within reason.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-14T15:57:50-04:00",
+            "date_modified": "2026-07-14T15:57:50-04:00"
+        },
+        {
             "id": "https://iterating.com/sniff-test-pass-fail-circle-one/",
             "url": "https://iterating.com/sniff-test-pass-fail-circle-one/",
             "title": "Sniff Test - Pass / Fail (Circle One)",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-07-03T11:56:52-04:00",
             "date_modified": "2026-07-03T12:08:13-04:00"
-        },
-        {
-            "id": "https://iterating.com/free-for-all/",
-            "url": "https://iterating.com/free-for-all/",
-            "title": "Free For All",
-            "summary": "Where are your highest successes? Behind you? In front? Under? Above?&hellip;",
-            "content_html": "<p>Where are your highest successes?</p>\n<p>Behind you?</p>\n<p>In front?</p>\n<p>Under?</p>\n<p>Above?</p>\n<p>Can you see them?</p>\n<p>Feel them?</p>\n<p>Smell them?</p>\n<p>Where they at?</p>\n<p>How do you measure such things?</p>\n<p>How are you keeping score?</p>\n<p>When you go, and we all have to go (speaking of, it's kinda getting late), how do you wish to be remembered?</p>\n<p>Don't leave an o-bitch-uary for someone else to write.</p>\n<p><em>Alex had a lot of problems with you people. Here are the top 100:</em></p>\n<p>Craft an apex opus.</p>\n<p>Not a great work.</p>\n<p><em>Magnum meh.</em></p>\n<p>Your peak art.</p>\n<p><em>Apex!</em></p>\n<p>Your highest.</p>\n<p><em>Opus!</em></p>\n<p>I don't mean a got dang job.</p>\n<p>Unless that's your thing.</p>\n<p><em>Do they still give you a pin for 30 years?</em></p>\n<p>I mean something that you can leave behind.</p>\n<p>That you will leave behind.</p>\n<p>A verse.</p>\n<p>📝</p>\n<p>Your verse.</p>\n<p>When you have to go.</p>\n<p>When it's time.</p>\n<p>We all gotta.</p>\n<p>Speaking of.</p>\n<p>Get out.</p>\n<p>There's the door:</p>\n<p>🚪</p>\n<p>Peace.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-02T12:47:42-04:00",
-            "date_modified": "2026-07-02T22:38:25-04:00"
         }
     ]
 }
