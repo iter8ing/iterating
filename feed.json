@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/exceptions-and-rules/",
+            "url": "https://iterating.com/exceptions-and-rules/",
+            "title": "Exceptions and Rules",
+            "summary": "If you had to pick. Do you pick syllables or letter&hellip;",
+            "content_html": "<p>If you had to pick.</p>\n<p>Do you pick syllables or letter count?</p>\n<p><em>What the?</em></p>\n<p>I'm serious.</p>\n<p>In a word.</p>\n<p>Or a name.</p>\n<p>What's more important?</p>\n<p>Less syllables or less letters?</p>\n<p>I like a long syllable long letter word here or there.</p>\n<p>But I am growing to appreciate two syllable words.</p>\n<p>Or even phrases.</p>\n<p>Two syllable phrases.</p>\n<p><em>Bang bang!</em></p>\n<p>I was an English major, but I couldn't really tell you what an adjective is.</p>\n<p>I just know.</p>\n<p>I will say, one syllable is too few.</p>\n<p>Right?</p>\n<p><em>No.</em></p>\n<p>One letter, also.</p>\n<p>Gotta have more.</p>\n<p>But not too much.</p>\n<p>One of my favorite words has six syllables!</p>\n<p>Thirteen letters.</p>\n<p>A big word. </p>\n<p>Bigger meaning.</p>\n<p>I couldn't tell you what an adjective is.</p>\n<p>But I could talk for hours about syllables and letter counts.</p>\n<p>Two syllables. Maybe three.</p>\n<p>Character count don't really matter.</p>\n<p>In this case.</p>\n<p>Only this case.</p>\n<p>Of course, some of the most important words have one syllable...</p>\n<p><em>Oh, God...</em></p>\n<p>Right. </p>\n<p>Like God.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-16T16:42:40-04:00",
+            "date_modified": "2026-07-16T16:42:40-04:00"
+        },
+        {
             "id": "https://iterating.com/you-or-something-like-you/",
             "url": "https://iterating.com/you-or-something-like-you/",
             "title": "You Or Something Like You",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-07-05T12:47:16-04:00",
             "date_modified": "2026-07-10T17:45:59-04:00"
-        },
-        {
-            "id": "https://iterating.com/ill-drink-coke-zero-to-that/",
-            "url": "https://iterating.com/ill-drink-coke-zero-to-that/",
-            "title": "I&#x27;ll Drink (Coke Zero) To That",
-            "summary": "To 250. May you all make it to 300. 🍞",
-            "content_html": "<p>To 250.</p>\n<p>May you all make it to 300.</p>\n<p>🍞</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-04T13:03:49-04:00",
-            "date_modified": "2026-07-04T13:06:24-04:00"
         }
     ]
 }
