@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/you-name-you/",
+            "url": "https://iterating.com/you-name-you/",
+            "title": "You Name You",
+            "summary": "I don't believe in weak ends. Weekends. I believe in strong&hellip;",
+            "content_html": "<p>I don't believe in weak ends.</p>\n<p>Weekends.</p>\n<p>I believe in strong beginnings.</p>\n<p><em>I will not go quietly.</em></p>\n<p>What we name things is as important as what they actually are.</p>\n<p>I wish it wasn't the case.</p>\n<p>Sorta.</p>\n<p>I sorta wish that.</p>\n<p>That you could call something wonderful a turd and people would still think it wonderful.</p>\n<p>But I don't think it's so.</p>\n<p>To have a name is to be.</p>\n<p>Just make sure you name you.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-18T13:08:05-04:00",
+            "date_modified": "2026-07-18T13:08:05-04:00"
+        },
+        {
             "id": "https://iterating.com/vertical-infinity/",
             "url": "https://iterating.com/vertical-infinity/",
             "title": "Vertical Infinity",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-07-07T14:42:10-04:00",
             "date_modified": "2026-07-07T14:47:31-04:00"
-        },
-        {
-            "id": "https://iterating.com/worth-the-squeeze/",
-            "url": "https://iterating.com/worth-the-squeeze/",
-            "title": "Worth The Squeeze",
-            "summary": "I almost forgot to write today. Let's change that. What a&hellip;",
-            "content_html": "<p>I almost forgot to write today.</p>\n<p>Let's change that.</p>\n<p>What a strange time to be alive.</p>\n<p>Like all the other times.</p>\n<p>But this time is strange, no?</p>\n<p>Seems like we're on the verge of something, but it's already happening.</p>\n<p>We're in the middle of it.</p>\n<p>It's here.</p>\n<p>You feel me?</p>\n<p>Looking back in a hundred years, folks might be pointing to right now as a pivotal season.</p>\n<p>Where it all began to change.</p>\n<p>For the better (or something else).</p>\n<p>I'm sort of convinced that the more I worry about something the less chance it happens.</p>\n<p><em>If you want peace, prepare for war.</em></p>\n<p>And yet, as anyone will tell you, I am a believer in manifesting your destiny.</p>\n<p>What a wonderful wor(l)d.</p>\n<p><em>Every day, in every way, I'm getting better and better.</em></p>\n<p>To peak.</p>\n<p>It's a duality that I find confusing, but it's seems yin and yangish, so it's probably fitting.</p>\n<p>I'm at peace with who I am.</p>\n<p>Even if it's war.</p>\n<p><em>What does this make possible?</em></p>\n<p>Have you lived a life that if you shared it, no one would believe you?</p>\n<p>I have.</p>\n<p>And I do.</p>\n<p>Good and bad.</p>\n<p>Bad and good.</p>\n<p>The best stories I hold forever in my heart.</p>\n<p>Not for public consumption.</p>\n<p>Why brag, when no one would believe you, anyways?</p>\n<p>And why do they even have to know?</p>\n<p>I wish you the very best in this life and beyond.</p>\n<p>And that you too have stories too good to share.</p>\n<p>I'll believe you.</p>\n<p>Just don't tell me.</p>\n<p>One for the ages.</p>\n<p>What a life.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-06T21:56:09-04:00",
-            "date_modified": "2026-07-06T21:56:09-04:00"
         }
     ]
 }
