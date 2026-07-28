@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/gone-fishing/",
+            "url": "https://iterating.com/gone-fishing/",
+            "title": "Gone Fishing",
+            "summary": "Ayy seki. Who's knocking on the door? Ayy seki. What? What&hellip;",
+            "content_html": "<p><em>Ayy seki.</em></p>\n<p>Who's knocking on the door?</p>\n<p><em>Ayy seki.</em></p>\n<p>What?</p>\n<p>What do you want?</p>\n<p>Better be dropping off something.</p>\n<p>Something with one of them battery sticker warnings on the box.</p>\n<p><em>That means it's something good.</em></p>\n<p>Or food.</p>\n<p>Food would be nice.</p>\n<p>Oh no.</p>\n<p>It's one of them seekers of knowledge.</p>\n<p>I can tell because they're squirmy and anxious.</p>\n<p>Hat in hand.</p>\n<p>Bright eyed.</p>\n<p>Can't see their tail but I'm betting it's bushy.</p>\n<p>They keep looking for a master.</p>\n<p>Some old wise guy.</p>\n<p>I'm only one of those.</p>\n<p>Two max.</p>\n<p>The thing I learned is, if you don't answer the door, they eventually go away.</p>\n<p>Probably not the best strategy for a guy selling something.</p>\n<p>Wonderful strategy for me.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-28T14:10:33-04:00",
+            "date_modified": "2026-07-28T14:10:33-04:00"
+        },
+        {
             "id": "https://iterating.com/now-thats-a-thinker/",
             "url": "https://iterating.com/now-thats-a-thinker/",
             "title": "Now That&#x27;s A Thinker",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-07-19T13:55:45-04:00",
             "date_modified": "2026-07-19T14:02:55-04:00"
-        },
-        {
-            "id": "https://iterating.com/you-name-you/",
-            "url": "https://iterating.com/you-name-you/",
-            "title": "You Name You",
-            "summary": "I don't believe in weak ends. Weekends. I believe in strong&hellip;",
-            "content_html": "<p>I don't believe in weak ends.</p>\n<p>Weekends.</p>\n<p>I believe in strong beginnings.</p>\n<p><em>I will not go quietly.</em></p>\n<p>What we name things is as important as what they actually are.</p>\n<p>I wish it wasn't the case.</p>\n<p>Sorta.</p>\n<p>I sorta wish that.</p>\n<p>That you could call something wonderful a turd and people would still think it wonderful.</p>\n<p>But I don't think it's so.</p>\n<p>To have a name is to be.</p>\n<p>Just make sure you name you.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-18T13:08:05-04:00",
-            "date_modified": "2026-07-18T13:08:05-04:00"
         }
     ]
 }

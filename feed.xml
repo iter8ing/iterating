@@ -3,12 +3,54 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-07-27T13:45:36-04:00</updated>
+    <updated>2026-07-28T14:10:33-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Gone Fishing</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/gone-fishing/"/>
+        <id>https://iterating.com/gone-fishing/</id>
+
+        <updated>2026-07-28T14:10:33-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Ayy seki. Who's knocking on the door? Ayy seki. What? What&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>Ayy seki.</em></p>
+<p>Who's knocking on the door?</p>
+<p><em>Ayy seki.</em></p>
+<p>What?</p>
+<p>What do you want?</p>
+<p>Better be dropping off something.</p>
+<p>Something with one of them battery sticker warnings on the box.</p>
+<p><em>That means it's something good.</em></p>
+<p>Or food.</p>
+<p>Food would be nice.</p>
+<p>Oh no.</p>
+<p>It's one of them seekers of knowledge.</p>
+<p>I can tell because they're squirmy and anxious.</p>
+<p>Hat in hand.</p>
+<p>Bright eyed.</p>
+<p>Can't see their tail but I'm betting it's bushy.</p>
+<p>They keep looking for a master.</p>
+<p>Some old wise guy.</p>
+<p>I'm only one of those.</p>
+<p>Two max.</p>
+<p>The thing I learned is, if you don't answer the door, they eventually go away.</p>
+<p>Probably not the best strategy for a guy selling something.</p>
+<p>Wonderful strategy for me.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Now That&#x27;s A Thinker</title>
         <author>
@@ -588,37 +630,6 @@
 <p>But if I was, I'd probably turn a lot of you away.</p>
 <p>Terrible marketing, I know.</p>
 <p>But eh, what can I say?</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>You Name You</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/you-name-you/"/>
-        <id>https://iterating.com/you-name-you/</id>
-
-        <updated>2026-07-18T13:08:05-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I don't believe in weak ends. Weekends. I believe in strong&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I don't believe in weak ends.</p>
-<p>Weekends.</p>
-<p>I believe in strong beginnings.</p>
-<p><em>I will not go quietly.</em></p>
-<p>What we name things is as important as what they actually are.</p>
-<p>I wish it wasn't the case.</p>
-<p>Sorta.</p>
-<p>I sorta wish that.</p>
-<p>That you could call something wonderful a turd and people would still think it wonderful.</p>
-<p>But I don't think it's so.</p>
-<p>To have a name is to be.</p>
-<p>Just make sure you name you.</p>
             ]]>
         </content>
     </entry>
