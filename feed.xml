@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-08-03T17:56:37-04:00</updated>
+    <updated>2026-08-03T17:58:33-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2026-08-03T17:56:37-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    There's this line. It's kinda hazy. Fuzzy. Opaque. Now more than&hellip;
+                    There's this line. It's kinda hazy. Fuzzy. Opaque. Thick. Now more&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,8 +29,10 @@
 <p>It's kinda hazy.</p>
 <p>Fuzzy.</p>
 <p>Opaque.</p>
+<p>Thick.</p>
 <p>Now more than ever.</p>
 <p>And that line separates entertainment from advice.</p>
+<p>Entertainment           |||||           Advice</p>
 <p><em>This is not financial advice.</em></p>
 <p>Is what you'd hear.</p>
 <p>Then you'd get an hour of financial advice.</p>
