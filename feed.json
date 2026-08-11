@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://iterating.com/when-youre-having-fun/",
-            "url": "https://iterating.com/when-youre-having-fun/",
-            "title": "When You&#x27;re Having Fun",
-            "summary": "\"Where does the time go?\" I don't know. It has to&hellip;",
-            "content_html": "<p>\"Where does the time go?\"</p>\n<p>I don't know.</p>\n<p>It has to go somewhere.</p>\n<p>I don't know.</p>\n<p>But it sure does fly.</p>\n<p>Maybe, it soars into my pocket.</p>\n<p>Where I keep all my best memories.</p>\n<p>That I carry every day.</p>\n<p><em>EDC.</em></p>\n<p>Maybe it goes into the ether.</p>\n<p>But I don't know.</p>\n<p>It's got to go somewhere.</p>\n<p>You got to go (somewhere).</p>\n<p>I'm trying a new position of typing.</p>\n<p>Reclined.</p>\n<p>Laying down.</p>\n<p>Laptop on propped up knee.</p>\n<p>Pillow under neck.</p>\n<p>Not bad.</p>\n<p>Not great.</p>\n<p>But not bad.</p>\n<p>One of my favorites.</p>\n<p>Unlike other currencies, time is spent, even when you save it.</p>\n<p>Inflation to the max.</p>\n<p>I hear if you move fast enough, time slows.</p>\n<p>But everyone else stays the same.</p>\n<p>I wouldn't want that.</p>\n<p>Maybe I would.</p>\n<p>I've always been fly.</p>\n<p>Maybe it's time.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-11T12:14:50-04:00",
-            "date_modified": "2026-08-11T12:16:05-04:00"
-        },
-        {
             "id": "https://iterating.com/call-me-bugs/",
             "url": "https://iterating.com/call-me-bugs/",
             "title": "Call Me Bugs",
@@ -148,6 +134,20 @@
             ],
             "date_published": "2026-08-02T20:08:15-04:00",
             "date_modified": "2026-08-02T20:20:37-04:00"
+        },
+        {
+            "id": "https://iterating.com/gone-fishing/",
+            "url": "https://iterating.com/gone-fishing/",
+            "title": "Gone Fishing",
+            "summary": "Ayy seki. Who's knocking on the door? Ayy seki. What? What&hellip;",
+            "content_html": "<p><em>Ayy seki.</em></p>\n<p>Who's knocking on the door?</p>\n<p><em>Ayy seki.</em></p>\n<p>What?</p>\n<p>What do you want?</p>\n<p>Better be dropping off something.</p>\n<p>Something with one of them battery sticker warnings on the box.</p>\n<p><em>That means it's something good.</em></p>\n<p>Or food.</p>\n<p>Food would be nice.</p>\n<p>Oh no.</p>\n<p>It's one of them seekers of knowledge.</p>\n<p>I can tell because they're squirmy and anxious.</p>\n<p>Hat in hand.</p>\n<p>Bright eyed.</p>\n<p>Can't see their tail but I'm betting it's bushy.</p>\n<p>They keep looking for a master.</p>\n<p>Some old wise guy.</p>\n<p>I'm only one of those.</p>\n<p>Two max.</p>\n<p>The thing I learned is, if you don't answer the door, they eventually go away.</p>\n<p>Probably not the best strategy for a guy selling something.</p>\n<p>Wonderful strategy for me.</p>\n<p>Yes!</p>\n<p>They're leaving.</p>\n<p>Yup.</p>\n<p>I was right.</p>\n<p>Bushy.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-28T14:10:33-04:00",
+            "date_modified": "2026-07-28T14:15:57-04:00"
         }
     ]
 }
