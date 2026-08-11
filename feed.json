@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://iterating.com/guess-what/",
-            "url": "https://iterating.com/guess-what/",
-            "title": "Guess What",
-            "summary": "I wrote a musings column earlier today. Posted it and everything.",
-            "content_html": "<p>I wrote a musings column earlier today.</p>\n<p>Posted it and everything.</p>\n<p>But it sucked.</p>\n<p><em>Sooked</em>.</p>\n<p>Now, I will be the first to tell you, a lot of these sook.</p>\n<p>But this one took the cake.</p>\n<p>So I deleted it.</p>\n<p>Erase erase.</p>\n<p>Like it never happened.</p>\n<p>Is it strange that I can't remember what I ate for lunch two weeks ago, but do remember vividly things that happened 15 years ago?</p>\n<p>15 years ago, I was sick as a dog.</p>\n<p><em>What a weird idiom.</em></p>\n<p>I remember it like yesterday.</p>\n<p>On my favorite beach.</p>\n<p>With my favorite person.</p>\n<p>Dressed in white.</p>\n<p>And gold.</p>\n<p><em>Your colors.</em></p>\n<p>It's weird being sick in the summer.</p>\n<p>I wouldn't recommend it.</p>\n<p>Any season really.</p>\n<p>I should have been home sleeping.</p>\n<p>Like I liked to do.</p>\n<p><em>Some things never change.</em></p>\n<p>Resting.</p>\n<p>Chilling.</p>\n<p>Instead, I was out by the dunes.</p>\n<p>Wouldn't have missed it for the world.</p>\n<p>I remember it like 15 years ago.</p>\n<p>Just me and my girl.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-11T16:07:06-04:00",
-            "date_modified": "2026-08-11T16:21:55-04:00"
-        },
-        {
             "id": "https://iterating.com/call-me-bugs/",
             "url": "https://iterating.com/call-me-bugs/",
             "title": "Call Me Bugs",
@@ -148,6 +134,20 @@
             ],
             "date_published": "2026-08-02T20:08:15-04:00",
             "date_modified": "2026-08-02T20:20:37-04:00"
+        },
+        {
+            "id": "https://iterating.com/gone-fishing/",
+            "url": "https://iterating.com/gone-fishing/",
+            "title": "Gone Fishing",
+            "summary": "Ayy seki. Who's knocking on the door? Ayy seki. What? What&hellip;",
+            "content_html": "<p><em>Ayy seki.</em></p>\n<p>Who's knocking on the door?</p>\n<p><em>Ayy seki.</em></p>\n<p>What?</p>\n<p>What do you want?</p>\n<p>Better be dropping off something.</p>\n<p>Something with one of them battery sticker warnings on the box.</p>\n<p><em>That means it's something good.</em></p>\n<p>Or food.</p>\n<p>Food would be nice.</p>\n<p>Oh no.</p>\n<p>It's one of them seekers of knowledge.</p>\n<p>I can tell because they're squirmy and anxious.</p>\n<p>Hat in hand.</p>\n<p>Bright eyed.</p>\n<p>Can't see their tail but I'm betting it's bushy.</p>\n<p>They keep looking for a master.</p>\n<p>Some old wise guy.</p>\n<p>I'm only one of those.</p>\n<p>Two max.</p>\n<p>The thing I learned is, if you don't answer the door, they eventually go away.</p>\n<p>Probably not the best strategy for a guy selling something.</p>\n<p>Wonderful strategy for me.</p>\n<p>Yes!</p>\n<p>They're leaving.</p>\n<p>Yup.</p>\n<p>I was right.</p>\n<p>Bushy.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-28T14:10:33-04:00",
+            "date_modified": "2026-07-28T14:15:57-04:00"
         }
     ]
 }
