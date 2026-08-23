@@ -3,12 +3,46 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-08-22T18:22:31-04:00</updated>
+    <updated>2026-08-23T19:03:39-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Actualization</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/actualization/"/>
+        <id>https://iterating.com/actualization/</id>
+
+        <updated>2026-08-23T19:03:34-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I don't want you to get the wrong idea. I want&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I don't want you to get the wrong idea.</p>
+<p>I want you to get the right idea.</p>
+<p>So which ones do you get?</p>
+<p>I'm hoping the latter.</p>
+<p>But as we all know, ideas are everywhere.</p>
+<p>Free and contagious.</p>
+<p>Wrong idea gets you, whooo boy.</p>
+<p>But a right one.</p>
+<p>A right one.</p>
+<p>Goes the other way.</p>
+<p>Now a good idea only gets you so far.</p>
+<p>You need to act upon the idea.</p>
+<p>To turn it from thought into thing.</p>
+<p>I would call it Actualization, but hey, I already did.</p>
+<p>💭 to 🈚</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Asian Raisins</title>
         <author>
@@ -545,44 +579,6 @@
 <p>So for Big T.</p>
 <p>And big G.</p>
 <p>Thank you for the blessings.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Call Me Bugs</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/call-me-bugs/"/>
-        <id>https://iterating.com/call-me-bugs/</id>
-
-        <updated>2026-08-10T12:30:35-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Musings columns are a funny thing. They used to call them&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Musings columns are a funny thing.</p>
-<p>They used to call them blogs but that's just a terrible name.</p>
-<p>Blogs.</p>
-<p><em>Yuck.</em></p>
-<p>Not my favorite word.</p>
-<p>I tend to write in a way that sometimes contains more meaning than it appears at first glance.</p>
-<p>I seek to reward (or at the very least, a muse) the reader for picking up what I'm putting down.</p>
-<p>Easter eggs.</p>
-<p>Hidden layers.</p>
-<p>Buried treasures.</p>
-<p>And who doesn't like a treasure hunt?</p>
-<p>Not to say all these musings have gems in them.</p>
-<p>Some are just turds.</p>
-<p>It's part of the fun.</p>
-<p>Sifting through all the dirt.</p>
-<p>To find the glimmer.</p>
-<p>There's a line about glimmer and gold but I don't think it's useful here.</p>
-<p>Call me a fool.</p>
-<p>🥕</p>
             ]]>
         </content>
     </entry>

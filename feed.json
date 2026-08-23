@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/actualization/",
+            "url": "https://iterating.com/actualization/",
+            "title": "Actualization",
+            "summary": "I don't want you to get the wrong idea. I want&hellip;",
+            "content_html": "<p>I don't want you to get the wrong idea.</p>\n<p>I want you to get the right idea.</p>\n<p>So which ones do you get?</p>\n<p>I'm hoping the latter.</p>\n<p>But as we all know, ideas are everywhere.</p>\n<p>Free and contagious.</p>\n<p>Wrong idea gets you, whooo boy.</p>\n<p>But a right one.</p>\n<p>A right one.</p>\n<p>Goes the other way.</p>\n<p>Now a good idea only gets you so far.</p>\n<p>You need to act upon the idea.</p>\n<p>To turn it from thought into thing.</p>\n<p>I would call it Actualization, but hey, I already did.</p>\n<p>💭 to 🈚</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-23T19:03:34-04:00",
+            "date_modified": "2026-08-23T19:03:39-04:00"
+        },
+        {
             "id": "https://iterating.com/asian-raisins/",
             "url": "https://iterating.com/asian-raisins/",
             "title": "Asian Raisins",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-08-12T13:05:52-04:00",
             "date_modified": "2026-08-12T13:20:35-04:00"
-        },
-        {
-            "id": "https://iterating.com/call-me-bugs/",
-            "url": "https://iterating.com/call-me-bugs/",
-            "title": "Call Me Bugs",
-            "summary": "Musings columns are a funny thing. They used to call them&hellip;",
-            "content_html": "<p>Musings columns are a funny thing.</p>\n<p>They used to call them blogs but that's just a terrible name.</p>\n<p>Blogs.</p>\n<p><em>Yuck.</em></p>\n<p>Not my favorite word.</p>\n<p>I tend to write in a way that sometimes contains more meaning than it appears at first glance.</p>\n<p>I seek to reward (or at the very least, a muse) the reader for picking up what I'm putting down.</p>\n<p>Easter eggs.</p>\n<p>Hidden layers.</p>\n<p>Buried treasures.</p>\n<p>And who doesn't like a treasure hunt?</p>\n<p>Not to say all these musings have gems in them.</p>\n<p>Some are just turds.</p>\n<p>It's part of the fun.</p>\n<p>Sifting through all the dirt.</p>\n<p>To find the glimmer.</p>\n<p>There's a line about glimmer and gold but I don't think it's useful here.</p>\n<p>Call me a fool.</p>\n<p>🥕</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-10T12:30:35-04:00",
-            "date_modified": "2026-08-10T12:32:01-04:00"
         }
     ]
 }
