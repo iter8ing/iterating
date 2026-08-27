@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/do-or-do-not-there-is-no-try/",
+            "url": "https://iterating.com/do-or-do-not-there-is-no-try/",
+            "title": "Do Or Do Not. There Is No Try",
+            "summary": "\"Never treat the highly likely as certain and the highly unlikely&hellip;",
+            "content_html": "<blockquote>\n<p>\"Never treat the highly likely as certain and the highly unlikely as impossible.\"</p>\n</blockquote>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-26T20:46:19-04:00",
+            "date_modified": "2026-08-26T20:46:19-04:00"
+        },
+        {
             "id": "https://iterating.com/kinda-mean/",
             "url": "https://iterating.com/kinda-mean/",
             "title": "Kinda Mean",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-08-17T18:29:35-04:00",
             "date_modified": "2026-08-18T19:11:44-04:00"
-        },
-        {
-            "id": "https://iterating.com/full-faith/",
-            "url": "https://iterating.com/full-faith/",
-            "title": "Full Faith",
-            "summary": "You ever notice, in our favorite stories, how there's a person&hellip;",
-            "content_html": "<p>You ever notice, in our favorite stories, how there's a person who's kinda clueless?</p>\n<p>Young person.</p>\n<p>Bumbling through life.</p>\n<p>That's who most of us want to be, or at least who we relate to the most.</p>\n<p>But there's an old(ish) person, too.</p>\n<p>One who's got it all figured out.</p>\n<p>Been there, done that.</p>\n<p>Who can show the young one the way, if the young one would only listen.</p>\n<p>And that's sort of the whole point of the story.</p>\n<p>Sure, beat the evil dude at the end, fall in love, live happily ever after, but the story is mostly about the oldie teaching the youngun.</p>\n<p>The strange part is most of us grow up wanting to be the bumbler.</p>\n<p>The Lukes.</p>\n<p>The Daniel-sans.</p>\n<p>The Rockys.</p>\n<p>The Chris Farleys.</p>\n<p>🥋</p>\n<p>No one wants to be Yoda.</p>\n<p>Miyagi.</p>\n<p>Mick.</p>\n<p>Sensei.</p>\n<p>We want to train to fight in the main event.</p>\n<p>We don't want to remember being in the main event.</p>\n<p>And that's the part that's sort of funny.</p>\n<p>Because as I get older, and do things like wonder what my call sign would be if I had a call sign.</p>\n<p>Al \"Yoda\" Chung.</p>\n<p><em>Badarse.</em></p>\n<p>Now I'm pretty(.) tall for my race. I'm golden, not green. Ears stick out but not that much.</p>\n<p>But the rest of it works; I like it.</p>\n<p>I know I couldn't use it commercially.</p>\n<p>But I don't use things commercially.</p>\n<p>Just for my own amusement.</p>\n<p>I don't know where I'm going with this other than to say:</p>\n<p>[In Yoda voice:] Luminous beings are we, not this crude matter.</p>\n<p>🤢</p>\n<p>Oh, I know where I'm going.</p>\n<p>The best stories might be about the bumbler.</p>\n<p>The one you root for.</p>\n<p>To get it all figured out.</p>\n<p>But who you should want to be, what we are all striving for, is the one who already did it.</p>\n<p>Who already fought (and hopefully, but not required, won) the good fight.</p>\n<p>Who has finished the course.</p>\n<p>Who has kept the faith.</p>\n<p>And who keeps it to this day.</p>\n<p>To legends.</p>\n<p>I see you.</p>\n<p>Yoda out.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-14T12:58:18-04:00",
-            "date_modified": "2026-08-14T13:15:01-04:00"
         }
     ]
 }
