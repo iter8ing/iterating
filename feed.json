@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/game-in-the-skin/",
+            "url": "https://iterating.com/game-in-the-skin/",
+            "title": "Game In The Skin",
+            "summary": "The most intolerant wins. You ever think about that? Now, I&hellip;",
+            "content_html": "<p>The most intolerant wins.</p>\n<p>You ever think about that?</p>\n<p>Now, I consider myself a laid back fellow.</p>\n<p><em>LOL.</em></p>\n<p>Like a lot of us.</p>\n<p>Most of us just doing our thing.</p>\n<p>Minding our own.</p>\n<p>You got a problem with that?</p>\n<p>Well, you will probably win.</p>\n<p>It's fooked up but that's why we're here.</p>\n<p>Remember gluten free?</p>\n<p>The thing is, most of it doesn't seem like a big deal.</p>\n<p>So we shrug it off.</p>\n<p>I'm only inconvenienced.</p>\n<p><em>Does this have seed oil?</em></p>\n<p>Oh for the love of...</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-03T16:07:57-04:00",
+            "date_modified": "2026-09-03T16:07:57-04:00"
+        },
+        {
             "id": "https://iterating.com/all-ive-got-is-an-autograph/",
             "url": "https://iterating.com/all-ive-got-is-an-autograph/",
             "title": "All I&#x27;ve Got Is An Autograph",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-08-26T15:39:57-04:00",
             "date_modified": "2026-08-26T16:12:52-04:00"
-        },
-        {
-            "id": "https://iterating.com/angels-on-my-shoulders/",
-            "url": "https://iterating.com/angels-on-my-shoulders/",
-            "title": "Angels On My Shoulders",
-            "summary": "You don't need the new Mac Mini. Yes, I do. No,&hellip;",
-            "content_html": "<p><em>You don't need the new Mac Mini.</em></p>\n<p>Yes, I do.</p>\n<p><em>No, you don't.</em></p>\n<p>But.</p>\n<p><em>You already have too much tech.</em></p>\n<p>Well, I should.</p>\n<p>I'm a tech influencer.</p>\n<p><em>No, you are most certainly not.</em></p>\n<p>So it turns out, I'm not a tech influencer.</p>\n<p>Which is news to me.</p>\n<p>I thought everybody watched my videos.</p>\n<p><em>You don't make any videos.</em></p>\n<p>Hit the like and subscribe, fam.</p>\n<p>Do they have those for musings columns?</p>\n<p>I want a big arse award mailed to me with a book logo made of platinum.</p>\n<p>📓</p>\n<p>Something to let me know I made it.</p>\n<p>I'll put it next to my new Mac Mini.</p>\n<p>M6!</p>\n<p>M5 Pro is better!</p>\n<p>Which is weird nomenclature but welcome to the way we do things, now.</p>\n<p>📓🍎</p>\n<p>Sweet.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-08-25T17:47:33-04:00",
-            "date_modified": "2026-08-25T19:39:14-04:00"
         }
     ]
 }
