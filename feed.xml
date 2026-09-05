@@ -3,12 +3,55 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-09-04T13:20:19-04:00</updated>
+    <updated>2026-09-05T15:12:22-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>...</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com//"/>
+        <id>https://iterating.com//</id>
+
+        <updated>2026-09-05T15:12:22-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    One thing I noticed... About really bright minds... Is when you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>One thing I noticed...</p>
+<p>About really bright minds...</p>
+<p>Is when you ask them a question...</p>
+<p>...they pause...</p>
+<p>Before answering...</p>
+<p>You can see the gears turning...</p>
+<p>...⚙...</p>
+<p>I've known idiots who consider this low wattage.</p>
+<p>But they're idiots for a reason.</p>
+<p><em>Idiots.</em></p>
+<p>So anyways, I'm going to start pausing when I answer now.</p>
+<p>You have to do it almost to the point of discomfort.</p>
+<p>Then wait a little bit longer.</p>
+<p>Then answer.</p>
+<p>Ideally, you'd do so with a poignant response.</p>
+<p>Well thought out and pre-reasoned.</p>
+<p>But this is ideal.</p>
+<p>Not necessary.</p>
+<p>The necessary part is to look like you're doing it.</p>
+<p>...I might have that all wrong...</p>
+<p>...</p>
+<p>...</p>
+<p>...</p>
+<p>...But don't we all?...</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Where Are You Going, Pilgrim?</title>
         <author>
@@ -563,28 +606,6 @@
 <p>Work on that.</p>
 <p>I gotta use the can.</p>
 <p><em>This man walking around here like he's Ray Kroc.</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Forgones and Black Swans</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/forgones-and-black-swans/"/>
-        <id>https://iterating.com/forgones-and-black-swans/</id>
-
-        <updated>2026-08-26T20:46:19-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    "Never treat the highly likely as certain and the highly unlikely&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>"Never treat the highly likely as certain and the highly unlikely as impossible."</p>
-</blockquote>
             ]]>
         </content>
     </entry>
