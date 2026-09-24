@@ -3,7 +3,7 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-09-24T13:27:58-04:00</updated>
+    <updated>2026-09-24T13:35:17-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
@@ -20,12 +20,17 @@
         <updated>2026-09-24T13:18:01-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Since you all come here for advice. [Covers mic.] Why do&hellip;
+                    "You mean out?" "Yeah. Out." "Far out." Since you all come&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Since you all come here for advice.</p>
+                <blockquote>
+<p>"You mean out?"</p>
+<p>"Yeah. Out."</p>
+<p>"Far out."</p>
+</blockquote>
+<p>Since you all come here for advice.</p>
 <p>[Covers mic.]</p>
 <p>Why do people come here?</p>
 <p><em>They probably typed "iterating.com" into their browser to see where it went.</em></p>
