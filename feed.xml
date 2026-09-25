@@ -3,12 +3,32 @@
     <title>Iterating</title>
     <link href="https://iterating.com/feed.xml" rel="self" />
     <link href="https://iterating.com" />
-    <updated>2026-09-25T13:59:13-04:00</updated>
+    <updated>2026-09-25T15:11:10-04:00</updated>
     <author>
         <name>𖤂</name>
     </author>
     <id>https://iterating.com</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>𖤂</name>
+        </author>
+        <link href="https://iterating.com/test/"/>
+        <id>https://iterating.com/test/</id>
+
+        <updated>2026-09-25T15:11:10-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    123
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>123</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Winners and Losers</title>
         <author>
@@ -662,88 +682,6 @@
 <p>A musings column.</p>
 <p>I want you to understand the difference.</p>
 <p>You need to.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>No Wizards</title>
-        <author>
-            <name>𖤂</name>
-        </author>
-        <link href="https://iterating.com/no-wizards/"/>
-        <id>https://iterating.com/no-wizards/</id>
-
-        <updated>2026-09-15T13:34:04-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Do you want the truth or do you want the hope?&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Do you want the truth or do you want the hope?</p>
-<p>Truth is we all got a finite timeline.</p>
-<p>Walking this earth.</p>
-<p>A begin date.</p>
-<p>And a date with destiny.</p>
-<p>Everything in between is life.</p>
-<p>The hope is, then, that there's something that turns on when the lights go out.</p>
-<p>That's the truth.</p>
-<p>That's the hope.</p>
-<p>The truth is, most folk don't want it.</p>
-<p>The truth that is.</p>
-<p>They think they do, but they really want the hope.</p>
-<p>Truth is often nasty.</p>
-<blockquote>
-<p>"You can't handle the truth!"</p>
-</blockquote>
-<p>Dirty.</p>
-<p>Filthy.</p>
-<p>Horrific beyond conceivability.</p>
-<blockquote>
-<p>"There are some books that are never meant to be read."</p>
-</blockquote>
-<p>But truth can also be wondrous.</p>
-<p>Magical.</p>
-<p>The best beyond all belief.</p>
-<p><em>Wuv. True wuv.</em></p>
-<p>And that's the truth most want.</p>
-<p>I hope.</p>
-<p>And so, truth seekers, seek more hope.</p>
-<p>And hope seekers, well, keep doing your thing.</p>
-<p>The people who seek truth wear it on their flesh.</p>
-<p>It's broken them, if they've sought it long enough.</p>
-<p>But those who seek hope, glow.</p>
-<p>The longer they've done it, the deeper the radiance.</p>
-<p>I've turned more hope into truth, I still can't believe it.</p>
-<p>It don't even make sense looking back.</p>
-<p>I think I glow.</p>
-<p><em>That's just the radiation and platinum in your body.</em></p>
-<p>☢</p>
-<p>That sheet just gave me a superpower.</p>
-<p>Mutated to thankful.</p>
-<p>Grateful.</p>
-<p>Humble(ish).</p>
-<p>So pay no attention to the man behind the curtain.</p>
-<p>He's doing atrocious things to keep the world churning.</p>
-<p>Same as it ever was.</p>
-<p>Embrace the road.</p>
-<p>Gold-bricked.</p>
-<p>Ruby slippered.</p>
-<p>With your people.</p>
-<p>Follow it, and it will take you home.</p>
-<p><em>Fowo you foeva.</em></p>
-<p>I hope.</p>
-<p>Hey, would you look at that.</p>
-<p>You've had it with you all along.</p>
-<p>👠</p>
-<p>That's the gospel truth.</p>
-<p>Click.</p>
-<p>Click.</p>
-<p><span style="text-decoration: line-through;">Boom.</span></p>
-<p>Click.</p>
-<blockquote>"You used to be fun. You used to be warped and twisted and hilarious... and I mean that in the best way. I mean it as a compliment!"</blockquote>
-<blockquote>"I was hilarious once, wasn't I?</blockquote>
             ]]>
         </content>
     </entry>
