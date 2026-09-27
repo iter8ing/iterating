@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/painting-metrics/",
+            "url": "https://iterating.com/painting-metrics/",
+            "title": "Painting Metrics",
+            "summary": "You would think, as studious as I am, that I'd be&hellip;",
+            "content_html": "<p>You would think, as studious as I am, that I'd be a data guy.</p>\n<p>Crunching unctuous numbers.</p>\n<p>But you'd be wrong.</p>\n<p>Because I'm an art guy.</p>\n<p><em>Vibes, baby.</em></p>\n<p>Not a science.</p>\n<p>You see, it's because data often lies.</p>\n<p>Take for example, stats for football.</p>\n<p>Guy throws an interception. </p>\n<p>Looks bad right?</p>\n<p>On paper.</p>\n<p>But what if it only happened because it went right through the wide receiver's hands?</p>\n<p>Thrown perfectly, not caught.</p>\n<p>INT.</p>\n<p>Numbers sometimes tell a story, but not the whole story.</p>\n<p>And so a QB could have a great night but it doesn't look like it through no fault of his own.</p>\n<p>The trick then is, as a QB, to not lose confidence if you know you're doing everything right.</p>\n<p>Just like you shouldn't get too confident because your teammates make spectacular catches on bad throws.</p>\n<p>It's a numbers game.</p>\n<p>But the science is in the art. </p>\n<p>Numbers tell the truth.</p>\n<p>But not the whole truth.</p>\n<p>I swear.</p>\n<p>So help me, God.</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-27T14:41:24-04:00",
+            "date_modified": "2026-09-27T14:41:24-04:00"
+        },
+        {
             "id": "https://iterating.com/its-not-a-triangle-its-a-pyramid/",
             "url": "https://iterating.com/its-not-a-triangle-its-a-pyramid/",
             "title": "It&#x27;s Not A Triangle, It&#x27;s A Pyramid!",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-09-17T13:50:55-04:00",
             "date_modified": "2026-09-17T13:58:02-04:00"
-        },
-        {
-            "id": "https://iterating.com/must-have-versus-nice-to-have/",
-            "url": "https://iterating.com/must-have-versus-nice-to-have/",
-            "title": "Must Have Versus Nice To Have",
-            "summary": "Unlimited wants. Limited needs. Ever hear that? It's this idea that&hellip;",
-            "content_html": "<p>Unlimited wants.</p>\n<p>Limited needs.</p>\n<p>Ever hear that?</p>\n<p>It's this idea that you really only need a few things.</p>\n<p>But you want everything.</p>\n<p>Or at least, that's the theory.</p>\n<p>And that the less you truly need, the better.</p>\n<p>And so you ask yourself, \"Self, do I <em>want</em> this or do I <em>need</em> this?\"</p>\n<p>If the subject is oxygen, the answer is need.</p>\n<p>If the subject is another product made by the fruit company, the answer is want.</p>\n<p>Sometimes, needs feel like wants and wants feel like needs.</p>\n<p>So what do you want that feels like a need?</p>\n<p>And, more importantly, what is a need that feels like a want?</p>\n<p>You will find that the wants stack is voluminous.</p>\n<p>Encyclopedic.</p>\n<p>And that the needs stack is a pretty quick read.</p>\n<p>A musings column.</p>\n<p>I want you to understand the difference.</p>\n<p>You need to.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-16T17:14:21-04:00",
-            "date_modified": "2026-09-16T19:07:49-04:00"
         }
     ]
 }
