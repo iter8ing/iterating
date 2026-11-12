@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/look-up-love-laugh-and-lift/",
+            "url": "https://iterating.com/look-up-love-laugh-and-lift/",
+            "title": "Look Up, Love, Laugh and Lift",
+            "summary": "I would be true, for there are those who trust me;&hellip;",
+            "content_html": "<blockquote>\n<p>I would be true, for there are those who trust me;</p>\n<p>I would be pure, for there are those who care;</p>\n<p>I would be strong, for there is much to suffer;</p>\n<p>I would be brave, for there is much to dare.</p>\n<p>I would be friend of all—the foe, the friendless;</p>\n<p>I would be giving, and forget the gift,</p>\n<p>I would be humble, for I know my weakness,</p>\n<p>I would look up, and love, and laugh and lift.</p>\n<p>- Howard Walter</p>\n</blockquote>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-12T11:12:37-05:00",
+            "date_modified": "2026-11-12T11:12:37-05:00"
+        },
+        {
             "id": "https://iterating.com/double-victory/",
             "url": "https://iterating.com/double-victory/",
             "title": "Double Victory",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-11-02T14:40:56-05:00",
             "date_modified": "2026-11-02T14:40:56-05:00"
-        },
-        {
-            "id": "https://iterating.com/instant-healing-over-time/",
-            "url": "https://iterating.com/instant-healing-over-time/",
-            "title": "Instant Healing, Over Time",
-            "summary": "I'd like to think I'm tough. But I'm not. I'm not&hellip;",
-            "content_html": "<p>I'd like to think I'm tough.</p>\n<p>But I'm not.</p>\n<p>I'm not tough.</p>\n<p><em>Yes, you are.</em></p>\n<p>At least when compared to my loved ones.</p>\n<p><em>Oh, sure.</em></p>\n<p>Who have had to take care of me for so many years.</p>\n<p>And have to do so again.</p>\n<p>My children have stepped up and taken everything in stride.</p>\n<p>Tough times make for tough people.</p>\n<p>But no one's been stronger, is stronger, than my wife.</p>\n<p>She's been with me through sickness and in health.</p>\n<p>For richer and poorer.</p>\n<p>And she's trying her best to get me to health.</p>\n<p>As a man, it both crushes and strengthens me that she is working so diligently to keep everything as normal as possible considering the circumstances.</p>\n<p>And they are kinda strange circumstances.</p>\n<p>But such is my life.</p>\n<p>So much of life requires physical toughness.</p>\n<p>But so much more important is mental toughness.</p>\n<p>Spiritual toughness.</p>\n<p>So the thing I'd say is God is giving me the grace to write a little again, which implies so much beyond just the surface benefit.</p>\n<p>I couldn't write for weeks.</p>\n<p>Didn't even want to if I could.</p>\n<p>And with my few words here I want to advise you to work on your mental and spiritual toughness.</p>\n<p>And silver lining wise, that really can only happen when you're in the sheet.</p>\n<p>A silver lining to the sheet.</p>\n<p>So here we go again.</p>\n<p>Day by day.</p>\n<p>Hour by hour.</p>\n<p>Inch by inch.</p>\n<p>Let's see what I'm made of.</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-11-01T13:45:06-05:00",
-            "date_modified": "2026-11-01T13:58:54-05:00"
         }
     ]
 }
