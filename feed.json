@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://iterating.com/nutritional-information/",
+            "url": "https://iterating.com/nutritional-information/",
+            "title": "Nutritional Information",
+            "summary": "Today is one of those musings that's really just me projecting.",
+            "content_html": "<p>Today is one of those musings that's really just me projecting.</p>\n<p>You need to control what you consume better.</p>\n<p>You're doing a better job food wise.</p>\n<p>But I'm talking information.</p>\n<p>Input curation.</p>\n<p>The algorithm punishes as much as it rewards.</p>\n<p>I suppose ai could help you curate.</p>\n<p>But why not try yourself.</p>\n<p>If you're sitting through something that is not providing education, entertainment, and/or enlightenment, maybe it's time to eliminate.</p>\n<p>Even if it means the best musings column on the internet.</p>\n<p>💻</p>",
+            "author": {
+                "name": "𖤂"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-24T11:12:37-05:00",
+            "date_modified": "2026-11-24T11:12:37-05:00"
+        },
+        {
             "id": "https://iterating.com/health-is-wealth/",
             "url": "https://iterating.com/health-is-wealth/",
             "title": "Health Is Wealth",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-11-15T17:14:24-05:00",
             "date_modified": "2026-11-15T17:14:24-05:00"
-        },
-        {
-            "id": "https://iterating.com/royal-ramble/",
-            "url": "https://iterating.com/royal-ramble/",
-            "title": "Royal Ramble",
-            "summary": "So how's everyone doing out there? You good? I'm good enough&hellip;",
-            "content_html": "<p>So how's everyone doing out there?</p>\n<p>You good?</p>\n<p>I'm good enough to type a musing.</p>\n<p>Although the quality I'll leave up to you.</p>\n<p>Not that this all that, but I'm glad to be writing again.</p>\n<p>The body is incredibly adaptable.</p>\n<p>Perhaps too much so.</p>\n<p>You can learn to live with a lot of crap.</p>\n<p>You can learn to live with so much.</p>\n<p>It can even begin to feel normal.</p>\n<p>What is abnormal is now normal.</p>\n<p>I have the distinct advantage of never being normal a day in my life.</p>\n<p>So I'm used to this \"being different\" thing.</p>\n<p>You might be, too.</p>\n<p>At the end of the night, I'm a motivational speaker.</p>\n<p>At least, I'd like to think so.</p>\n<p>So I want to tell you what you're going through right now.</p>\n<p>Good, bad, everything.</p>\n<p>It'll pass.</p>\n<p>It's just about getting through it.</p>\n<p>My friend used to say \"inch by inch.\"</p>\n<p>Like a tortoise.</p>\n<p>🐢</p>\n<p>But it's really about getting through the next X seconds.</p>\n<p>Getting through the next second, minute, hour, day, week.</p>\n<p>You get the ⏳.</p>\n<p>I hear Einstein said time's an illusion.</p>\n<p>Past, present, and future.</p>\n<p>Same thing.</p>\n<p>Instead of now, there's this 4D cube that has everything that has ever happened and ever will happen.</p>\n<p>To me, \"science\" has always been so much more wildly unbelievable than the idea that there's God.</p>\n<p>Sure, it simplifies things.</p>\n<p>But I like simple.</p>\n<p>I was able to survive something that oofs folks.</p>\n<p>But it came and comes with consequences.</p>\n<p>I keep and bear them as the cost of survival.</p>\n<p>Side effects, they sometimes call them.</p>\n<p>But nothing side about them.</p>\n<p>They seem main effects to me.</p>\n<p>But listen, I don't write a negative musings column.</p>\n<p>So I want you to listen.</p>\n<p>Listen really close.</p>\n<p>Consequence is the finest teacher.</p>\n<p>And healing can be instant, but it is often nonlinear.</p>\n<p>And yes, you can get used to the suck.</p>\n<p>If you have to.</p>\n<p>I hope I don't have to for long.</p>\n<p>But I have been.</p>\n<p>Action -&gt; Consequence.</p>\n<p>I learn lessons every day.</p>\n<p>God (in his 4D cube) is the greatest teacher.</p>\n<p>👑</p>",
-            "author": {
-                "name": "𖤂"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-11-13T12:51:16-05:00",
-            "date_modified": "2026-11-13T12:52:10-05:00"
         }
     ]
 }
